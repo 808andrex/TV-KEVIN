@@ -1,0 +1,36 @@
+name: Actualizar EPG GatoTV
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Se ejecuta todos los días a las 06:00 UTC
+  workflow_dispatch: # Te permite ejecutarlo manualmente desde la web de GitHub
+
+jobs:
+  generar-epg:
+    
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # <--- ESTA ES LA LÍNEA CLAVE
+
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24' # Cambia de 20 a 24
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Ejecutar el scraper de GatoTV
+        run: node index.js
+
+      - name: Guardar y subir el nuevo EPG
+        run: |
+          git config --global user.name 'GitHub Action Bot'
+          git config --global user.email 'action@github.com'
+          git add mi_guia.xml
+          # Solo hace commit si el archivo realmente cambió
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Actualización automática del EPG" && git push)

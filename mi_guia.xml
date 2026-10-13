@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="espn.ar">
+    <display-name>ESPN Argentina</display-name>
+  </channel>
+  <channel id="espn2.ar">
+    <display-name>ESPN 2 Argentina</display-name>
+  </channel>
+  <channel id="espn3.ar">
+    <display-name>ESPN 3 Argentina</display-name>
+  </channel>
+  <channel id="espn4.ec">
+    <display-name>ESPN 4</display-name>
+  </channel>
+  <channel id="espn5.ec">
+    <display-name>ESPN 5</display-name>
+  </channel>
+  <channel id="espn6.ec">
+    <display-name>ESPN 6</display-name>
+  </channel>
+  <channel id="espn7.ec">
+    <display-name>ESPN 7</display-name>
+  </channel>
+</tv>
