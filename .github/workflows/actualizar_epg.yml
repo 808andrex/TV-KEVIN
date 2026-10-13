@@ -22,7 +22,7 @@ jobs:
           node-version: '24' # Cambia de 20 a 24
 
       - name: Instalar dependencias
-        run: npm install
+        run: npm install && npm install puppeteer
 
       - name: Ejecutar el scraper de GatoTV
         run: node index.js

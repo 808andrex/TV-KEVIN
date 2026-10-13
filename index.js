@@ -1,9 +1,8 @@
-const axios = require('axios');
+const puppeteer = require('puppeteer');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const { create } = require('xmlbuilder2');
 
-// Función para pausar el script (evita que GatoTV nos bloquee)
 const esperar = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 function formatearFecha(horaStr) {
@@ -27,30 +26,34 @@ const canales = [
 ];
 
 async function generarEPG() {
-    console.log('Iniciando generador de EPG múltiple...\n');
-
-    // 1. Iniciamos la estructura base del XML
+    console.log('Iniciando generador de EPG con un navegador real (Puppeteer)...\n');
+    
     const root = create({ version: '1.0', encoding: 'UTF-8' }).ele('tv');
 
-    // 2. Iteramos sobre nuestra lista de canales
+    // Lanzamos el navegador invisible. Los argumentos son vitales para GitHub Actions
+    const browser = await puppeteer.launch({
+        headless: true,
+        args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage']
+    });
+    const page = await browser.newPage();
+    
+    // Simulamos ser una persona usando Chrome en Windows
+    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36');
+
     for (const canal of canales) {
         console.log(`📡 Procesando canal: ${canal.nombre} ...`);
-
-        // Añadimos la información del canal al XML
+        
         root.ele('channel', { id: canal.id })
             .ele('display-name').txt(canal.nombre).up()
             .up();
 
         try {
-            // ⚠️ AQUÍ ESTÁ EL CAMBIO CLAVE: Agregamos el User-Agent para evitar el bloqueo en GitHub
-            const respuesta = await axios.get(canal.url, {
-                headers: {
-                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
-                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8'
-                }
-            });
-            console.log("HTML RECIBIDO:", respuesta.data.substring(0, 300));
-            const $ = cheerio.load(respuesta.data);
+            // Navegamos a la URL y esperamos a que el tráfico de red se detenga (JS cargado)
+            await page.goto(canal.url, { waitUntil: 'networkidle2', timeout: 45000 });
+            
+            // Extraemos todo el HTML ya renderizado por el navegador
+            const content = await page.content();
+            const $ = cheerio.load(content);
             let contadorProgramas = 0;
 
             $('table tr').each((i, elemento) => {
@@ -62,26 +65,25 @@ async function generarEPG() {
                 if (horaInicio.includes(':') && titulo && horaInicio.length <= 5 && !titulo.includes('Horarios para hoy')) {
                     const start = formatearFecha(horaInicio);
                     const stop = formatearFecha(horaFin);
-
+                    
                     root.ele('programme', { start: start, stop: stop, channel: canal.id })
                         .ele('title').txt(titulo).up()
                         .up();
-
+                    
                     contadorProgramas++;
                 }
             });
 
             console.log(`    ✔️  ${contadorProgramas} programas añadidos.`);
-
-            // Esperamos 2 segundos antes de ir al siguiente canal de la lista
-            await esperar(2000);
+            await esperar(3000); // Pausa ligeramente mayor para no saturar al servidor
 
         } catch (error) {
             console.error(`    ❌ Error al procesar ${canal.nombre}:`, error.message);
         }
     }
 
-    // 3. Transformamos todo a texto y lo guardamos
+    await browser.close(); // Cerramos el navegador
+
     const xml = root.end({ prettyPrint: true });
     fs.writeFileSync('mi_guia.xml', xml);
     console.log('\n¡Proceso finalizado! Revisa el archivo "mi_guia.xml".');
