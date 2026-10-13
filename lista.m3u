@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/808andrex/TV-KEVIN/refs/heads/main/mi_guia.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/808andrex/Tv-Kevin/refs/heads/master/mi_guia.xml"
 
 #EXTINF:-1 tvg-id="espn.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes",ESPN 1
 #EXTVLCOPT:http-reconnect=true
