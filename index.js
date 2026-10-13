@@ -1,8 +1,9 @@
-const puppeteer = require('puppeteer');
+const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const { create } = require('xmlbuilder2');
 
+// Función para pausar el script (evita que GatoTV nos bloquee)
 const esperar = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 function formatearFecha(horaStr) {
@@ -15,45 +16,35 @@ function formatearFecha(horaStr) {
 }
 
 // 📌 AQUÍ CONFIGURAS TU LISTA DE CANALES
+// Asegúrate de que el 'id' coincida EXACTAMENTE con el tvg-id de tu lista .m3u
 const canales = [
   { id: 'espn.ar', nombre: 'ESPN Argentina', url: 'https://www.gatotv.com/canal/espn_argentina' },
-  { id: 'espn2.ar', nombre: 'ESPN 2 Argentina', url: 'https://www.gatotv.com/canal/espn_2_argentina' },
-  { id: 'espn3.ar', nombre: 'ESPN 3 Argentina', url: 'https://www.gatotv.com/canal/espn_3_ecuador' },
+  { id: 'espn3.ar', nombre: 'ESPN 3', url: 'https://www.gatotv.com/canal/espn_3_argentina' },
   { id: 'espn4.ec', nombre: 'ESPN 4', url: 'https://www.gatotv.com/canal/espn_4_ecuador' },
   { id: 'espn5.ec', nombre: 'ESPN 5', url: 'https://www.gatotv.com/canal/espn_5_ecuador' },
-  { id: 'espn6.ec', nombre: 'ESPN 6', url: 'https://www.gatotv.com/canal/espn_6_ecuador' },
-  { id: 'espn7.ec', nombre: 'ESPN 7', url: 'https://www.gatotv.com/canal/espn_7_ecuador' }
+    // Añade más canales así (separados por coma):
+    // { id: 'tyc_sports', nombre: 'TyC Sports', url: 'https://www.gatotv.com/canal/tyc_sports' },
+    // { id: 'telefe', nombre: 'Telefe', url: 'https://www.gatotv.com/canal/telefe' }
 ];
 
 async function generarEPG() {
-    console.log('Iniciando generador de EPG con un navegador real (Puppeteer)...\n');
+    console.log('Iniciando generador de EPG múltiple...\n');
     
+    // 1. Iniciamos la estructura base del XML
     const root = create({ version: '1.0', encoding: 'UTF-8' }).ele('tv');
 
-    // Lanzamos el navegador invisible. Los argumentos son vitales para GitHub Actions
-    const browser = await puppeteer.launch({
-        headless: true,
-        args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage']
-    });
-    const page = await browser.newPage();
-    
-    // Simulamos ser una persona usando Chrome en Windows
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36');
-
+    // 2. Iteramos sobre nuestra lista de canales
     for (const canal of canales) {
         console.log(`📡 Procesando canal: ${canal.nombre} ...`);
         
+        // Añadimos la información del canal al XML
         root.ele('channel', { id: canal.id })
             .ele('display-name').txt(canal.nombre).up()
             .up();
 
         try {
-            // Navegamos a la URL y esperamos a que el tráfico de red se detenga (JS cargado)
-            await page.goto(canal.url, { waitUntil: 'networkidle2', timeout: 45000 });
-            
-            // Extraemos todo el HTML ya renderizado por el navegador
-            const content = await page.content();
-            const $ = cheerio.load(content);
+            const respuesta = await axios.get(canal.url);
+            const $ = cheerio.load(respuesta.data);
             let contadorProgramas = 0;
 
             $('table tr').each((i, elemento) => {
@@ -74,16 +65,17 @@ async function generarEPG() {
                 }
             });
 
-            console.log(`    ✔️  ${contadorProgramas} programas añadidos.`);
-            await esperar(3000); // Pausa ligeramente mayor para no saturar al servidor
+            console.log(`   ✔️  ${contadorProgramas} programas añadidos.`);
+            
+            // Esperamos 2 segundos antes de ir al siguiente canal de la lista
+            await esperar(2000);
 
         } catch (error) {
-            console.error(`    ❌ Error al procesar ${canal.nombre}:`, error.message);
+            console.error(`   ❌ Error al procesar ${canal.nombre}:`, error.message);
         }
     }
 
-    await browser.close(); // Cerramos el navegador
-
+    // 3. Transformamos todo a texto y lo guardamos
     const xml = root.end({ prettyPrint: true });
     fs.writeFileSync('mi_guia.xml', xml);
     console.log('\n¡Proceso finalizado! Revisa el archivo "mi_guia.xml".');
