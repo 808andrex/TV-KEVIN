@@ -12,7 +12,8 @@ function formatearFecha(horaStr) {
     const month = String(fecha.getMonth() + 1).padStart(2, '0');
     const day = String(fecha.getDate()).padStart(2, '0');
     const horaLimpia = horaStr.replace(':', '');
-    return `${year}${month}${day}${horaLimpia}00 -0300`;
+    // Se cambió -0300 por -0500 para usar la zona horaria de Ecuador
+    return `${year}${month}${day}${horaLimpia}00 -0500`; 
 }
 
 // 📌 AQUÍ CONFIGURAS TU LISTA DE CANALES
