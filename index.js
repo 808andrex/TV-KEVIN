@@ -28,14 +28,14 @@ const canales = [
 
 async function generarEPG() {
     console.log('Iniciando generador de EPG múltiple...\n');
-    
+
     // 1. Iniciamos la estructura base del XML
     const root = create({ version: '1.0', encoding: 'UTF-8' }).ele('tv');
 
     // 2. Iteramos sobre nuestra lista de canales
     for (const canal of canales) {
         console.log(`📡 Procesando canal: ${canal.nombre} ...`);
-        
+
         // Añadimos la información del canal al XML
         root.ele('channel', { id: canal.id })
             .ele('display-name').txt(canal.nombre).up()
@@ -49,7 +49,7 @@ async function generarEPG() {
                     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8'
                 }
             });
-            
+            console.log("HTML RECIBIDO:", respuesta.data.substring(0, 300));
             const $ = cheerio.load(respuesta.data);
             let contadorProgramas = 0;
 
@@ -62,17 +62,17 @@ async function generarEPG() {
                 if (horaInicio.includes(':') && titulo && horaInicio.length <= 5 && !titulo.includes('Horarios para hoy')) {
                     const start = formatearFecha(horaInicio);
                     const stop = formatearFecha(horaFin);
-                    
+
                     root.ele('programme', { start: start, stop: stop, channel: canal.id })
                         .ele('title').txt(titulo).up()
                         .up();
-                    
+
                     contadorProgramas++;
                 }
             });
 
             console.log(`    ✔️  ${contadorProgramas} programas añadidos.`);
-            
+
             // Esperamos 2 segundos antes de ir al siguiente canal de la lista
             await esperar(2000);
 
