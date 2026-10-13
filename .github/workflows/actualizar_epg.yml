@@ -10,7 +10,7 @@ jobs:
     
     runs-on: ubuntu-latest
     permissions:
-      contents: write # <--- ESTA ES LA LÍNEA CLAVE
+      contents: write 
 
     steps:
       - name: Descargar el repositorio
