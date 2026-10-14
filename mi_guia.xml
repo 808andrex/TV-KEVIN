@@ -228,4 +228,100 @@
   <programme start="20261013220000 -0500" stop="20261013000000 -0500" channel="espn5.ec">
     <title>Galatasaray SK vs. Barcelona Fútbol UEFA Champions League</title>
   </programme>
+  <channel id="espn6.ec">
+    <display-name>ESPN 6</display-name>
+  </channel>
+  <programme start="20261013000000 -0500" stop="20261013020000 -0500" channel="espn6.ec">
+    <title>West Ham United vs. Queens Park Rangers Fútbol EFL Championship</title>
+  </programme>
+  <programme start="20261013020000 -0500" stop="20261013040000 -0500" channel="espn6.ec">
+    <title>Fútbol Turco Superliga</title>
+  </programme>
+  <programme start="20261013040000 -0500" stop="20261013060000 -0500" channel="espn6.ec">
+    <title>Ajax vs. NEC Nijmegen Fútbol Eredivisie</title>
+  </programme>
+  <programme start="20261013060000 -0500" stop="20261013063000 -0500" channel="espn6.ec">
+    <title>UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20261013063000 -0500" stop="20261013070000 -0500" channel="espn6.ec">
+    <title>FIM Road Racing World Championship Highlights</title>
+  </programme>
+  <programme start="20261013070000 -0500" stop="20261013100000 -0500" channel="espn6.ec">
+    <title>Denver Broncos vs. Los Angeles Chargers Fútbol Americano NFL</title>
+  </programme>
+  <programme start="20261013100000 -0500" stop="20261013115000 -0500" channel="espn6.ec">
+    <title>Instituto Atlético Central Córdoba vs. Boca Juniors Fútbol Argentino Primera División</title>
+  </programme>
+  <programme start="20261013115000 -0500" stop="20261013134000 -0500" channel="espn6.ec">
+    <title>River Plate vs. Estudiantes Fútbol Argentino Primera División</title>
+  </programme>
+  <programme start="20261013134000 -0500" stop="20261013160000 -0500" channel="espn6.ec">
+    <title>Villarreal vs. Napoli Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20261013160000 -0500" stop="20261013180000 -0500" channel="espn6.ec">
+    <title>ESPN Knockout</title>
+  </programme>
+  <programme start="20261013180000 -0500" stop="20261013200000 -0500" channel="espn6.ec">
+    <title>Lens vs. Sporting CP Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20261013200000 -0500" stop="20261013220000 -0500" channel="espn6.ec">
+    <title>Sabah FC vs. SK Slavia Praha Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20261013220000 -0500" stop="20261013000000 -0500" channel="espn6.ec">
+    <title>RB Leipzig vs. PSV Fútbol UEFA Champions League</title>
+  </programme>
+  <channel id="espn7.ec">
+    <display-name>ESPN 7</display-name>
+  </channel>
+  <programme start="20261013000000 -0500" stop="20261013010000 -0500" channel="espn7.ec">
+    <title>Bundesliga Highlights Show</title>
+  </programme>
+  <programme start="20261013010000 -0500" stop="20261013020000 -0500" channel="espn7.ec">
+    <title>UEFA Europa &amp; Conference League Magazine</title>
+  </programme>
+  <programme start="20261013020000 -0500" stop="20261013030000 -0500" channel="espn7.ec">
+    <title>Premier Padel</title>
+  </programme>
+  <programme start="20261013030000 -0500" stop="20261013040000 -0500" channel="espn7.ec">
+    <title>Premier Padel</title>
+  </programme>
+  <programme start="20261013040000 -0500" stop="20261013070000 -0500" channel="espn7.ec">
+    <title>Futbol Americano NFL</title>
+  </programme>
+  <programme start="20261013070000 -0500" stop="20261013072000 -0500" channel="espn7.ec">
+    <title>Futbol Internacional</title>
+  </programme>
+  <programme start="20261013072000 -0500" stop="20261013091000 -0500" channel="espn7.ec">
+    <title>River Plate vs. Estudiantes Fútbol Argentino Primera División</title>
+  </programme>
+  <programme start="20261013091000 -0500" stop="20261013094000 -0500" channel="espn7.ec">
+    <title>UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20261013094000 -0500" stop="20261013114000 -0500" channel="espn7.ec">
+    <title>Ciclismo UCI ProSeries</title>
+  </programme>
+  <programme start="20261013114000 -0500" stop="20261013124000 -0500" channel="espn7.ec">
+    <title>Premier Padel</title>
+  </programme>
+  <programme start="20261013124000 -0500" stop="20261013134000 -0500" channel="espn7.ec">
+    <title>Premier Padel</title>
+  </programme>
+  <programme start="20261013134000 -0500" stop="20261013160000 -0500" channel="espn7.ec">
+    <title>RB Leipzig vs. PSV Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20261013160000 -0500" stop="20261013180000 -0500" channel="espn7.ec">
+    <title>Sabah FC vs. SK Slavia Praha Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20261013180000 -0500" stop="20261013190000 -0500" channel="espn7.ec">
+    <title>Premier Padel</title>
+  </programme>
+  <programme start="20261013190000 -0500" stop="20261013200000 -0500" channel="espn7.ec">
+    <title>NFL Semanal</title>
+  </programme>
+  <programme start="20261013200000 -0500" stop="20261013220000 -0500" channel="espn7.ec">
+    <title>Fútbol EFL Championship</title>
+  </programme>
+  <programme start="20261013220000 -0500" stop="20261013000000 -0500" channel="espn7.ec">
+    <title>Arsenal vs. Lille Fútbol UEFA Champions League</title>
+  </programme>
 </tv>
