@@ -33,6 +33,25 @@ const FUENTES = {
     }
 };
 
+// En el archivo DIRECTVSPORTS1 las horas vienen en UTC aunque estén etiquetadas
+// como -0500. Se convierten a hora de Ecuador (UTC-5) restando 5 horas.
+const HORA_EN_UTC = { DIRECTVSPORTS1: true };
+
+function aHoraEcuador(valor) {
+    const m = /^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/.exec(valor);
+
+    if (!m) return valor;
+
+    const utc = Date.UTC(+m[1], +m[2] - 1, +m[3], +m[4], +m[5], +m[6]);
+    const d = new Date(utc - 5 * 60 * 60 * 1000);
+    const p = n => String(n).padStart(2, '0');
+
+    return (
+        `${d.getUTCFullYear()}${p(d.getUTCMonth() + 1)}${p(d.getUTCDate())}` +
+        `${p(d.getUTCHours())}${p(d.getUTCMinutes())}${p(d.getUTCSeconds())} -0500`
+    );
+}
+
 const decodificar = texto =>
     texto
         .replace(/&amp;/g, '&')
@@ -115,8 +134,8 @@ async function obtenerDSports({ fuente = 'DIRECTVSPORTS1' } = {}) {
 
         programas.push({
             canal: idSalida,
-            start: start[1],
-            stop: stop[1],
+            start: HORA_EN_UTC[fuente] ? aHoraEcuador(start[1]) : start[1],
+            stop: HORA_EN_UTC[fuente] ? aHoraEcuador(stop[1]) : stop[1],
             // cuerpo original (title, desc, etc.)
             cuerpo: m[2]
         });
