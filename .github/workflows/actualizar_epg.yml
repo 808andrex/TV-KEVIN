@@ -1,16 +1,21 @@
-name: Actualizar EPG GatoTV
+name: Actualizar EPG
 
 on:
   schedule:
-    - cron: '0 6 * * *' # Se ejecuta todos los días a las 06:00 UTC
-  workflow_dispatch: # Te permite ejecutarlo manualmente desde la web de GitHub
+    - cron: '0 8 * * *' # 08:00 UTC = 03:00 en Ecuador (UTC-5)
+  workflow_dispatch: # para ejecutarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-epg
+  cancel-in-progress: false
 
 jobs:
   generar-epg:
-    
     runs-on: ubuntu-latest
-    permissions:
-      contents: write 
+    timeout-minutes: 20
 
     steps:
       - name: Descargar el repositorio
@@ -19,18 +24,34 @@ jobs:
       - name: Instalar Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24' # Cambia de 20 a 24
+          node-version: '24'
+          cache: npm
 
       - name: Instalar dependencias
-        run: npm install && npm install puppeteer
+        run: npm ci || npm install
 
-      - name: Ejecutar el scraper de GatoTV
+      - name: Generar la guía
         run: node index.js
 
-      - name: Guardar y subir el nuevo EPG
+      - name: Verificar que la guía no quedó incompleta
         run: |
-          git config --global user.name 'GitHub Action Bot'
-          git config --global user.email 'action@github.com'
+          nuevo=$(grep -c '<programme' mi_guia.xml)
+          anterior=$(git show HEAD:mi_guia.xml 2>/dev/null | grep -c '<programme' || true)
+          echo "Programas: ahora=$nuevo, antes=$anterior"
+          if [ "$nuevo" -lt 1000 ] || [ "$nuevo" -lt $((anterior * 7 / 10)) ]; then
+            echo "::error::La guía quedó mucho más pequeña que la anterior (¿alguna fuente bloqueó a GitHub?). No se sube."
+            exit 1
+          fi
+
+      - name: Subir mi_guia.xml si cambió
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add mi_guia.xml
-          # Solo hace commit si el archivo realmente cambió
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Actualización automática del EPG" && git push)
+          if git diff --staged --quiet; then
+            echo "Sin cambios en mi_guia.xml."
+          else
+            git commit -m "Actualización automática del EPG"
+            git pull --rebase
+            git push
+          fi
