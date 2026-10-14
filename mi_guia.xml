@@ -54,6 +54,60 @@
   <programme start="20261013233000 -0500" stop="20261014003000 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
+  <channel id="espn2.ar">
+    <display-name>ESPN 2</display-name>
+  </channel>
+  <programme start="20261013231500 -0500" stop="20261014001500 -0500" channel="espn2.ar">
+    <title>Italian Serie A Highlights</title>
+  </programme>
+  <programme start="20261014001500 -0500" stop="20261014021500 -0500" channel="espn2.ar">
+    <title>Atalanta vs. Venezia Fútbol: Serie A</title>
+  </programme>
+  <programme start="20261014021500 -0500" stop="20261014023000 -0500" channel="espn2.ar">
+    <title>Lens vs. Paris Saint-Germain Fútbol internacional</title>
+  </programme>
+  <programme start="20261014023000 -0500" stop="20261014030000 -0500" channel="espn2.ar">
+    <title>Fútbol LaLiga</title>
+  </programme>
+  <programme start="20261014030000 -0500" stop="20261014040000 -0500" channel="espn2.ar">
+    <title>Italian Serie A Highlights</title>
+  </programme>
+  <programme start="20261014040000 -0500" stop="20261014050000 -0500" channel="espn2.ar">
+    <title>Bundesliga Highlights Show</title>
+  </programme>
+  <programme start="20261014050000 -0500" stop="20261014090000 -0500" channel="espn2.ar">
+    <title>Tenis ATP Rolex Shanghai Masters 2026</title>
+  </programme>
+  <programme start="20261014090000 -0500" stop="20261014113000 -0500" channel="espn2.ar">
+    <title>Tenis ATP Rolex Shanghai Masters 2026</title>
+  </programme>
+  <programme start="20261014113000 -0500" stop="20261014134000 -0500" channel="espn2.ar">
+    <title>Sabah FC vs. SK Slavia Praha Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20261014134000 -0500" stop="20261014155500 -0500" channel="espn2.ar">
+    <title>Viking FK vs. Bayern de Múnich Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20261014155500 -0500" stop="20261014170000 -0500" channel="espn2.ar">
+    <title>UEFA Europa &amp; Conference League Magazine</title>
+  </programme>
+  <programme start="20261014170000 -0500" stop="20261014183000 -0500" channel="espn2.ar">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261014183000 -0500" stop="20261014193000 -0500" channel="espn2.ar">
+    <title>ESPN Compact</title>
+  </programme>
+  <programme start="20261014193000 -0500" stop="20261014203000 -0500" channel="espn2.ar">
+    <title>ESPN Compact</title>
+  </programme>
+  <programme start="20261014203000 -0500" stop="20261014213000 -0500" channel="espn2.ar">
+    <title>UEFA Champions League Highlights</title>
+  </programme>
+  <programme start="20261014213000 -0500" stop="20261014223000 -0500" channel="espn2.ar">
+    <title>Goles de la Premier League</title>
+  </programme>
+  <programme start="20261014223000 -0500" stop="20261015003000 -0500" channel="espn2.ar">
+    <title>Boca Juniors vs. de Regatas Vasco da Gama Fútbol Conmebol Copa Sudamericana</title>
+  </programme>
   <channel id="espn3.ar">
     <display-name>ESPN 3</display-name>
   </channel>
@@ -323,6 +377,78 @@
   </programme>
   <programme start="20261013220000 -0500" stop="20261014000000 -0500" channel="espn7.ec">
     <title>Arsenal vs. Lille Fútbol UEFA Champions League</title>
+  </programme>
+  <channel id="espn.premium">
+    <display-name>ESPN Premium</display-name>
+  </channel>
+  <programme start="20261013000000 -0500" stop="20261013010000 -0500" channel="espn.premium">
+    <title>ESPN Compact</title>
+  </programme>
+  <programme start="20261013010000 -0500" stop="20261013013000 -0500" channel="espn.premium">
+    <title>FIM Road Racing World Championship Highlights</title>
+  </programme>
+  <programme start="20261013013000 -0500" stop="20261013020000 -0500" channel="espn.premium">
+    <title>UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20261013020000 -0500" stop="20261013040000 -0500" channel="espn.premium">
+    <title>Feyenoord vs. Az Alkmaar Fútbol Eredivisie</title>
+  </programme>
+  <programme start="20261013040000 -0500" stop="20261013060000 -0500" channel="espn.premium">
+    <title>Borussia Dortmund vs. Werder Bremen Fútbol: Bundesliga</title>
+  </programme>
+  <programme start="20261013060000 -0500" stop="20261013070000 -0500" channel="espn.premium">
+    <title>Premier Padel</title>
+  </programme>
+  <programme start="20261013070000 -0500" stop="20261013073000 -0500" channel="espn.premium">
+    <title>FIM Road Racing World Championship Highlights</title>
+  </programme>
+  <programme start="20261013073000 -0500" stop="20261013090000 -0500" channel="espn.premium">
+    <title>Automovilismo Fórmula 1</title>
+  </programme>
+  <programme start="20261013090000 -0500" stop="20261013093000 -0500" channel="espn.premium">
+    <title>ESPN Premium Chile</title>
+  </programme>
+  <programme start="20261013093000 -0500" stop="20261013103000 -0500" channel="espn.premium">
+    <title>Bundesliga Highlights Show</title>
+  </programme>
+  <programme start="20261013103000 -0500" stop="20261013113000 -0500" channel="espn.premium">
+    <title>UEFA Europa &amp; Conference League Magazine</title>
+  </programme>
+  <programme start="20261013113000 -0500" stop="20261013130000 -0500" channel="espn.premium">
+    <title>Sabah FC vs. SK Slavia Praha Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20261013130000 -0500" stop="20261013134000 -0500" channel="espn.premium">
+    <title>ESPN Premium Chile</title>
+  </programme>
+  <programme start="20261013134000 -0500" stop="20261013160000 -0500" channel="espn.premium">
+    <title>Galatasaray SK vs. Barcelona Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20261013160000 -0500" stop="20261013163000 -0500" channel="espn.premium">
+    <title>El Show de la Copa Libertadores</title>
+  </programme>
+  <programme start="20261013163000 -0500" stop="20261013170000 -0500" channel="espn.premium">
+    <title>Bundesliga Highlights Show</title>
+  </programme>
+  <programme start="20261013170000 -0500" stop="20261013173000 -0500" channel="espn.premium">
+    <title>ESPN Premium Chile</title>
+  </programme>
+  <programme start="20261013173000 -0500" stop="20261013183000 -0500" channel="espn.premium">
+    <title>UEFA Europa &amp; Conference League Magazine</title>
+  </programme>
+  <programme start="20261013183000 -0500" stop="20261013190000 -0500" channel="espn.premium">
+    <title>FIM Road Racing World Championship Highlights</title>
+  </programme>
+  <programme start="20261013190000 -0500" stop="20261013200000 -0500" channel="espn.premium">
+    <title>ESPN Compact</title>
+  </programme>
+  <programme start="20261013200000 -0500" stop="20261013210000 -0500" channel="espn.premium">
+    <title>ESPN Compact</title>
+  </programme>
+  <programme start="20261013210000 -0500" stop="20261013230000 -0500" channel="espn.premium">
+    <title>ESPN Premium Chile</title>
+  </programme>
+  <programme start="20261013230000 -0500" stop="20261014010000 -0500" channel="espn.premium">
+    <title>Boca Juniors vs. de Regatas Vasco da Gama Fútbol Conmebol Copa Sudamericana</title>
   </programme>
   <channel id="fox.ar">
     <display-name>FOX Sports</display-name>
