@@ -116,6 +116,15 @@ async function generarEPG() {
                     ) {
                         const minInicio = horaAMinutos(horaInicio);
 
+                        // Si la primera fila cruza la medianoche (ej. 23:15 - 00:15),
+                        // es un programa que empezó ayer y sigue en el día de hoy.
+                        if (
+                            ultimoMin === -1 &&
+                            horaAMinutos(horaFin) <= minInicio
+                        ) {
+                            diaExtra = -1;
+                        }
+
                         if (minInicio < ultimoMin) diaExtra++;
                         ultimoMin = minInicio;
 

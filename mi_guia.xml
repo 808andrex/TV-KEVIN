@@ -57,55 +57,55 @@
   <channel id="espn2.ar">
     <display-name>ESPN 2</display-name>
   </channel>
-  <programme start="20261013231500 -0500" stop="20261014001500 -0500" channel="espn2.ar">
+  <programme start="20261012231500 -0500" stop="20261013001500 -0500" channel="espn2.ar">
     <title>Italian Serie A Highlights</title>
   </programme>
-  <programme start="20261014001500 -0500" stop="20261014021500 -0500" channel="espn2.ar">
+  <programme start="20261013001500 -0500" stop="20261013021500 -0500" channel="espn2.ar">
     <title>Atalanta vs. Venezia Fútbol: Serie A</title>
   </programme>
-  <programme start="20261014021500 -0500" stop="20261014023000 -0500" channel="espn2.ar">
+  <programme start="20261013021500 -0500" stop="20261013023000 -0500" channel="espn2.ar">
     <title>Lens vs. Paris Saint-Germain Fútbol internacional</title>
   </programme>
-  <programme start="20261014023000 -0500" stop="20261014030000 -0500" channel="espn2.ar">
+  <programme start="20261013023000 -0500" stop="20261013030000 -0500" channel="espn2.ar">
     <title>Fútbol LaLiga</title>
   </programme>
-  <programme start="20261014030000 -0500" stop="20261014040000 -0500" channel="espn2.ar">
+  <programme start="20261013030000 -0500" stop="20261013040000 -0500" channel="espn2.ar">
     <title>Italian Serie A Highlights</title>
   </programme>
-  <programme start="20261014040000 -0500" stop="20261014050000 -0500" channel="espn2.ar">
+  <programme start="20261013040000 -0500" stop="20261013050000 -0500" channel="espn2.ar">
     <title>Bundesliga Highlights Show</title>
   </programme>
-  <programme start="20261014050000 -0500" stop="20261014090000 -0500" channel="espn2.ar">
+  <programme start="20261013050000 -0500" stop="20261013090000 -0500" channel="espn2.ar">
     <title>Tenis ATP Rolex Shanghai Masters 2026</title>
   </programme>
-  <programme start="20261014090000 -0500" stop="20261014113000 -0500" channel="espn2.ar">
+  <programme start="20261013090000 -0500" stop="20261013113000 -0500" channel="espn2.ar">
     <title>Tenis ATP Rolex Shanghai Masters 2026</title>
   </programme>
-  <programme start="20261014113000 -0500" stop="20261014134000 -0500" channel="espn2.ar">
+  <programme start="20261013113000 -0500" stop="20261013134000 -0500" channel="espn2.ar">
     <title>Sabah FC vs. SK Slavia Praha Fútbol UEFA Champions League</title>
   </programme>
-  <programme start="20261014134000 -0500" stop="20261014155500 -0500" channel="espn2.ar">
+  <programme start="20261013134000 -0500" stop="20261013155500 -0500" channel="espn2.ar">
     <title>Viking FK vs. Bayern de Múnich Fútbol UEFA Champions League</title>
   </programme>
-  <programme start="20261014155500 -0500" stop="20261014170000 -0500" channel="espn2.ar">
+  <programme start="20261013155500 -0500" stop="20261013170000 -0500" channel="espn2.ar">
     <title>UEFA Europa &amp; Conference League Magazine</title>
   </programme>
-  <programme start="20261014170000 -0500" stop="20261014183000 -0500" channel="espn2.ar">
+  <programme start="20261013170000 -0500" stop="20261013183000 -0500" channel="espn2.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261014183000 -0500" stop="20261014193000 -0500" channel="espn2.ar">
+  <programme start="20261013183000 -0500" stop="20261013193000 -0500" channel="espn2.ar">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261014193000 -0500" stop="20261014203000 -0500" channel="espn2.ar">
+  <programme start="20261013193000 -0500" stop="20261013203000 -0500" channel="espn2.ar">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261014203000 -0500" stop="20261014213000 -0500" channel="espn2.ar">
+  <programme start="20261013203000 -0500" stop="20261013213000 -0500" channel="espn2.ar">
     <title>UEFA Champions League Highlights</title>
   </programme>
-  <programme start="20261014213000 -0500" stop="20261014223000 -0500" channel="espn2.ar">
+  <programme start="20261013213000 -0500" stop="20261013223000 -0500" channel="espn2.ar">
     <title>Goles de la Premier League</title>
   </programme>
-  <programme start="20261014223000 -0500" stop="20261015003000 -0500" channel="espn2.ar">
+  <programme start="20261013223000 -0500" stop="20261014003000 -0500" channel="espn2.ar">
     <title>Boca Juniors vs. de Regatas Vasco da Gama Fútbol Conmebol Copa Sudamericana</title>
   </programme>
   <channel id="espn3.ar">
@@ -231,55 +231,55 @@
   <channel id="espn5.ec">
     <display-name>ESPN 5</display-name>
   </channel>
-  <programme start="20261013230000 -0500" stop="20261014010000 -0500" channel="espn5.ec">
+  <programme start="20261012230000 -0500" stop="20261013010000 -0500" channel="espn5.ec">
     <title>World Rugby Nations Cup 2026</title>
   </programme>
-  <programme start="20261014010000 -0500" stop="20261014020000 -0500" channel="espn5.ec">
+  <programme start="20261013010000 -0500" stop="20261013020000 -0500" channel="espn5.ec">
     <title>Bundesliga Highlights Show</title>
   </programme>
-  <programme start="20261014020000 -0500" stop="20261014030000 -0500" channel="espn5.ec">
+  <programme start="20261013020000 -0500" stop="20261013030000 -0500" channel="espn5.ec">
     <title>UEFA Europa &amp; Conference League Magazine</title>
   </programme>
-  <programme start="20261014030000 -0500" stop="20261014040000 -0500" channel="espn5.ec">
+  <programme start="20261013030000 -0500" stop="20261013040000 -0500" channel="espn5.ec">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261014040000 -0500" stop="20261014050000 -0500" channel="espn5.ec">
+  <programme start="20261013040000 -0500" stop="20261013050000 -0500" channel="espn5.ec">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261014050000 -0500" stop="20261014070000 -0500" channel="espn5.ec">
+  <programme start="20261013050000 -0500" stop="20261013070000 -0500" channel="espn5.ec">
     <title>World Rugby Nations Cup 2026</title>
   </programme>
-  <programme start="20261014070000 -0500" stop="20261014080000 -0500" channel="espn5.ec">
+  <programme start="20261013070000 -0500" stop="20261013080000 -0500" channel="espn5.ec">
     <title>Bundesliga Highlights Show</title>
   </programme>
-  <programme start="20261014080000 -0500" stop="20261014090000 -0500" channel="espn5.ec">
+  <programme start="20261013080000 -0500" stop="20261013090000 -0500" channel="espn5.ec">
     <title>UEFA Europa &amp; Conference League Magazine</title>
   </programme>
-  <programme start="20261014090000 -0500" stop="20261014110000 -0500" channel="espn5.ec">
+  <programme start="20261013090000 -0500" stop="20261013110000 -0500" channel="espn5.ec">
     <title>World Rugby Nations Cup 2026</title>
   </programme>
-  <programme start="20261014110000 -0500" stop="20261014113000 -0500" channel="espn5.ec">
+  <programme start="20261013110000 -0500" stop="20261013113000 -0500" channel="espn5.ec">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261014113000 -0500" stop="20261014114000 -0500" channel="espn5.ec">
+  <programme start="20261013113000 -0500" stop="20261013114000 -0500" channel="espn5.ec">
     <title>Futbol Internacional</title>
   </programme>
-  <programme start="20261014114000 -0500" stop="20261014134000 -0500" channel="espn5.ec">
+  <programme start="20261013114000 -0500" stop="20261013134000 -0500" channel="espn5.ec">
     <title>Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261014134000 -0500" stop="20261014160000 -0500" channel="espn5.ec">
+  <programme start="20261013134000 -0500" stop="20261013160000 -0500" channel="espn5.ec">
     <title>Galatasaray SK vs. Barcelona Fútbol UEFA Champions League</title>
   </programme>
-  <programme start="20261014160000 -0500" stop="20261014180000 -0500" channel="espn5.ec">
+  <programme start="20261013160000 -0500" stop="20261013180000 -0500" channel="espn5.ec">
     <title>Lens vs. Sporting CP Fútbol UEFA Champions League</title>
   </programme>
-  <programme start="20261014180000 -0500" stop="20261014200000 -0500" channel="espn5.ec">
+  <programme start="20261013180000 -0500" stop="20261013200000 -0500" channel="espn5.ec">
     <title>Fútbol EFL Championship</title>
   </programme>
-  <programme start="20261014200000 -0500" stop="20261014220000 -0500" channel="espn5.ec">
+  <programme start="20261013200000 -0500" stop="20261013220000 -0500" channel="espn5.ec">
     <title>Atlético de Madrid vs. Manchester United Fútbol UEFA Champions League</title>
   </programme>
-  <programme start="20261014220000 -0500" stop="20261015000000 -0500" channel="espn5.ec">
+  <programme start="20261013220000 -0500" stop="20261014000000 -0500" channel="espn5.ec">
     <title>Galatasaray SK vs. Barcelona Fútbol UEFA Champions League</title>
   </programme>
   <channel id="espn6.ec">
