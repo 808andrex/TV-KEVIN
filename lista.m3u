@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/808andrex/Tv-Kevin/refs/heads/master/mi_guia.xml"
 
-#EXTINF:-1 tvg-id="espn.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="AR Deportes ",ESPN AR
+#EXTINF:-1 tvg-id="espn.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes ",ESPN AR
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1111.m3u8
@@ -54,7 +54,18 @@ http://138.59.227.20:8000/play/a06y/index.m3u8?hls
 #EXTVLCOPT:network-caching=1000
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZNF1.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true" group-title="Automovilismo 🇪🇸",DAZN F1
+#EXTINF:-1 tvg-id="DAZNF1.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true" group-title="Deportes",DAZN F1
 #EXTVLCOPT:network-caching=1000
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/408.m3u8
 
+#EXTINF:-1 tvg-id="cartoon-network.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Infantil",Cartoon Network 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/128.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/350?cb=20180306141612" group-title="Infantil"Nickelodeon
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/736.m3u8
+
+#EXTINF:-1 tvg-id="disney_channel.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg/revision/latest?cb=20260825140626" group-title="Infantil"Disney Channel
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/736.m3u8

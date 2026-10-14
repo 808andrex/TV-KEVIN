@@ -688,6 +688,1488 @@
     <sub-title>Documental</sub-title>
     <desc>Desde las olas de Bahía Formosa hasta las de Japón, vemos la historia y el increíble viaje del deportista Ítalo Ferreira con su pasión por el surf.</desc>
   </programme>
+  <channel id="cartoon-network.ec">
+    <display-name>Cartoon Network </display-name>
+  </channel>
+  <programme start="20261013000000 -0500" stop="20261013000100 -0500" channel="cartoon-network.ec">
+    <title>Escandalosos Temporada 3 | Episodio 13 Amapolas</title>
+  </programme>
+  <programme start="20261013000100 -0500" stop="20261013001100 -0500" channel="cartoon-network.ec">
+    <title>Un show más Temporada 5 | Episodio 3 El auto de Benson</title>
+  </programme>
+  <programme start="20261013001100 -0500" stop="20261013002200 -0500" channel="cartoon-network.ec">
+    <title>Escandalosos Temporada 2 | Episodio 7 Polos opuestos</title>
+  </programme>
+  <programme start="20261013002200 -0500" stop="20261013003600 -0500" channel="cartoon-network.ec">
+    <title>Escandalosos Temporada 3 | Episodio 8 Planeta osos</title>
+  </programme>
+  <programme start="20261013003600 -0500" stop="20261013004700 -0500" channel="cartoon-network.ec">
+    <title>Escandalosos</title>
+  </programme>
+  <programme start="20261013004700 -0500" stop="20261013010000 -0500" channel="cartoon-network.ec">
+    <title>Escandalosos Temporada 4 | Episodio 11 La banda pizzera</title>
+  </programme>
+  <programme start="20261013010000 -0500" stop="20261013011100 -0500" channel="cartoon-network.ec">
+    <title>Escandalosos Temporada 2 | Episodio 4 El séquito de Nom Nom</title>
+  </programme>
+  <programme start="20261013011100 -0500" stop="20261013012300 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 2 El pony</title>
+  </programme>
+  <programme start="20261013012300 -0500" stop="20261013013500 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 2 El secuaz</title>
+  </programme>
+  <programme start="20261013013500 -0500" stop="20261013014900 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 4 | Episodio 19 El traidor</title>
+  </programme>
+  <programme start="20261013014900 -0500" stop="20261013020100 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 6 | Episodio 18 La lección</title>
+  </programme>
+  <programme start="20261013020100 -0500" stop="20261013021200 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 3 La pregunta</title>
+  </programme>
+  <programme start="20261013021200 -0500" stop="20261013022400 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 2 La autoridad</title>
+  </programme>
+  <programme start="20261013022400 -0500" stop="20261013023000 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 1 El casco</title>
+  </programme>
+  <programme start="20261013023000 -0500" stop="20261013023900 -0500" channel="cartoon-network.ec">
+    <title>Steven universe Temporada 1 | Episodio 8 Steven se pone serio</title>
+  </programme>
+  <programme start="20261013023900 -0500" stop="20261013024100 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 5 | Episodio 18 La consola</title>
+  </programme>
+  <programme start="20261013024100 -0500" stop="20261013025300 -0500" channel="cartoon-network.ec">
+    <title>Steven universe Temporada 3 | Episodio 1 El cumpleaños de Steven</title>
+  </programme>
+  <programme start="20261013025300 -0500" stop="20261013030400 -0500" channel="cartoon-network.ec">
+    <title>Steven universe Temporada 4 | Episodio 20 León 4: Final alterno</title>
+  </programme>
+  <programme start="20261013030400 -0500" stop="20261013031800 -0500" channel="cartoon-network.ec">
+    <title>Steven universe Temporada 1 | Episodio 47 Poder político</title>
+  </programme>
+  <programme start="20261013031800 -0500" stop="20261013033000 -0500" channel="cartoon-network.ec">
+    <title>Steven universe Temporada 1 | Episodio 41 El club del horror</title>
+  </programme>
+  <programme start="20261013033000 -0500" stop="20261013034100 -0500" channel="cartoon-network.ec">
+    <title>Steven universe Temporada 5 | Episodio 16 Cartas Para Lars</title>
+  </programme>
+  <programme start="20261013034100 -0500" stop="20261013035300 -0500" channel="cartoon-network.ec">
+    <title>Steven universe Temporada 4 | Episodio 1 El niño de la guardería</title>
+  </programme>
+  <programme start="20261013035300 -0500" stop="20261013040000 -0500" channel="cartoon-network.ec">
+    <title>Steven universe Temporada 3 | Episodio 2 Pudo haber sido genial</title>
+  </programme>
+  <programme start="20261013040000 -0500" stop="20261013040700 -0500" channel="cartoon-network.ec">
+    <title>El mundo de Craig Temporada 4 | Episodio 30 A la moda otra vez</title>
+  </programme>
+  <programme start="20261013040700 -0500" stop="20261013041100 -0500" channel="cartoon-network.ec">
+    <title>Steven universe Temporada 4 | Episodio 12 Asalto de gemas</title>
+  </programme>
+  <programme start="20261013041100 -0500" stop="20261013042200 -0500" channel="cartoon-network.ec">
+    <title>El mundo de Craig Temporada 1 | Episodio 18 Nido de buitres</title>
+  </programme>
+  <programme start="20261013042200 -0500" stop="20261013043600 -0500" channel="cartoon-network.ec">
+    <title>El mundo de Craig Temporada 1 | Episodio 2 La traes</title>
+  </programme>
+  <programme start="20261013043600 -0500" stop="20261013044700 -0500" channel="cartoon-network.ec">
+    <title>El mundo de Craig Temporada 1 | Episodio 11 Perro decisivo</title>
+  </programme>
+  <programme start="20261013044700 -0500" stop="20261013050000 -0500" channel="cartoon-network.ec">
+    <title>El mundo de Craig Temporada 6 | Episodio 9 La pequeña guerrera</title>
+  </programme>
+  <programme start="20261013050000 -0500" stop="20261013050100 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 7 | Episodio 17 El regalo de cumpleaños de Batman</title>
+  </programme>
+  <programme start="20261013050100 -0500" stop="20261013051100 -0500" channel="cartoon-network.ec">
+    <title>El mundo de Craig Temporada 5 | Episodio 2 El Rey del pasado y el futuro</title>
+  </programme>
+  <programme start="20261013051100 -0500" stop="20261013052200 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 6 | Episodio 39 Tíos buena onda</title>
+  </programme>
+  <programme start="20261013052200 -0500" stop="20261013053500 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 6 | Episodio 31 Escuadrón navideño</title>
+  </programme>
+  <programme start="20261013053500 -0500" stop="20261013054600 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</title>
+  </programme>
+  <programme start="20261013054600 -0500" stop="20261013055900 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 2 Viejitos Graciosos</title>
+  </programme>
+  <programme start="20261013055900 -0500" stop="20261013060000 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Clásico de Pascuas de los Jóvenes Titanes en Acción</title>
+  </programme>
+  <programme start="20261013060000 -0500" stop="20261013061100 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 4 | Episodio 29 Los puntos</title>
+  </programme>
+  <programme start="20261013061100 -0500" stop="20261013062300 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 1 Los bobos</title>
+  </programme>
+  <programme start="20261013062300 -0500" stop="20261013063800 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 3 El amargado</title>
+  </programme>
+  <programme start="20261013063800 -0500" stop="20261013065000 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 1 La pelea</title>
+  </programme>
+  <programme start="20261013065000 -0500" stop="20261013070000 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 3 La sociedad</title>
+  </programme>
+  <programme start="20261013070000 -0500" stop="20261013070400 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 2 ¿Verdad, Jusiticia y qué?</title>
+  </programme>
+  <programme start="20261013070400 -0500" stop="20261013071000 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 4 | Episodio 9 La Peste</title>
+  </programme>
+  <programme start="20261013071000 -0500" stop="20261013072600 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 4 | Episodio 36 Caballero televisivo 2</title>
+  </programme>
+  <programme start="20261013072600 -0500" stop="20261013073000 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 5 | Episodio 25 La burla</title>
+  </programme>
+  <programme start="20261013073000 -0500" stop="20261013075200 -0500" channel="cartoon-network.ec">
+    <title>Escandalositos Temporada 2 | Episodio 34</title>
+  </programme>
+  <programme start="20261013075200 -0500" stop="20261013080000 -0500" channel="cartoon-network.ec">
+    <title>Escandalositos Temporada 1 | Episodio 36 Campo de burbujas</title>
+  </programme>
+  <programme start="20261013080000 -0500" stop="20261013080800 -0500" channel="cartoon-network.ec">
+    <title>Adventure Time: Side Quests Temporada 1 | Episodio 10</title>
+  </programme>
+  <programme start="20261013080800 -0500" stop="20261013081500 -0500" channel="cartoon-network.ec">
+    <title>Escandalositos Temporada 1 | Episodio 13 Día de fiesta</title>
+  </programme>
+  <programme start="20261013081500 -0500" stop="20261013082600 -0500" channel="cartoon-network.ec">
+    <title>Escandalosos Temporada 3 | Episodio 18 El Viaje</title>
+  </programme>
+  <programme start="20261013082600 -0500" stop="20261013083700 -0500" channel="cartoon-network.ec">
+    <title>Escandalosos Temporada 1 | Episodio 2 Video viral</title>
+  </programme>
+  <programme start="20261013083700 -0500" stop="20261013085300 -0500" channel="cartoon-network.ec">
+    <title>Escandalosos Temporada 2 | Episodio 5 Guardabosques Tabes</title>
+  </programme>
+  <programme start="20261013085300 -0500" stop="20261013090000 -0500" channel="cartoon-network.ec">
+    <title>Escandalosos Temporada 2 | Episodio 13 La audición</title>
+  </programme>
+  <programme start="20261013090000 -0500" stop="20261013090400 -0500" channel="cartoon-network.ec">
+    <title>Los Colorado Temporada 1 | Episodio 8 Se busca mamá para bebé jupiteriano</title>
+  </programme>
+  <programme start="20261013090400 -0500" stop="20261013091900 -0500" channel="cartoon-network.ec">
+    <title>Escandalosos Temporada 3 | Episodio 3 El amigo de panda</title>
+  </programme>
+  <programme start="20261013091900 -0500" stop="20261013093000 -0500" channel="cartoon-network.ec">
+    <title>Escandalosos Temporada 4 | Episodio 1 Crowbar Jones: Orígenes</title>
+  </programme>
+  <programme start="20261013093000 -0500" stop="20261013094100 -0500" channel="cartoon-network.ec">
+    <title>El maravillosamente extraño mundo de Gumball Temporada 2 | Episodio 5 La síntesis</title>
+  </programme>
+  <programme start="20261013094100 -0500" stop="20261013095700 -0500" channel="cartoon-network.ec">
+    <title>El maravillosamente extraño mundo de Gumball Temporada 2 | Episodio 20 La revisión</title>
+  </programme>
+  <programme start="20261013095700 -0500" stop="20261013100000 -0500" channel="cartoon-network.ec">
+    <title>El maravillosamente extraño mundo de Gumball Temporada 2 | Episodio 8 El diario</title>
+  </programme>
+  <programme start="20261013100000 -0500" stop="20261013101000 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 4 | Episodio 19 Mano Zombie</title>
+  </programme>
+  <programme start="20261013101000 -0500" stop="20261013102100 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 5 | Episodio 18 Golpeando traseros y celebrando sin razón</title>
+  </programme>
+  <programme start="20261013102100 -0500" stop="20261013103700 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 2 Operación Hombre de Lata</title>
+  </programme>
+  <programme start="20261013103700 -0500" stop="20261013104800 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 1 Viejo, relájate</title>
+  </programme>
+  <programme start="20261013104800 -0500" stop="20261013110300 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 3 | Episodio 17 Dos Partes: Parte Uno</title>
+  </programme>
+  <programme start="20261013110300 -0500" stop="20261013111500 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 3 | Episodio 18 Dos Partes: Parte Dos</title>
+  </programme>
+  <programme start="20261013111500 -0500" stop="20261013112600 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 6 | Episodio 42 Las decisiones</title>
+  </programme>
+  <programme start="20261013112600 -0500" stop="20261013114200 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 6 | Episodio 20 La Pocion</title>
+  </programme>
+  <programme start="20261013114200 -0500" stop="20261013115400 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 6 | Episodio 44 La inquisición</title>
+  </programme>
+  <programme start="20261013115400 -0500" stop="20261013120000 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 1 La búsqueda</title>
+  </programme>
+  <programme start="20261013120000 -0500" stop="20261013121100 -0500" channel="cartoon-network.ec">
+    <title>El mundo de Craig Temporada 1 | Episodio 26 El chico del 3030</title>
+  </programme>
+  <programme start="20261013121100 -0500" stop="20261013122700 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 4 | Episodio 19 El traidor</title>
+  </programme>
+  <programme start="20261013122700 -0500" stop="20261013123000 -0500" channel="cartoon-network.ec">
+    <title>El mundo de Craig</title>
+  </programme>
+  <programme start="20261013123000 -0500" stop="20261013124100 -0500" channel="cartoon-network.ec">
+    <title>Clarence Temporada 1 | Episodio 48 La separación</title>
+  </programme>
+  <programme start="20261013124100 -0500" stop="20261013125700 -0500" channel="cartoon-network.ec">
+    <title>Clarence Temporada 1 | Episodio 23 Demasiado asqueroso para ser cómodo</title>
+  </programme>
+  <programme start="20261013125700 -0500" stop="20261013130000 -0500" channel="cartoon-network.ec">
+    <title>Clarence Temporada 2 | Episodio 11 Excursión</title>
+  </programme>
+  <programme start="20261013130000 -0500" stop="20261013131000 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</title>
+  </programme>
+  <programme start="20261013131000 -0500" stop="20261013132100 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 6 | Episodio 32 El yeso</title>
+  </programme>
+  <programme start="20261013132100 -0500" stop="20261013133200 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 4 | Episodio 43 Inacción de gracias</title>
+  </programme>
+  <programme start="20261013133200 -0500" stop="20261013134900 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 7 | Episodio 40 Una situación pegajosa</title>
+  </programme>
+  <programme start="20261013134900 -0500" stop="20261013140000 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 7 | Episodio 50 365</title>
+  </programme>
+  <programme start="20261013140000 -0500" stop="20261013141000 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 5 | Episodio 29 Caballero televisivo 4</title>
+  </programme>
+  <programme start="20261013141000 -0500" stop="20261013142200 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 7 | Episodio 18 El chico que se maravilla</title>
+  </programme>
+  <programme start="20261013142200 -0500" stop="20261013143000 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 9 | Episodio 4 Jale extra</title>
+  </programme>
+  <programme start="20261013143000 -0500" stop="20261013143900 -0500" channel="cartoon-network.ec">
+    <title>Hora de aventura Temporada 6 Joshua y Margaret investigadores</title>
+  </programme>
+  <programme start="20261013143900 -0500" stop="20261013144600 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 4 | Episodio 23 Embrujado</title>
+  </programme>
+  <programme start="20261013144600 -0500" stop="20261013150000 -0500" channel="cartoon-network.ec">
+    <title>Hora de aventura Temporada 8 | Episodio 1 Rompió su corona</title>
+  </programme>
+  <programme start="20261013150000 -0500" stop="20261013153000 -0500" channel="cartoon-network.ec">
+    <title>Un jefe en pañales: De vuelta en la cuna Temporada 1 | Episodio 9 Un cumpleaños melancólico</title>
+  </programme>
+  <programme start="20261013153000 -0500" stop="20261013154100 -0500" channel="cartoon-network.ec">
+    <title>El submarino de Jim Temporada 1 | Episodio 11</title>
+  </programme>
+  <programme start="20261013154100 -0500" stop="20261013155700 -0500" channel="cartoon-network.ec">
+    <title>El submarino de Jim Temporada 1 | Episodio 6</title>
+  </programme>
+  <programme start="20261013155700 -0500" stop="20261013160000 -0500" channel="cartoon-network.ec">
+    <title>El submarino de Jim Temporada 1 | Episodio 3</title>
+  </programme>
+  <programme start="20261013160000 -0500" stop="20261013161500 -0500" channel="cartoon-network.ec">
+    <title>Adventure Time: Side Quests Temporada 1 | Episodio 10</title>
+  </programme>
+  <programme start="20261013161500 -0500" stop="20261013162600 -0500" channel="cartoon-network.ec">
+    <title>El mundo de Craig Temporada 6 | Episodio 3 La casa de Toman</title>
+  </programme>
+  <programme start="20261013162600 -0500" stop="20261013163000 -0500" channel="cartoon-network.ec">
+    <title>El mundo de Craig Temporada 2 | Episodio 16 Evolución de Craig</title>
+  </programme>
+  <programme start="20261013163000 -0500" stop="20261013163700 -0500" channel="cartoon-network.ec">
+    <title>Summer Memories Cosas viejas, problemas nuevos</title>
+  </programme>
+  <programme start="20261013163700 -0500" stop="20261013164600 -0500" channel="cartoon-network.ec">
+    <title>El mundo de Craig Temporada 2 | Episodio 6 Fuerte Williams</title>
+  </programme>
+  <programme start="20261013164600 -0500" stop="20261013170000 -0500" channel="cartoon-network.ec">
+    <title>Summer Memories</title>
+  </programme>
+  <programme start="20261013170000 -0500" stop="20261013171100 -0500" channel="cartoon-network.ec">
+    <title>El maravillosamente extraño mundo de Gumball Temporada 2 | Episodio 5 La síntesis</title>
+  </programme>
+  <programme start="20261013171100 -0500" stop="20261013172700 -0500" channel="cartoon-network.ec">
+    <title>El maravillosamente extraño mundo de Gumball Temporada 2 | Episodio 20 La revisión</title>
+  </programme>
+  <programme start="20261013172700 -0500" stop="20261013173000 -0500" channel="cartoon-network.ec">
+    <title>El maravillosamente extraño mundo de Gumball Temporada 2 | Episodio 8 El diario</title>
+  </programme>
+  <programme start="20261013173000 -0500" stop="20261013174100 -0500" channel="cartoon-network.ec">
+    <title>Un show más Temporada 6 | Episodio 12 El almuerzo de los encargados de parques</title>
+  </programme>
+  <programme start="20261013174100 -0500" stop="20261013175600 -0500" channel="cartoon-network.ec">
+    <title>Un show más Temporada 3 | Episodio 25 Sí, cielo, sí</title>
+  </programme>
+  <programme start="20261013175600 -0500" stop="20261013180000 -0500" channel="cartoon-network.ec">
+    <title>Un show más Temporada 1 | Episodio 4 Golpes mortales</title>
+  </programme>
+  <programme start="20261013180000 -0500" stop="20261013181100 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 5 | Episodio 7 El Engaño</title>
+  </programme>
+  <programme start="20261013181100 -0500" stop="20261013182800 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 3 El Vacio</title>
+  </programme>
+  <programme start="20261013182800 -0500" stop="20261013183000 -0500" channel="cartoon-network.ec">
+    <title>El Increíble Mundo de Gumball Temporada 3 El movimiento</title>
+  </programme>
+  <programme start="20261013183000 -0500" stop="20261013184600 -0500" channel="cartoon-network.ec">
+    <title>Hora de aventura Temporada 4 Quién podría ganar</title>
+  </programme>
+  <programme start="20261013184600 -0500" stop="20261013190000 -0500" channel="cartoon-network.ec">
+    <title>Hora de aventura Temporada 3 La princesa fantasma</title>
+  </programme>
+  <programme start="20261013190000 -0500" stop="20261013191100 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 1 Queso del desayuno</title>
+  </programme>
+  <programme start="20261013191100 -0500" stop="20261013192500 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</title>
+  </programme>
+  <programme start="20261013192500 -0500" stop="20261013193600 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</title>
+  </programme>
+  <programme start="20261013193600 -0500" stop="20261013195100 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 2 Naturaleza</title>
+  </programme>
+  <programme start="20261013195100 -0500" stop="20261013200000 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 6 | Episodio 42 No lo enciendas</title>
+  </programme>
+  <programme start="20261013200000 -0500" stop="20261013203000 -0500" channel="cartoon-network.ec">
+    <title>Un jefe en pañales: De vuelta en la cuna Temporada 1 | Episodio 9 Un cumpleaños melancólico</title>
+  </programme>
+  <programme start="20261013203000 -0500" stop="20261013204000 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 7 | Episodio 20 Gatos gordos</title>
+  </programme>
+  <programme start="20261013204000 -0500" stop="20261013205100 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 2 Un Pony con muchos trucos</title>
+  </programme>
+  <programme start="20261013205100 -0500" stop="20261013210600 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 5 | Episodio 9 Los verdaderos Orijanes</title>
+  </programme>
+  <programme start="20261013210600 -0500" stop="20261013211700 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 5 | Episodio 18 Golpeando traseros y celebrando sin razón</title>
+  </programme>
+  <programme start="20261013211700 -0500" stop="20261013213000 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 3 | Episodio 6 Yo soy la salsa</title>
+  </programme>
+  <programme start="20261013213000 -0500" stop="20261013213100 -0500" channel="cartoon-network.ec">
+    <title>Adventure Time: Side Quests Temporada 1 | Episodio 10</title>
+  </programme>
+  <programme start="20261013213100 -0500" stop="20261013214500 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 3 | Episodio 39 Piensa en el futuro</title>
+  </programme>
+  <programme start="20261013214500 -0500" stop="20261013220000 -0500" channel="cartoon-network.ec">
+    <title>Los Jóvenes Titanes En Acción Temporada 1 Los colores de Raven</title>
+  </programme>
+  <programme start="20261013220000 -0500" stop="20261013221100 -0500" channel="cartoon-network.ec">
+    <title>Hora de aventura Temporada 6 Cadena alimenticia</title>
+  </programme>
+  <programme start="20261013221100 -0500" stop="20261013222300 -0500" channel="cartoon-network.ec">
+    <title>Hora de aventura Temporada 6 La Torre</title>
+  </programme>
+  <programme start="20261013222300 -0500" stop="20261013223900 -0500" channel="cartoon-network.ec">
+    <title>Hora de aventura Temporada 10 | Episodio 6 Anillo de fuego</title>
+  </programme>
+  <programme start="20261013223900 -0500" stop="20261013225000 -0500" channel="cartoon-network.ec">
+    <title>Hora de aventura</title>
+  </programme>
+  <programme start="20261013225000 -0500" stop="20261013230000 -0500" channel="cartoon-network.ec">
+    <title>Hora de aventura Temporada 1 El jardín de la bruja</title>
+  </programme>
+  <programme start="20261013230000 -0500" stop="20261013230600 -0500" channel="cartoon-network.ec">
+    <title>Un show más Temporada 7 | Episodio 25 Cubi hermanos</title>
+  </programme>
+  <programme start="20261013230600 -0500" stop="20261013231100 -0500" channel="cartoon-network.ec">
+    <title>Hora de aventura Temporada 6 Dentista</title>
+  </programme>
+  <programme start="20261013231100 -0500" stop="20261013232200 -0500" channel="cartoon-network.ec">
+    <title>Un show más Temporada 8 | Episodio 9 Noche de papas</title>
+  </programme>
+  <programme start="20261013232200 -0500" stop="20261013233600 -0500" channel="cartoon-network.ec">
+    <title>Un show más Temporada 4 | Episodio 7 Noche de chicos</title>
+  </programme>
+  <programme start="20261013233600 -0500" stop="20261013234700 -0500" channel="cartoon-network.ec">
+    <title>Un show más Temporada 3 | Episodio 39 Un mal beso</title>
+  </programme>
+  <programme start="20261013234700 -0500" stop="20261014000000 -0500" channel="cartoon-network.ec">
+    <title>Un show más Temporada 2 | Episodio 27 El lobo, zorrillo</title>
+  </programme>
+  <channel id="nickelodeon.ec">
+    <display-name>Nickelodeon</display-name>
+  </channel>
+  <programme start="20261013000000 -0500" stop="20261013002000 -0500" channel="nickelodeon.ec">
+    <title>Tales of the Teenage Mutant Ninja Turtles T2-E2 Mutantweight Title Bout</title>
+  </programme>
+  <programme start="20261013002000 -0500" stop="20261013004500 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T2-E36 Call the Cops! / Surf N' Turf</title>
+  </programme>
+  <programme start="20261013004500 -0500" stop="20261013011000 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T2-E38 Appointment TV / Karen's Virus</title>
+  </programme>
+  <programme start="20261013011000 -0500" stop="20261013013500 -0500" channel="nickelodeon.ec">
+    <title>The Marsupilamis T1-E1 Jade the Juggler / Parcel Chase</title>
+  </programme>
+  <programme start="20261013013500 -0500" stop="20261013015500 -0500" channel="nickelodeon.ec">
+    <title>Best and Bester T1-E22 Rocky the Vote / One Star Hotel</title>
+  </programme>
+  <programme start="20261013015500 -0500" stop="20261013022000 -0500" channel="nickelodeon.ec">
+    <title>Best and Bester T1-E23 That Sinkhole Feeling / Like A Brother</title>
+  </programme>
+  <programme start="20261013022000 -0500" stop="20261013024000 -0500" channel="nickelodeon.ec">
+    <title>The Patrick Star Show T5-E7 La elección de papá / Estrellas de supermercado</title>
+  </programme>
+  <programme start="20261013024000 -0500" stop="20261013030500 -0500" channel="nickelodeon.ec">
+    <title>The Patrick Star Show T3-E5 Driven to Drive / A Patty in Time</title>
+  </programme>
+  <programme start="20261013030500 -0500" stop="20261013032000 -0500" channel="nickelodeon.ec">
+    <title>The Patrick Star Show T4-E10 De-Pat-Ment Store</title>
+  </programme>
+  <programme start="20261013032000 -0500" stop="20261013034500 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T2-E71 Something Narwhal This Way Comes / C.H.U.M.S</title>
+  </programme>
+  <programme start="20261013034500 -0500" stop="20261013040500 -0500" channel="nickelodeon.ec">
+    <title>The Thundermans Undercover T2-E2 Summer of Secrets</title>
+  </programme>
+  <programme start="20261013040500 -0500" stop="20261013043000 -0500" channel="nickelodeon.ec">
+    <title>Danger Force T3-E6 Swellmelonfest</title>
+  </programme>
+  <programme start="20261013043000 -0500" stop="20261013045500 -0500" channel="nickelodeon.ec">
+    <title>Henry Danger T1-E15 Super Volcano</title>
+  </programme>
+  <programme start="20261013045500 -0500" stop="20261013052000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T6-E16 Hiccups and Downs / The Loathe Boat</title>
+  </programme>
+  <programme start="20261013052000 -0500" stop="20261013054000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T6-E17 Cheer Pressure / Stroke of Luck</title>
+  </programme>
+  <programme start="20261013054000 -0500" stop="20261013060000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T2-E15 Back Out There</title>
+  </programme>
+  <programme start="20261013060000 -0500" stop="20261013062500 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T2-E97 Blood Is Thicker Than Grease / Don't Make Me Laugh</title>
+  </programme>
+  <programme start="20261013062500 -0500" stop="20261013064500 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T2-E98 Momageddon / Pet the Rock</title>
+  </programme>
+  <programme start="20261013064500 -0500" stop="20261013070000 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T2-E56 Spongebob In Randomland</title>
+  </programme>
+  <programme start="20261013070000 -0500" stop="20261013072000 -0500" channel="nickelodeon.ec">
+    <title>The Marsupilamis T1-E14 Shell-Shock / The Amazing Coat Man</title>
+  </programme>
+  <programme start="20261013072000 -0500" stop="20261013074500 -0500" channel="nickelodeon.ec">
+    <title>The Patrick Star Show T3-E6 Pat-Per Route / Day of the Dartfish</title>
+  </programme>
+  <programme start="20261013074500 -0500" stop="20261013080000 -0500" channel="nickelodeon.ec">
+    <title>The Patrick Star Show T2-E5 Movie Stars</title>
+  </programme>
+  <programme start="20261013080000 -0500" stop="20261013082000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T8-E2 Steeling Thunder / Be Careful What You Fish For</title>
+  </programme>
+  <programme start="20261013082000 -0500" stop="20261013084500 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T6-E16 Hiccups and Downs / The Loathe Boat</title>
+  </programme>
+  <programme start="20261013084500 -0500" stop="20261013091000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T6-E17 Cheer Pressure / Stroke of Luck</title>
+  </programme>
+  <programme start="20261013091000 -0500" stop="20261013093000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T6-E18 Space Jammed / Crown and Dirty</title>
+  </programme>
+  <programme start="20261013093000 -0500" stop="20261013095000 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T2-E36 Call the Cops! / Surf N' Turf</title>
+  </programme>
+  <programme start="20261013095000 -0500" stop="20261013100000 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T2-E25 Cuddle E. Hugs</title>
+  </programme>
+  <programme start="20261013100000 -0500" stop="20261013101500 -0500" channel="nickelodeon.ec">
+    <title>The Patrick Star Show T5-E8 Witless of the Prosecution</title>
+  </programme>
+  <programme start="20261013101500 -0500" stop="20261013102500 -0500" channel="nickelodeon.ec">
+    <title>The Patrick Star Show T5-E7 Dad Election</title>
+  </programme>
+  <programme start="20261013102500 -0500" stop="20261013104000 -0500" channel="nickelodeon.ec">
+    <title>The Patrick Star Show T3-E12 Get Ouch</title>
+  </programme>
+  <programme start="20261013104000 -0500" stop="20261013110500 -0500" channel="nickelodeon.ec">
+    <title>The Marsupilamis T1-E14 Shell-Shock / The Amazing Coat Man</title>
+  </programme>
+  <programme start="20261013110500 -0500" stop="20261013113000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T2-E18 Change of Heart / Health Kicked</title>
+  </programme>
+  <programme start="20261013113000 -0500" stop="20261013115000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T2-E19 Future Tense / Lynner Takes All</title>
+  </programme>
+  <programme start="20261013115000 -0500" stop="20261013120000 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T2-E74 Big Bad Bubble Bass</title>
+  </programme>
+  <programme start="20261013120000 -0500" stop="20261013123000 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T2-E86 Hot Crossed Nuts / Sir Urchin and Snail Fail</title>
+  </programme>
+  <programme start="20261013123000 -0500" stop="20261013125000 -0500" channel="nickelodeon.ec">
+    <title>Henry Danger T2-E10 Indestructible Henry Part 1</title>
+  </programme>
+  <programme start="20261013125000 -0500" stop="20261013131500 -0500" channel="nickelodeon.ec">
+    <title>Henry Danger T2-E11 Indestructible Henry Part 2</title>
+  </programme>
+  <programme start="20261013131500 -0500" stop="20261013133500 -0500" channel="nickelodeon.ec">
+    <title>Danger Force T1-E2 Captain Mayonnaise</title>
+  </programme>
+  <programme start="20261013133500 -0500" stop="20261013140000 -0500" channel="nickelodeon.ec">
+    <title>The Thundermans Undercover T1-E2 Faulty Powers</title>
+  </programme>
+  <programme start="20261013140000 -0500" stop="20261013142000 -0500" channel="nickelodeon.ec">
+    <title>That Girl Lay Lay T2-E2 Ain't That a Glitch - Part Two</title>
+  </programme>
+  <programme start="20261013142000 -0500" stop="20261013144500 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T5-E14 Rumor Has It / Training Day</title>
+  </programme>
+  <programme start="20261013144500 -0500" stop="20261013151000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T5-E15 Director's Rut / Friday Night Fights</title>
+  </programme>
+  <programme start="20261013151000 -0500" stop="20261013153000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T3-E23 Home of the Fave / Hero Today, Gone Tomorrow</title>
+  </programme>
+  <programme start="20261013153000 -0500" stop="20261013154500 -0500" channel="nickelodeon.ec">
+    <title>The Patrick Star Show T5-E8 Witless of the Prosecution</title>
+  </programme>
+  <programme start="20261013154500 -0500" stop="20261013155500 -0500" channel="nickelodeon.ec">
+    <title>The Patrick Star Show T5-E7 Dad Election</title>
+  </programme>
+  <programme start="20261013155500 -0500" stop="20261013161500 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T2-E96 Bassward / Squidiot Box</title>
+  </programme>
+  <programme start="20261013161500 -0500" stop="20261013164000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T8-E8 Karaless Whisper / Dollars and Scents</title>
+  </programme>
+  <programme start="20261013164000 -0500" stop="20261013165500 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T4-E11 The Last Loud on Earth</title>
+  </programme>
+  <programme start="20261013165500 -0500" stop="20261013171500 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T5-E13 Hurl, Interrupted / Diamonds Are for Never</title>
+  </programme>
+  <programme start="20261013171500 -0500" stop="20261013174000 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T2-E58 Boss for a Day / the Goofy Newbie</title>
+  </programme>
+  <programme start="20261013174000 -0500" stop="20261013180000 -0500" channel="nickelodeon.ec">
+    <title>SpongeBob SquarePants T3-E36 The Lady In the Lighthouse / Bitter Groans and Gardens</title>
+  </programme>
+  <programme start="20261013180000 -0500" stop="20261013181500 -0500" channel="nickelodeon.ec">
+    <title>The Patrick Star Show T5-E8 Witless of the Prosecution</title>
+  </programme>
+  <programme start="20261013181500 -0500" stop="20261013183000 -0500" channel="nickelodeon.ec">
+    <title>The Patrick Star Show T5-E7 Dad Election</title>
+  </programme>
+  <programme start="20261013183000 -0500" stop="20261013185000 -0500" channel="nickelodeon.ec">
+    <title>The Marsupilamis T1-E5 Mar-Snoop / Canteen Carnage</title>
+  </programme>
+  <programme start="20261013185000 -0500" stop="20261013190000 -0500" channel="nickelodeon.ec">
+    <title>The Marsupilamis T1-E12 Mar-Spooky-Lami</title>
+  </programme>
+  <programme start="20261013190000 -0500" stop="20261013192500 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T6-E23 Snow Escape / Snow News Day</title>
+  </programme>
+  <programme start="20261013192500 -0500" stop="20261013195000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T6-E24 Day of the Dad / Small Blunder</title>
+  </programme>
+  <programme start="20261013195000 -0500" stop="20261013200000 -0500" channel="nickelodeon.ec">
+    <title>The Loud House T9-E5 Scene Steeler</title>
+  </programme>
+  <programme start="20261013200000 -0500" stop="20261013202500 -0500" channel="nickelodeon.ec">
+    <title>Henry Danger T2-E10 Indestructible Henry Part 1</title>
+  </programme>
+  <programme start="20261013202500 -0500" stop="20261013205000 -0500" channel="nickelodeon.ec">
+    <title>Henry Danger T2-E11 Indestructible Henry Part 2</title>
+  </programme>
+  <programme start="20261013205000 -0500" stop="20261013211500 -0500" channel="nickelodeon.ec">
+    <title>Danger Force T1-E2 Captain Mayonnaise</title>
+  </programme>
+  <programme start="20261013211500 -0500" stop="20261013213500 -0500" channel="nickelodeon.ec">
+    <title>The Thundermans Undercover T1-E2 Faulty Powers</title>
+  </programme>
+  <programme start="20261013213500 -0500" stop="20261013220000 -0500" channel="nickelodeon.ec">
+    <title>That Girl Lay Lay T2-E2 Ain't That a Glitch - Part Two</title>
+  </programme>
+  <programme start="20261013220000 -0500" stop="20261013222500 -0500" channel="nickelodeon.ec">
+    <title>iCarly T2-E18 Ireunite with Missy</title>
+  </programme>
+  <programme start="20261013222500 -0500" stop="20261013225000 -0500" channel="nickelodeon.ec">
+    <title>iCarly T2-E19 Iwant My Website Back</title>
+  </programme>
+  <programme start="20261013225000 -0500" stop="20261013231500 -0500" channel="nickelodeon.ec">
+    <title>Victorious T3-E3 The Worst Couple</title>
+  </programme>
+  <programme start="20261013231500 -0500" stop="20261013233500 -0500" channel="nickelodeon.ec">
+    <title>Sam y Cat T1-E4 #Thebritbrats</title>
+  </programme>
+  <programme start="20261013233500 -0500" stop="20261014000000 -0500" channel="nickelodeon.ec">
+    <title>Tales of the Teenage Mutant Ninja Turtles T2-E3 Raph Fights Everyone</title>
+  </programme>
+  <channel id="disney_channel.ec">
+    <display-name>Disney Channel</display-name>
+  </channel>
+  <programme start="20261012233900 -0500" stop="20261013000100 -0500" channel="disney_channel.ec">
+    <title>Miraculous Las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20261013000100 -0500" stop="20261013002300 -0500" channel="disney_channel.ec">
+    <title>La casa Búho</title>
+  </programme>
+  <programme start="20261013002300 -0500" stop="20261013004600 -0500" channel="disney_channel.ec">
+    <title>Los Vecinos Green Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.</title>
+  </programme>
+  <programme start="20261013004600 -0500" stop="20261013011100 -0500" channel="disney_channel.ec">
+    <title>Los Hechiceros Más Allá De Waverly Place</title>
+  </programme>
+  <programme start="20261013011100 -0500" stop="20261013013400 -0500" channel="disney_channel.ec">
+    <title>Jessie</title>
+  </programme>
+  <programme start="20261013013400 -0500" stop="20261013015700 -0500" channel="disney_channel.ec">
+    <title>Los hechiceros de Waverly Place</title>
+  </programme>
+  <programme start="20261013015700 -0500" stop="20261013021900 -0500" channel="disney_channel.ec">
+    <title>Star vs. Las Fuerzas del Mal Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar.</title>
+  </programme>
+  <programme start="20261013021900 -0500" stop="20261013024200 -0500" channel="disney_channel.ec">
+    <title>Los Vecinos Green Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.</title>
+  </programme>
+  <programme start="20261013024200 -0500" stop="20261013030500 -0500" channel="disney_channel.ec">
+    <title>Miraculous Las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20261013030500 -0500" stop="20261013032700 -0500" channel="disney_channel.ec">
+    <title>Las aventuras enredadas de Rapunzel</title>
+  </programme>
+  <programme start="20261013032700 -0500" stop="20261013033900 -0500" channel="disney_channel.ec">
+    <title>Star vs. Las Fuerzas del Mal Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar.</title>
+  </programme>
+  <programme start="20261013033900 -0500" stop="20261013035100 -0500" channel="disney_channel.ec">
+    <title>Star vs. Las Fuerzas del Mal Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar.</title>
+  </programme>
+  <programme start="20261013035100 -0500" stop="20261013042300 -0500" channel="disney_channel.ec">
+    <title>Miraculous Las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20261013042300 -0500" stop="20261013044500 -0500" channel="disney_channel.ec">
+    <title>Phineas y Ferb Las audaces aventuras de dos hermanastros terminan obstaculizando el estilo de vida de su hermana adolescente mientras trata de exponerlos con sus padres.</title>
+  </programme>
+  <programme start="20261013044500 -0500" stop="20261013050000 -0500" channel="disney_channel.ec">
+    <title>Los Vecinos Green Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.</title>
+  </programme>
+  <programme start="20261013050000 -0500" stop="20261013051100 -0500" channel="disney_channel.ec">
+    <title>Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20261013051100 -0500" stop="20261013052200 -0500" channel="disney_channel.ec">
+    <title>Mickey Mouse</title>
+  </programme>
+  <programme start="20261013052200 -0500" stop="20261013054800 -0500" channel="disney_channel.ec">
+    <title>Phineas y Ferb Las audaces aventuras de dos hermanastros terminan obstaculizando el estilo de vida de su hermana adolescente mientras trata de exponerlos con sus padres.</title>
+  </programme>
+  <programme start="20261013054800 -0500" stop="20261013060000 -0500" channel="disney_channel.ec">
+    <title>Phineas y Ferb Las audaces aventuras de dos hermanastros terminan obstaculizando el estilo de vida de su hermana adolescente mientras trata de exponerlos con sus padres.</title>
+  </programme>
+  <programme start="20261013060000 -0500" stop="20261013062900 -0500" channel="disney_channel.ec">
+    <title>Gravity Falls: Un Verano de Misterios Los gemelos Dipper y Mabel se encuentran en una aventura inesperada cuando pasan el verano con su tío abuelo en la misteriosa ciudad de Gravity Falls.</title>
+  </programme>
+  <programme start="20261013062900 -0500" stop="20261013065900 -0500" channel="disney_channel.ec">
+    <title>Big City Greens Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.</title>
+  </programme>
+  <programme start="20261013065900 -0500" stop="20261013072900 -0500" channel="disney_channel.ec">
+    <title>Kiff</title>
+  </programme>
+  <programme start="20261013072900 -0500" stop="20261013080000 -0500" channel="disney_channel.ec">
+    <title>Amphibia Una niña de 13 años que, tras robar una caja musical, es transportada a un pantano salvaje lleno de ranas parlantes donde descubre la verdadera amistad.</title>
+  </programme>
+  <programme start="20261013080000 -0500" stop="20261013083000 -0500" channel="disney_channel.ec">
+    <title>Hamster &amp; Gretel</title>
+  </programme>
+  <programme start="20261013083000 -0500" stop="20261013090000 -0500" channel="disney_channel.ec">
+    <title>El fantasma y Molly McGee</title>
+  </programme>
+  <programme start="20261013090000 -0500" stop="20261013092900 -0500" channel="disney_channel.ec">
+    <title>StuGo Campamento de verano</title>
+  </programme>
+  <programme start="20261013092900 -0500" stop="20261013095900 -0500" channel="disney_channel.ec">
+    <title>Zombies la serie re-animada</title>
+  </programme>
+  <programme start="20261013095900 -0500" stop="20261013102800 -0500" channel="disney_channel.ec">
+    <title>Phineas y Ferb Las audaces aventuras de dos hermanastros terminan obstaculizando el estilo de vida de su hermana adolescente mientras trata de exponerlos con sus padres.</title>
+  </programme>
+  <programme start="20261013102800 -0500" stop="20261013105900 -0500" channel="disney_channel.ec">
+    <title>Miraculous Las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20261013105900 -0500" stop="20261013112400 -0500" channel="disney_channel.ec">
+    <title>Liv y Maddie Liv, una estrella en Hollywood cuyo programa acaba de terminar tras 4 años al aire, regresa a Wisconsin para reunirse con su hermana gemela y su familia.</title>
+  </programme>
+  <programme start="20261013112400 -0500" stop="20261013115100 -0500" channel="disney_channel.ec">
+    <title>Liv y Maddie Liv, una estrella en Hollywood cuyo programa acaba de terminar tras 4 años al aire, regresa a Wisconsin para reunirse con su hermana gemela y su familia.</title>
+  </programme>
+  <programme start="20261013115100 -0500" stop="20261013121800 -0500" channel="disney_channel.ec">
+    <title>Liv y Maddie Liv, una estrella en Hollywood cuyo programa acaba de terminar tras 4 años al aire, regresa a Wisconsin para reunirse con su hermana gemela y su familia.</title>
+  </programme>
+  <programme start="20261013121800 -0500" stop="20261013123100 -0500" channel="disney_channel.ec">
+    <title>Phineas y Ferb Las audaces aventuras de dos hermanastros terminan obstaculizando el estilo de vida de su hermana adolescente mientras trata de exponerlos con sus padres.</title>
+  </programme>
+  <programme start="20261013123100 -0500" stop="20261013130000 -0500" channel="disney_channel.ec">
+    <title>Los Hechiceros Más Allá De Waverly Place</title>
+  </programme>
+  <programme start="20261013130000 -0500" stop="20261013133100 -0500" channel="disney_channel.ec">
+    <title>Moon Girl y Devil, el dinosaurio</title>
+  </programme>
+  <programme start="20261013133100 -0500" stop="20261013135900 -0500" channel="disney_channel.ec">
+    <title>Kiff</title>
+  </programme>
+  <programme start="20261013135900 -0500" stop="20261013143000 -0500" channel="disney_channel.ec">
+    <title>Zombies la serie re-animada</title>
+  </programme>
+  <programme start="20261013143000 -0500" stop="20261013145800 -0500" channel="disney_channel.ec">
+    <title>Star vs. Las Fuerzas del Mal Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar.</title>
+  </programme>
+  <programme start="20261013145800 -0500" stop="20261013153000 -0500" channel="disney_channel.ec">
+    <title>Gravity Falls: Un Verano de Misterios Los gemelos Dipper y Mabel se encuentran en una aventura inesperada cuando pasan el verano con su tío abuelo en la misteriosa ciudad de Gravity Falls.</title>
+  </programme>
+  <programme start="20261013153000 -0500" stop="20261013155900 -0500" channel="disney_channel.ec">
+    <title>Miraculous Las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20261013155900 -0500" stop="20261013162900 -0500" channel="disney_channel.ec">
+    <title>Los Vecinos Green Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.</title>
+  </programme>
+  <programme start="20261013162900 -0500" stop="20261013165900 -0500" channel="disney_channel.ec">
+    <title>Dragon Striker</title>
+  </programme>
+  <programme start="20261013165900 -0500" stop="20261013172900 -0500" channel="disney_channel.ec">
+    <title>Phineas y Ferb Las audaces aventuras de dos hermanastros terminan obstaculizando el estilo de vida de su hermana adolescente mientras trata de exponerlos con sus padres.</title>
+  </programme>
+  <programme start="20261013172900 -0500" stop="20261013175900 -0500" channel="disney_channel.ec">
+    <title>Los Hechiceros Más Allá De Waverly Place</title>
+  </programme>
+  <programme start="20261013175900 -0500" stop="20261013182800 -0500" channel="disney_channel.ec">
+    <title>Vampirina Una Vampirina adolescente</title>
+  </programme>
+  <programme start="20261013182800 -0500" stop="20261013185900 -0500" channel="disney_channel.ec">
+    <title>Jessie</title>
+  </programme>
+  <programme start="20261013185900 -0500" stop="20261013191600 -0500" channel="disney_channel.ec">
+    <title>Academia de brujas</title>
+  </programme>
+  <programme start="20261013191600 -0500" stop="20261013192900 -0500" channel="disney_channel.ec">
+    <title>Academia de brujas</title>
+  </programme>
+  <programme start="20261013192900 -0500" stop="20261013195900 -0500" channel="disney_channel.ec">
+    <title>Hannah Montana</title>
+  </programme>
+  <programme start="20261013195900 -0500" stop="20261013203000 -0500" channel="disney_channel.ec">
+    <title>¡Buena suerte, Charlie!</title>
+  </programme>
+  <programme start="20261013203000 -0500" stop="20261013205900 -0500" channel="disney_channel.ec">
+    <title>Electric Bloom La mejor banda del mundo</title>
+  </programme>
+  <programme start="20261013205900 -0500" stop="20261013212700 -0500" channel="disney_channel.ec">
+    <title>Acampados</title>
+  </programme>
+  <programme start="20261013212700 -0500" stop="20261013215200 -0500" channel="disney_channel.ec">
+    <title>Vampirina Una Vampirina adolescente</title>
+  </programme>
+  <programme start="20261013215200 -0500" stop="20261013221800 -0500" channel="disney_channel.ec">
+    <title>Amphibia Una niña de 13 años que, tras robar una caja musical, es transportada a un pantano salvaje lleno de ranas parlantes donde descubre la verdadera amistad.</title>
+  </programme>
+  <programme start="20261013221800 -0500" stop="20261013224400 -0500" channel="disney_channel.ec">
+    <title>Phineas y Ferb Las audaces aventuras de dos hermanastros terminan obstaculizando el estilo de vida de su hermana adolescente mientras trata de exponerlos con sus padres.</title>
+  </programme>
+  <programme start="20261013224400 -0500" stop="20261013230700 -0500" channel="disney_channel.ec">
+    <title>StuGo Campamento de verano</title>
+  </programme>
+  <programme start="20261013230700 -0500" stop="20261013231800 -0500" channel="disney_channel.ec">
+    <title>Zombies la serie re-animada</title>
+  </programme>
+  <programme start="20261013231800 -0500" stop="20261013233100 -0500" channel="disney_channel.ec">
+    <title>Tara Duncan</title>
+  </programme>
+  <programme start="20261013233100 -0500" stop="20261013235400 -0500" channel="disney_channel.ec">
+    <title>Miraculous Las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20261013235400 -0500" stop="20261014001700 -0500" channel="disney_channel.ec">
+    <title>La casa Búho</title>
+  </programme>
+  <channel id="Cartoonito.ec">
+    <display-name>Cartoonito</display-name>
+  </channel>
+  <programme start="20261012235900 -0500" stop="20261013000500 -0500" channel="Cartoonito.ec">
+    <title>Cuquin Regalo</title>
+  </programme>
+  <programme start="20261013000500 -0500" stop="20261013001000 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks Happy Campers</title>
+  </programme>
+  <programme start="20261013001000 -0500" stop="20261013001500 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks Fractions Are a Piece of Cake</title>
+  </programme>
+  <programme start="20261013001500 -0500" stop="20261013002100 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks Five's Super Sorter</title>
+  </programme>
+  <programme start="20261013002100 -0500" stop="20261013002600 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks The Forest of Tens</title>
+  </programme>
+  <programme start="20261013002600 -0500" stop="20261013003100 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks Five Makes a Wish</title>
+  </programme>
+  <programme start="20261013003100 -0500" stop="20261013003600 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks Subtraction Somersaults</title>
+  </programme>
+  <programme start="20261013003600 -0500" stop="20261013005800 -0500" channel="Cartoonito.ec">
+    <title>Booba Round Worlds</title>
+  </programme>
+  <programme start="20261013005800 -0500" stop="20261013010500 -0500" channel="Cartoonito.ec">
+    <title>Booba The director</title>
+  </programme>
+  <programme start="20261013010500 -0500" stop="20261013011200 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita ¡Imagínate! Abre las puertas de la creatividad</title>
+  </programme>
+  <programme start="20261013011200 -0500" stop="20261013011600 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita TV Shorts Along the Way</title>
+  </programme>
+  <programme start="20261013011600 -0500" stop="20261013012000 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita TV Shorts O amor da adoção</title>
+  </programme>
+  <programme start="20261013012000 -0500" stop="20261013012300 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita TV Shorts Canção pro universo</title>
+  </programme>
+  <programme start="20261013012300 -0500" stop="20261013013500 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Coaster Contest</title>
+  </programme>
+  <programme start="20261013013500 -0500" stop="20261013014700 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Taz Recycle</title>
+  </programme>
+  <programme start="20261013014700 -0500" stop="20261013015800 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Hare Ball</title>
+  </programme>
+  <programme start="20261013015800 -0500" stop="20261013021000 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Nightbikes Noisy Night</title>
+  </programme>
+  <programme start="20261013021000 -0500" stop="20261013022100 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Wish Upon a Car</title>
+  </programme>
+  <programme start="20261013022100 -0500" stop="20261013023200 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Improvisando motores</title>
+  </programme>
+  <programme start="20261013023200 -0500" stop="20261013024400 -0500" channel="Cartoonito.ec">
+    <title>Batwheels El apodo de Buff</title>
+  </programme>
+  <programme start="20261013024400 -0500" stop="20261013025500 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Adivina adivinador</title>
+  </programme>
+  <programme start="20261013025500 -0500" stop="20261013030200 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Great Wall Disco</title>
+  </programme>
+  <programme start="20261013030200 -0500" stop="20261013030900 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Bear Family</title>
+  </programme>
+  <programme start="20261013030900 -0500" stop="20261013031600 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Hold-Up, Hens &amp; Yummy</title>
+  </programme>
+  <programme start="20261013031600 -0500" stop="20261013032300 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Hide-n-Seek Lemmings</title>
+  </programme>
+  <programme start="20261013032300 -0500" stop="20261013033100 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings All Out for Silk</title>
+  </programme>
+  <programme start="20261013033100 -0500" stop="20261013033800 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Strong Will (Ex Fatal Mind Control)</title>
+  </programme>
+  <programme start="20261013033800 -0500" stop="20261013034500 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Ultra Wool</title>
+  </programme>
+  <programme start="20261013034500 -0500" stop="20261013035200 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings The Crime Was Almost Yummy</title>
+  </programme>
+  <programme start="20261013035200 -0500" stop="20261013035900 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Cabin, My Love</title>
+  </programme>
+  <programme start="20261013035900 -0500" stop="20261013040700 -0500" channel="Cartoonito.ec">
+    <title>Lu y sus amigos Gotcha!</title>
+  </programme>
+  <programme start="20261013040700 -0500" stop="20261013041500 -0500" channel="Cartoonito.ec">
+    <title>Lu y sus amigos Costume Day</title>
+  </programme>
+  <programme start="20261013041500 -0500" stop="20261013042300 -0500" channel="Cartoonito.ec">
+    <title>Lu y sus amigos Scary Tara</title>
+  </programme>
+  <programme start="20261013042300 -0500" stop="20261013043100 -0500" channel="Cartoonito.ec">
+    <title>Lu y sus amigos Copy Copy Caterpillar</title>
+  </programme>
+  <programme start="20261013043100 -0500" stop="20261013043900 -0500" channel="Cartoonito.ec">
+    <title>Lu y sus amigos I Can Catch</title>
+  </programme>
+  <programme start="20261013043900 -0500" stop="20261013044700 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó Pocoyo's Car</title>
+  </programme>
+  <programme start="20261013044700 -0500" stop="20261013045400 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó Pocoyo mágico</title>
+  </programme>
+  <programme start="20261013045400 -0500" stop="20261013050100 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó Vinyl Love - Part 1</title>
+  </programme>
+  <programme start="20261013050100 -0500" stop="20261013050900 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó Vinyl Love - Part 2</title>
+  </programme>
+  <programme start="20261013050900 -0500" stop="20261013053200 -0500" channel="Cartoonito.ec">
+    <title>La casa de muñecas de Gabby Mission to CATurn</title>
+  </programme>
+  <programme start="20261013053200 -0500" stop="20261013053900 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita ¡Imagínate! Aún lejos, siempre cerca</title>
+  </programme>
+  <programme start="20261013053900 -0500" stop="20261013054600 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita ¡Imagínate! Hay tiempo para todo</title>
+  </programme>
+  <programme start="20261013054600 -0500" stop="20261013060000 -0500" channel="Cartoonito.ec">
+    <title>Creciendo con la Gallina Pintadita Chickadee Goes Shopping</title>
+  </programme>
+  <programme start="20261013060000 -0500" stop="20261013060700 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Choreography</title>
+  </programme>
+  <programme start="20261013060700 -0500" stop="20261013061400 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Rainbow Badge</title>
+  </programme>
+  <programme start="20261013061400 -0500" stop="20261013062100 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Sandcastle Badge</title>
+  </programme>
+  <programme start="20261013062100 -0500" stop="20261013062800 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Pottery Badge</title>
+  </programme>
+  <programme start="20261013062800 -0500" stop="20261013063600 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Key Badge</title>
+  </programme>
+  <programme start="20261013063600 -0500" stop="20261013064400 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Honey Badge</title>
+  </programme>
+  <programme start="20261013064400 -0500" stop="20261013065100 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Face Painting Badge</title>
+  </programme>
+  <programme start="20261013065100 -0500" stop="20261013065800 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Grandparents Badge</title>
+  </programme>
+  <programme start="20261013065800 -0500" stop="20261013070500 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Paper Boat Badge</title>
+  </programme>
+  <programme start="20261013070500 -0500" stop="20261013071700 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Balloon Voyage</title>
+  </programme>
+  <programme start="20261013071700 -0500" stop="20261013072800 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Beignet Day</title>
+  </programme>
+  <programme start="20261013072800 -0500" stop="20261013074000 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Looney Science</title>
+  </programme>
+  <programme start="20261013074000 -0500" stop="20261013075200 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Castle Hassle</title>
+  </programme>
+  <programme start="20261013075200 -0500" stop="20261013080300 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Fire Fighters</title>
+  </programme>
+  <programme start="20261013080300 -0500" stop="20261013081400 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Harley Did It</title>
+  </programme>
+  <programme start="20261013081400 -0500" stop="20261013082600 -0500" channel="Cartoonito.ec">
+    <title>Batwheels El día de Zoom</title>
+  </programme>
+  <programme start="20261013082600 -0500" stop="20261013083800 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Bibi's Bad Day</title>
+  </programme>
+  <programme start="20261013083800 -0500" stop="20261013084900 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Kitty Kong</title>
+  </programme>
+  <programme start="20261013084900 -0500" stop="20261013090100 -0500" channel="Cartoonito.ec">
+    <title>Batwheels El apodo de Buff</title>
+  </programme>
+  <programme start="20261013090100 -0500" stop="20261013090800 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings For Real</title>
+  </programme>
+  <programme start="20261013090800 -0500" stop="20261013091500 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Firefly Party</title>
+  </programme>
+  <programme start="20261013091500 -0500" stop="20261013092200 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Ultra Wool</title>
+  </programme>
+  <programme start="20261013092200 -0500" stop="20261013092900 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Every Which Way</title>
+  </programme>
+  <programme start="20261013092900 -0500" stop="20261013093700 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Interplanetary Cabin</title>
+  </programme>
+  <programme start="20261013093700 -0500" stop="20261013094900 -0500" channel="Cartoonito.ec">
+    <title>Creciendo con la Gallina Pintadita Chickadee Goes Shopping</title>
+  </programme>
+  <programme start="20261013094900 -0500" stop="20261013095600 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita ¡Imagínate! Mío, tuyo, nuestro</title>
+  </programme>
+  <programme start="20261013095600 -0500" stop="20261013100300 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita ¡Imagínate! Todo en su lugar</title>
+  </programme>
+  <programme start="20261013100300 -0500" stop="20261013102700 -0500" channel="Cartoonito.ec">
+    <title>La casa de muñecas de Gabby Baby Box's Crafty-riffic Adventure</title>
+  </programme>
+  <programme start="20261013102700 -0500" stop="20261013103500 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó Grande y pequeño</title>
+  </programme>
+  <programme start="20261013103500 -0500" stop="20261013104300 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó Duck Call</title>
+  </programme>
+  <programme start="20261013104300 -0500" stop="20261013105000 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó Hole Lotta Trouble</title>
+  </programme>
+  <programme start="20261013105000 -0500" stop="20261013105700 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó What Luck</title>
+  </programme>
+  <programme start="20261013105700 -0500" stop="20261013110400 -0500" channel="Cartoonito.ec">
+    <title>La araña Lucas Findley está enfermo</title>
+  </programme>
+  <programme start="20261013110400 -0500" stop="20261013111200 -0500" channel="Cartoonito.ec">
+    <title>La araña Lucas Feliz "Eructaños"</title>
+  </programme>
+  <programme start="20261013111200 -0500" stop="20261013112000 -0500" channel="Cartoonito.ec">
+    <title>La araña Lucas Una nueva araña en la ciudad</title>
+  </programme>
+  <programme start="20261013112000 -0500" stop="20261013112700 -0500" channel="Cartoonito.ec">
+    <title>La araña Lucas Luces y estruendos</title>
+  </programme>
+  <programme start="20261013112700 -0500" stop="20261013113500 -0500" channel="Cartoonito.ec">
+    <title>La araña Lucas Amor de perros</title>
+  </programme>
+  <programme start="20261013113500 -0500" stop="20261013114100 -0500" channel="Cartoonito.ec">
+    <title>Cuquin Mundo submarino</title>
+  </programme>
+  <programme start="20261013114100 -0500" stop="20261013114800 -0500" channel="Cartoonito.ec">
+    <title>Cuquin Robi's Arm</title>
+  </programme>
+  <programme start="20261013114800 -0500" stop="20261013115400 -0500" channel="Cartoonito.ec">
+    <title>Cuquin Mask</title>
+  </programme>
+  <programme start="20261013115400 -0500" stop="20261013120100 -0500" channel="Cartoonito.ec">
+    <title>Cuquin Pirates &amp; Vikings</title>
+  </programme>
+  <programme start="20261013120100 -0500" stop="20261013120600 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks Double Duets</title>
+  </programme>
+  <programme start="20261013120600 -0500" stop="20261013121100 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks You're Five Ones and I'm Five Tens</title>
+  </programme>
+  <programme start="20261013121100 -0500" stop="20261013121600 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks The Pyramid of Puzzles</title>
+  </programme>
+  <programme start="20261013121600 -0500" stop="20261013122200 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks Back in the Box!</title>
+  </programme>
+  <programme start="20261013122200 -0500" stop="20261013122700 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks Odd Block Club</title>
+  </programme>
+  <programme start="20261013122700 -0500" stop="20261013123200 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks I'll Vote for That!</title>
+  </programme>
+  <programme start="20261013123200 -0500" stop="20261013123900 -0500" channel="Cartoonito.ec">
+    <title>Booba Easter Bunny</title>
+  </programme>
+  <programme start="20261013123900 -0500" stop="20261013124600 -0500" channel="Cartoonito.ec">
+    <title>Booba The Missing Parcel</title>
+  </programme>
+  <programme start="20261013124600 -0500" stop="20261013125400 -0500" channel="Cartoonito.ec">
+    <title>Booba Bumblebee</title>
+  </programme>
+  <programme start="20261013125400 -0500" stop="20261013130000 -0500" channel="Cartoonito.ec">
+    <title>Booba The Unexpected Guest</title>
+  </programme>
+  <programme start="20261013130000 -0500" stop="20261013130700 -0500" channel="Cartoonito.ec">
+    <title>Booba The Great Swap</title>
+  </programme>
+  <programme start="20261013130700 -0500" stop="20261013131400 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita ¡Imagínate! ¿Qué insecto es ese?</title>
+  </programme>
+  <programme start="20261013131400 -0500" stop="20261013132200 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita ¡Imagínate! Todos juntos, ¡Vamos!</title>
+  </programme>
+  <programme start="20261013132200 -0500" stop="20261013132400 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita TV Shorts A boneca e o boneco</title>
+  </programme>
+  <programme start="20261013132400 -0500" stop="20261013132800 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita TV Shorts Trêm das Estações</title>
+  </programme>
+  <programme start="20261013132800 -0500" stop="20261013133100 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita TV Shorts O parquinho</title>
+  </programme>
+  <programme start="20261013133100 -0500" stop="20261013134200 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Crane Game</title>
+  </programme>
+  <programme start="20261013134200 -0500" stop="20261013135400 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Cheesy Peasy</title>
+  </programme>
+  <programme start="20261013135400 -0500" stop="20261013140600 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Honey Bunny</title>
+  </programme>
+  <programme start="20261013140600 -0500" stop="20261013141700 -0500" channel="Cartoonito.ec">
+    <title>Batwheels The Bestah Way</title>
+  </programme>
+  <programme start="20261013141700 -0500" stop="20261013142900 -0500" channel="Cartoonito.ec">
+    <title>Batwheels El Mágico Presto</title>
+  </programme>
+  <programme start="20261013142900 -0500" stop="20261013144100 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Cueva dulce cueva</title>
+  </programme>
+  <programme start="20261013144100 -0500" stop="20261013145200 -0500" channel="Cartoonito.ec">
+    <title>Batwheels AquaWheels</title>
+  </programme>
+  <programme start="20261013145200 -0500" stop="20261013150300 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Bati-cobarde</title>
+  </programme>
+  <programme start="20261013150300 -0500" stop="20261013151000 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Dad Despite Himself</title>
+  </programme>
+  <programme start="20261013151000 -0500" stop="20261013151700 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Lost Object</title>
+  </programme>
+  <programme start="20261013151700 -0500" stop="20261013152400 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Were-Lemming</title>
+  </programme>
+  <programme start="20261013152400 -0500" stop="20261013153100 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Grasshopper Bounty</title>
+  </programme>
+  <programme start="20261013153100 -0500" stop="20261013153900 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Pirates in Sight</title>
+  </programme>
+  <programme start="20261013153900 -0500" stop="20261013154600 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Tough Cookie</title>
+  </programme>
+  <programme start="20261013154600 -0500" stop="20261013155300 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Program On Demand</title>
+  </programme>
+  <programme start="20261013155300 -0500" stop="20261013160000 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Flying Sands</title>
+  </programme>
+  <programme start="20261013160000 -0500" stop="20261013160700 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Cozy Nest</title>
+  </programme>
+  <programme start="20261013160700 -0500" stop="20261013161600 -0500" channel="Cartoonito.ec">
+    <title>Lu y sus amigos Find the Blueberries</title>
+  </programme>
+  <programme start="20261013161600 -0500" stop="20261013162400 -0500" channel="Cartoonito.ec">
+    <title>Lu y sus amigos The Chalk</title>
+  </programme>
+  <programme start="20261013162400 -0500" stop="20261013163200 -0500" channel="Cartoonito.ec">
+    <title>Lu y sus amigos When Bugs Cry</title>
+  </programme>
+  <programme start="20261013163200 -0500" stop="20261013164000 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó The Dino Box</title>
+  </programme>
+  <programme start="20261013164000 -0500" stop="20261013164700 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó Pato's Bedtime</title>
+  </programme>
+  <programme start="20261013164700 -0500" stop="20261013165500 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó Pulporotti</title>
+  </programme>
+  <programme start="20261013165500 -0500" stop="20261013172000 -0500" channel="Cartoonito.ec">
+    <title>La casa de muñecas de Gabby The Mermaid Cruise Ship</title>
+  </programme>
+  <programme start="20261013172000 -0500" stop="20261013172300 -0500" channel="Cartoonito.ec">
+    <title>Bugs Bunny y sus amigos a la obra Hora de trabajar Haunted Garage</title>
+  </programme>
+  <programme start="20261013172300 -0500" stop="20261013173000 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita ¡Imagínate! Inténtalo otra vez</title>
+  </programme>
+  <programme start="20261013173000 -0500" stop="20261013173800 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita ¡Imagínate! El tiempo de las cosas</title>
+  </programme>
+  <programme start="20261013173800 -0500" stop="20261013175000 -0500" channel="Cartoonito.ec">
+    <title>Creciendo con la Gallina Pintadita Little Chickadee Builds a Kite</title>
+  </programme>
+  <programme start="20261013175000 -0500" stop="20261013175400 -0500" channel="Cartoonito.ec">
+    <title>Bugs Bunny y sus amigos a la obra Hora de trabajar Hide N' Seek</title>
+  </programme>
+  <programme start="20261013175400 -0500" stop="20261013180100 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Choreography</title>
+  </programme>
+  <programme start="20261013180100 -0500" stop="20261013180800 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Rainbow Badge</title>
+  </programme>
+  <programme start="20261013180800 -0500" stop="20261013181500 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Sandcastle Badge</title>
+  </programme>
+  <programme start="20261013181500 -0500" stop="20261013182200 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Pottery Badge</title>
+  </programme>
+  <programme start="20261013182200 -0500" stop="20261013183000 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Key Badge</title>
+  </programme>
+  <programme start="20261013183000 -0500" stop="20261013183800 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Honey Badge</title>
+  </programme>
+  <programme start="20261013183800 -0500" stop="20261013184500 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Face Painting Badge</title>
+  </programme>
+  <programme start="20261013184500 -0500" stop="20261013185200 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Grandparents Badge</title>
+  </programme>
+  <programme start="20261013185200 -0500" stop="20261013185900 -0500" channel="Cartoonito.ec">
+    <title>Hey, Duggee The Paper Boat Badge</title>
+  </programme>
+  <programme start="20261013185900 -0500" stop="20261013191100 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Balloon Voyage</title>
+  </programme>
+  <programme start="20261013191100 -0500" stop="20261013192200 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Beignet Day</title>
+  </programme>
+  <programme start="20261013192200 -0500" stop="20261013193400 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Looney Science</title>
+  </programme>
+  <programme start="20261013193400 -0500" stop="20261013194600 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Castle Hassle</title>
+  </programme>
+  <programme start="20261013194600 -0500" stop="20261013195700 -0500" channel="Cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Fire Fighters</title>
+  </programme>
+  <programme start="20261013195700 -0500" stop="20261013200800 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Harley Did It</title>
+  </programme>
+  <programme start="20261013200800 -0500" stop="20261013202000 -0500" channel="Cartoonito.ec">
+    <title>Batwheels El día de Zoom</title>
+  </programme>
+  <programme start="20261013202000 -0500" stop="20261013203200 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Bibi's Bad Day</title>
+  </programme>
+  <programme start="20261013203200 -0500" stop="20261013204300 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Redbird-O-Flage</title>
+  </programme>
+  <programme start="20261013204300 -0500" stop="20261013205500 -0500" channel="Cartoonito.ec">
+    <title>Batwheels Kitty Kong</title>
+  </programme>
+  <programme start="20261013205500 -0500" stop="20261013210600 -0500" channel="Cartoonito.ec">
+    <title>Batwheels El apodo de Buff</title>
+  </programme>
+  <programme start="20261013210600 -0500" stop="20261013211300 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Firefly Party</title>
+  </programme>
+  <programme start="20261013211300 -0500" stop="20261013212100 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Ultra Wool</title>
+  </programme>
+  <programme start="20261013212100 -0500" stop="20261013212800 -0500" channel="Cartoonito.ec">
+    <title>Grizzy and the Lemmings Interplanetary Cabin</title>
+  </programme>
+  <programme start="20261013212800 -0500" stop="20261013214100 -0500" channel="Cartoonito.ec">
+    <title>Creciendo con la Gallina Pintadita Chickadee Goes Shopping</title>
+  </programme>
+  <programme start="20261013214100 -0500" stop="20261013214800 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita ¡Imagínate! La verdad es la mejor manera</title>
+  </programme>
+  <programme start="20261013214800 -0500" stop="20261013215500 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita ¡Imagínate! Todo en su lugar</title>
+  </programme>
+  <programme start="20261013215500 -0500" stop="20261013220200 -0500" channel="Cartoonito.ec">
+    <title>Mundo Bita ¡Imagínate! ¿De dónde viene la lluvia?</title>
+  </programme>
+  <programme start="20261013220200 -0500" stop="20261013222600 -0500" channel="Cartoonito.ec">
+    <title>La casa de muñecas de Gabby Baby Box's Crafty-riffic Adventure</title>
+  </programme>
+  <programme start="20261013222600 -0500" stop="20261013223300 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó Grande y pequeño</title>
+  </programme>
+  <programme start="20261013223300 -0500" stop="20261013224100 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó Duck Call</title>
+  </programme>
+  <programme start="20261013224100 -0500" stop="20261013224800 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó Hole Lotta Trouble</title>
+  </programme>
+  <programme start="20261013224800 -0500" stop="20261013225500 -0500" channel="Cartoonito.ec">
+    <title>Pocoyó What Luck</title>
+  </programme>
+  <programme start="20261013225500 -0500" stop="20261013230300 -0500" channel="Cartoonito.ec">
+    <title>La araña Lucas Findley está enfermo</title>
+  </programme>
+  <programme start="20261013230300 -0500" stop="20261013231000 -0500" channel="Cartoonito.ec">
+    <title>La araña Lucas Feliz "Eructaños"</title>
+  </programme>
+  <programme start="20261013231000 -0500" stop="20261013231800 -0500" channel="Cartoonito.ec">
+    <title>La araña Lucas Una nueva araña en la ciudad</title>
+  </programme>
+  <programme start="20261013231800 -0500" stop="20261013232600 -0500" channel="Cartoonito.ec">
+    <title>La araña Lucas Luces y estruendos</title>
+  </programme>
+  <programme start="20261013232600 -0500" stop="20261013233300 -0500" channel="Cartoonito.ec">
+    <title>La araña Lucas Amor de perros</title>
+  </programme>
+  <programme start="20261013233300 -0500" stop="20261013234000 -0500" channel="Cartoonito.ec">
+    <title>Cuquin Mundo submarino</title>
+  </programme>
+  <programme start="20261013234000 -0500" stop="20261013234600 -0500" channel="Cartoonito.ec">
+    <title>Cuquin Huevo</title>
+  </programme>
+  <programme start="20261013234600 -0500" stop="20261013235300 -0500" channel="Cartoonito.ec">
+    <title>Cuquin Robi's Arm</title>
+  </programme>
+  <programme start="20261013235300 -0500" stop="20261013235900 -0500" channel="Cartoonito.ec">
+    <title>Cuquin Mask</title>
+  </programme>
+  <programme start="20261013235900 -0500" stop="20261014000400 -0500" channel="Cartoonito.ec">
+    <title>Numberblocks Double Duets</title>
+  </programme>
+  <channel id="disney_junior.ec">
+    <display-name>Disney Junior</display-name>
+  </channel>
+  <programme start="20261012234400 -0500" stop="20261013000800 -0500" channel="disney_junior.ec">
+    <title>Henry Monstruito Temporada 1 | Episodio 24 Pasión postal; La súper Cobby-cicleta</title>
+  </programme>
+  <programme start="20261013000800 -0500" stop="20261013003300 -0500" channel="disney_junior.ec">
+    <title>Henry Monstruito Temporada 1 | Episodio 7 Achú ¡So-corro! El juego de Hugglebol</title>
+  </programme>
+  <programme start="20261013003300 -0500" stop="20261013005700 -0500" channel="disney_junior.ec">
+    <title>PJ Masks: Héroes en Pijamas Temporada 3 | Episodio 10 Armalíder; Ululette comete un error</title>
+  </programme>
+  <programme start="20261013005700 -0500" stop="20261013012100 -0500" channel="disney_junior.ec">
+    <title>Star Wars: Aventuras de Jóvenes Jedi Temporada 1 | Episodio 4 El rescate en la montaña nevada; El ataque de los droides de entrenamiento</title>
+  </programme>
+  <programme start="20261013012100 -0500" stop="20261013014600 -0500" channel="disney_junior.ec">
+    <title>Spidey y sus sorprendentes amigos</title>
+  </programme>
+  <programme start="20261013014600 -0500" stop="20261013021100 -0500" channel="disney_junior.ec">
+    <title>Mickey Mouse Funhouse Temporada 1 | Episodio 1 ¡Mickey el valiente!</title>
+  </programme>
+  <programme start="20261013021100 -0500" stop="20261013023500 -0500" channel="disney_junior.ec">
+    <title>PJ Masks: Héroes en Pijamas Temporada 3 | Episodio 11 El monstruo de mancha</title>
+  </programme>
+  <programme start="20261013023500 -0500" stop="20261013025900 -0500" channel="disney_junior.ec">
+    <title>Supergatitos Temporada 1 | Episodio 5 Marmotas atontadas; vuela, pajarito</title>
+  </programme>
+  <programme start="20261013025900 -0500" stop="20261013032200 -0500" channel="disney_junior.ec">
+    <title>Disney Junior Ariel Temporada 1 | Episodio 1 Día de Atlántica; Espíritu ganador</title>
+  </programme>
+  <programme start="20261013032200 -0500" stop="20261013034500 -0500" channel="disney_junior.ec">
+    <title>La Guardia del León Temporada 1 | Episodio 11 El llamado del cenzontle</title>
+  </programme>
+  <programme start="20261013034500 -0500" stop="20261013040900 -0500" channel="disney_junior.ec">
+    <title>Fancy Nancy Clancy Temporada 1 | Episodio 20 La inválida imaginaria; ¡Nancy salta!</title>
+  </programme>
+  <programme start="20261013040900 -0500" stop="20261013043400 -0500" channel="disney_junior.ec">
+    <title>Doctora Juguetes Temporada 1 | Episodio 12 Por culpa de la lluvia; El balón rebotón</title>
+  </programme>
+  <programme start="20261013043400 -0500" stop="20261013050000 -0500" channel="disney_junior.ec">
+    <title>Vampirina Vee es una joven vampira que se muda con su familia de Transilvania a Pensilvania, ella y su familia se deben adaptar la vida como vampiros en la ciudad.</title>
+  </programme>
+  <programme start="20261013050000 -0500" stop="20261013053100 -0500" channel="disney_junior.ec">
+    <title>La casa de Mickey Mouse Temporada 2 | Episodio 1 Goofy, el bailarín</title>
+  </programme>
+  <programme start="20261013053100 -0500" stop="20261013060200 -0500" channel="disney_junior.ec">
+    <title>Spidey y sus sorprendentes amigos Temporada 2 | Episodio 26 Rollin Rhino; The Octopus and the Kitty Cat</title>
+  </programme>
+  <programme start="20261013060200 -0500" stop="20261013063000 -0500" channel="disney_junior.ec">
+    <title>Bluey Temporada 2 El balcón de Santa; Dos niñeros; Nadando en navidad</title>
+  </programme>
+  <programme start="20261013063000 -0500" stop="20261013070000 -0500" channel="disney_junior.ec">
+    <title>Supergatitos Temporada 2 | Episodio 1 Los Supergatitos y la mega rata; Los Supergatitos y el robo a su nueva amiga</title>
+  </programme>
+  <programme start="20261013070000 -0500" stop="20261013070300 -0500" channel="disney_junior.ec">
+    <title>CoComelon Playdates with Sanrio Friends Temporada 1 | Episodio 19</title>
+  </programme>
+  <programme start="20261013070300 -0500" stop="20261013070600 -0500" channel="disney_junior.ec">
+    <title>CoComelon Playdates with Sanrio Friends Temporada 1 | Episodio 20</title>
+  </programme>
+  <programme start="20261013070600 -0500" stop="20261013071500 -0500" channel="disney_junior.ec">
+    <title>CoComelon Playdates with Sanrio Friends Temporada 1 | Episodio 21 Finger Play Song</title>
+  </programme>
+  <programme start="20261013071500 -0500" stop="20261013073100 -0500" channel="disney_junior.ec">
+    <title>Puppy Dog Pals Temporada 3 | Episodio 3 Un pavo en la ciudad / La Fiesta de la Amistad</title>
+  </programme>
+  <programme start="20261013073100 -0500" stop="20261013080000 -0500" channel="disney_junior.ec">
+    <title>Firebuds Temporada 1 | Episodio 22 Vehículo estelar; Fiebre del Equipo de rescate</title>
+  </programme>
+  <programme start="20261013080000 -0500" stop="20261013083000 -0500" channel="disney_junior.ec">
+    <title>Robogobo Temporada 2 | Episodio 18 Una Tarjeta Para Fríocan / Que no Paren los Saltos</title>
+  </programme>
+  <programme start="20261013083000 -0500" stop="20261013090000 -0500" channel="disney_junior.ec">
+    <title>Iron Man y sus increíbles amigos Temporada 1 | Episodio 2 La gran Expo / Botas saltarinas</title>
+  </programme>
+  <programme start="20261013090000 -0500" stop="20261013091900 -0500" channel="disney_junior.ec">
+    <title>Pequeñas historias de Bluey Temporada 2 Compilado 2</title>
+  </programme>
+  <programme start="20261013091900 -0500" stop="20261013093300 -0500" channel="disney_junior.ec">
+    <title>Spidey y sus sorprendentes amigos Temporada 4 | Episodio 5 Caos en el campo</title>
+  </programme>
+  <programme start="20261013093300 -0500" stop="20261013100100 -0500" channel="disney_junior.ec">
+    <title>La casa de Mickey Mouse + Temporada 2 | Episodio 45 La cacería de Halloween</title>
+  </programme>
+  <programme start="20261013100100 -0500" stop="20261013103000 -0500" channel="disney_junior.ec">
+    <title>Princesita Sofía: Magia real Temporada 1 | Episodio 2 Magideslumbrante; Muestra tu hechizo</title>
+  </programme>
+  <programme start="20261013103000 -0500" stop="20261013110100 -0500" channel="disney_junior.ec">
+    <title>Disney Junior Ariel</title>
+  </programme>
+  <programme start="20261013110100 -0500" stop="20261013112700 -0500" channel="disney_junior.ec">
+    <title>Kínder El musical Temporada 1 | Episodio 5 Conejita; Saludos al telón de fondo</title>
+  </programme>
+  <programme start="20261013112700 -0500" stop="20261013113300 -0500" channel="disney_junior.ec">
+    <title>CoComelon Playdates with Sanrio Friends Temporada 1 | Episodio 7</title>
+  </programme>
+  <programme start="20261013113300 -0500" stop="20261013120200 -0500" channel="disney_junior.ec">
+    <title>Los Magicampistas</title>
+  </programme>
+  <programme start="20261013120200 -0500" stop="20261013123100 -0500" channel="disney_junior.ec">
+    <title>Cachorros a la obra Temporada 3 | Episodio 56</title>
+  </programme>
+  <programme start="20261013123100 -0500" stop="20261013130100 -0500" channel="disney_junior.ec">
+    <title>Bluey Temporada 3 | Episodio 43 Dragón</title>
+  </programme>
+  <programme start="20261013130100 -0500" stop="20261013133100 -0500" channel="disney_junior.ec">
+    <title>Doctora Juguetes y su hospital Temporada 4 | Episodio 3 El primer día en la Escuela de Medicina; Felpita descubre su vocación</title>
+  </programme>
+  <programme start="20261013133100 -0500" stop="20261013140100 -0500" channel="disney_junior.ec">
+    <title>Doctora Juguetes y su hospital Temporada 4 | Episodio 4 Turno nocturno; Friolín chequeo-lín</title>
+  </programme>
+  <programme start="20261013140100 -0500" stop="20261013143100 -0500" channel="disney_junior.ec">
+    <title>Supergatitos</title>
+  </programme>
+  <programme start="20261013143100 -0500" stop="20261013150100 -0500" channel="disney_junior.ec">
+    <title>Disney Junior Ariel Temporada 1 | Episodio 10 Ravi y Navi / Flounder el chef</title>
+  </programme>
+  <programme start="20261013150100 -0500" stop="20261013153100 -0500" channel="disney_junior.ec">
+    <title>Henry Monstruito Temporada 1 | Episodio 8 El puesto de huggle-jugo; La fiesta de los huggle-bailes</title>
+  </programme>
+  <programme start="20261013153100 -0500" stop="20261013160400 -0500" channel="disney_junior.ec">
+    <title>Henry Monstruito Temporada 1 | Episodio 10 A pintar la ciudad; Henry, empresario</title>
+  </programme>
+  <programme start="20261013160400 -0500" stop="20261013163200 -0500" channel="disney_junior.ec">
+    <title>Bluey Temporada 3 | Episodio 49 The Sign</title>
+  </programme>
+  <programme start="20261013163200 -0500" stop="20261013170200 -0500" channel="disney_junior.ec">
+    <title>Princesita Sofía Temporada 1 | Episodio 9 El día libre de Baileywick</title>
+  </programme>
+  <programme start="20261013170200 -0500" stop="20261013173200 -0500" channel="disney_junior.ec">
+    <title>Los Magicampistas</title>
+  </programme>
+  <programme start="20261013173200 -0500" stop="20261013180100 -0500" channel="disney_junior.ec">
+    <title>Spidey y sus sorprendentes amigos Temporada 2 | Episodio 28 La aventura embrujada de Bootsie; demasiados trucos y pocos dulces</title>
+  </programme>
+  <programme start="20261013180100 -0500" stop="20261013183100 -0500" channel="disney_junior.ec">
+    <title>¡Hola, A.J.!</title>
+  </programme>
+  <programme start="20261013183100 -0500" stop="20261013190100 -0500" channel="disney_junior.ec">
+    <title>La casa de Mickey Mouse + Temporada 2 | Episodio 30 El día de preparativos de Mickey</title>
+  </programme>
+  <programme start="20261013190100 -0500" stop="20261013193100 -0500" channel="disney_junior.ec">
+    <title>Iron Man y sus increíbles amigos Temporada 1 | Episodio 6</title>
+  </programme>
+  <programme start="20261013193100 -0500" stop="20261013200200 -0500" channel="disney_junior.ec">
+    <title>Puppy Dog Pals Temporada 2 | Episodio 13 Rápido como una chita; Busquen esa sopa</title>
+  </programme>
+  <programme start="20261013200200 -0500" stop="20261013203200 -0500" channel="disney_junior.ec">
+    <title>Puppy Dog Pals Temporada 2 | Episodio 7 Un Santa para Bob; Servicio de protección de muñecos de nieve</title>
+  </programme>
+  <programme start="20261013203200 -0500" stop="20261013210200 -0500" channel="disney_junior.ec">
+    <title>Cachorros a la obra Temporada 2 | Episodio 12</title>
+  </programme>
+  <programme start="20261013210200 -0500" stop="20261013213200 -0500" channel="disney_junior.ec">
+    <title>Puppy Dog Pals Temporada 2 | Episodio 15 Sigue la comida; La isla de Puglligan</title>
+  </programme>
+  <programme start="20261013213200 -0500" stop="20261013220200 -0500" channel="disney_junior.ec">
+    <title>Princesita Sofía Temporada 4 | Episodio 25 El problema de los elfos</title>
+  </programme>
+  <programme start="20261013220200 -0500" stop="20261013223300 -0500" channel="disney_junior.ec">
+    <title>Princesita Sofía Temporada 4 | Episodio 20 Las islas místicas</title>
+  </programme>
+  <programme start="20261013223300 -0500" stop="20261013225700 -0500" channel="disney_junior.ec">
+    <title>Supergatitos Temporada 2 | Episodio 1 Los Supergatitos y la mega rata; Los Supergatitos y el robo a su nueva amiga</title>
+  </programme>
+  <programme start="20261013225700 -0500" stop="20261013232100 -0500" channel="disney_junior.ec">
+    <title>La maravillosa pastelería de Alicia Temporada 1 | Episodio 16 Los Tweedles; Una boda maravillosa</title>
+  </programme>
+  <programme start="20261013232100 -0500" stop="20261013234600 -0500" channel="disney_junior.ec">
+    <title>Kiya y los héroes de Kimoja Temporada 1 | Episodio 10 Carrera en hielo/ Campamento</title>
+  </programme>
+  <programme start="20261013234600 -0500" stop="20261014001000 -0500" channel="disney_junior.ec">
+    <title>Henry Monstruito Temporada 1 | Episodio 8 El puesto de huggle-jugo; La fiesta de los huggle-bailes</title>
+  </programme>
   <channel id="espn.co">
     <display-name>ESPN co</display-name>
   </channel>

@@ -12,6 +12,11 @@ const canales = [
   { id: 'fox.ar', nombre: 'FOX Sports', url: 'https://mi.tv/ar/canales/fox-sports-hd' },
   { id: 'fox2.ar', nombre: 'FOX Sports 2 ', url: 'https://mi.tv/ar/canales/fox-sports-2' },
   { id: 'fox3.ar', nombre: 'FOX Sports 3 ', url: 'https://mi.tv/ar/canales/fox-sports-3' },
+  { id: 'cartoon-network.ec', nombre: 'Cartoon Network ', url: 'https://www.gatotv.com/canal/cartoon_network_ecuador' },
+  { id: 'nickelodeon.ec', nombre: 'Nickelodeon', url: 'https://www.gatotv.com/canal/nickelodeon_ecuador' },
+  { id: 'disney_channel.ec', nombre: 'Disney Channel', url: 'https://www.gatotv.com/canal/disney_channel_ecuador' },
+  { id: 'Cartoonito.ec', nombre: 'Cartoonito', url: 'https://www.gatotv.com/canal/cartoonito_ecuador' },
+  { id: 'disney_junior.ec', nombre: 'Disney Junior', url: 'https://www.gatotv.com/canal/disney_junior_ecuador' },
   { id: 'espn.co', nombre: 'ESPN co', url: 'https://www.gatotv.com/canal/espn_colombia' }
 ];
 
