@@ -111,7 +111,19 @@ const canales = [
     { id: 'mtv_00s.ec',      nombre: 'MTV 00s',         idFuente: 'Canal.MTV.00s.ec' },
     { id: 'mtv_hits.ec',     nombre: 'MTV Hits',        idFuente: 'Canal.MTV.Hits.ec' },
     { id: 'mtv_live.ec',     nombre: 'MTV Live HD',     idFuente: 'Canal.MTV.Live.HD.ec' },
-    { id: 'telehit.ec',      nombre: 'Telehit',         idFuente: 'Canal.Telehit.ec' }
+    { id: 'telehit.ec',      nombre: 'Telehit',         idFuente: 'Canal.Telehit.ec' },
+
+    // ---------- Antes venían de gatotv (que bloquea a GitHub Actions) ----------
+    // Mismos ids que ya usas en lista.m3u.
+    { id: 'espn2.ar',           nombre: 'ESPN 2',          idFuente: 'Canal.ESPN.2.(Ecuador).ec' },
+    { id: 'espn3.ar',           nombre: 'ESPN 3',          idFuente: 'Canal.ESPN.3.(Ecuador).ec' },
+    { id: 'espn4.ec',           nombre: 'ESPN 4',          idFuente: 'Canal.ESPN.4.(Ecuador).ec' },
+    { id: 'cartoon-network.ec', nombre: 'Cartoon Network', idFuente: 'Canal.Cartoon.Network.(Ecuador).ec' },
+    { id: 'nickelodeon.ec',     nombre: 'Nickelodeon',     idFuente: 'Canal.Nickelodeon.(Ecuador).ec' },
+    { id: 'disney_channel.ec',  nombre: 'Disney Channel',  idFuente: 'Canal.Disney.Channel.(Ecuador).ec' },
+    { id: 'disney_junior.ec',   nombre: 'Disney Junior',   idFuente: 'Canal.Disney.Junior.(Ecuador).ec' },
+    { id: 'discovery_kids.ec',  nombre: 'Discovery Kids',  idFuente: 'Canal.Discovery.Kids.(Ecuador).ec' },
+    { id: 'tc_television',      nombre: 'TC Television',   idFuente: 'Canal.TC.Televisión.ec' }
 ];
 
 module.exports = { TAG, canales };

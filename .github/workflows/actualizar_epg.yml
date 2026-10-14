@@ -52,6 +52,9 @@ jobs:
             echo "Sin cambios en mi_guia.xml."
           else
             git commit -m "Actualización automática del EPG"
-            git pull --rebase
+            # --autostash guarda temporalmente cualquier otro archivo modificado
+            # (p. ej. package-lock.json tras npm install) para que el pull no falle.
+            # -X theirs: si hay conflicto en mi_guia.xml, gana la guía recién generada.
+            git pull --rebase --autostash -X theirs
             git push
           fi

@@ -46,6 +46,30 @@ function formatearFecha(horaStr, zonaHoraria, diasExtra = 0) {
     return `${year}${month}${day}${horaLimpia}00 ${zonaHoraria}`;
 }
 
+// Normaliza una hora a formato 24 h "HH:mm".
+// Acepta "23:30", "11:30 PM", "1:30 AM", "12:00 AM". Devuelve null si no es una hora.
+function a24h(texto) {
+    const m = /^(\d{1,2}):(\d{2})\s*([ap])?\.?\s*m?\.?$/i.exec(
+        String(texto).replace(/\u00a0/g, ' ').trim()
+    );
+
+    if (!m) return null;
+
+    let horas = Number(m[1]);
+    const minutos = m[2];
+
+    if (m[3]) {
+        const pm = m[3].toLowerCase() === 'p';
+
+        if (horas === 12) horas = pm ? 12 : 0;
+        else if (pm) horas += 12;
+    }
+
+    if (horas > 23) return null;
+
+    return String(horas).padStart(2, '0') + ':' + minutos;
+}
+
 // Convierte una hora HH:mm a minutos desde medianoche
 function horaAMinutos(horaStr) {
     const [horas, minutos] = horaStr.split(':').map(Number);
@@ -92,6 +116,15 @@ async function generarEPG() {
 
                 const $ = cheerio.load(respuesta.data);
 
+                // Diagnóstico: si gatotv devuelve una página de bloqueo/captcha en vez de la tabla
+                if ($('table tr').length === 0) {
+                    console.warn(
+                        `    ⚠️ gatotv no devolvió la tabla de programación ` +
+                        `(HTTP ${respuesta.status}, título: "${$('title').text().trim()}", ` +
+                        `${String(respuesta.data).length} bytes). ¿Bloqueo a la IP de GitHub?`
+                    );
+                }
+
                 // Para detectar el cambio de día (programas después de medianoche)
                 let diaExtra = 0;
                 let ultimoMin = -1;
@@ -99,23 +132,25 @@ async function generarEPG() {
                 $('table tr').each((i, elemento) => {
                     const columnas = $(elemento).find('td');
 
-                    const horaInicio = columnas.eq(0).text().trim();
-                    const horaFin = columnas.eq(1).text().trim();
+                    // gatotv puede mostrar las horas en 12 h ("11:30 PM") o 24 h
+                    const horaInicio = a24h(columnas.eq(0).text());
+                    const horaFin = a24h(columnas.eq(1).text());
 
-                    const columnaTitulo =
-                        columnas.eq(3).length > 0 ? 3 : 2;
+                    // Título = primera celda con texto a partir de la tercera
+                    let titulo = '';
 
-                    const titulo = columnas
-                        .eq(columnaTitulo)
-                        .text()
-                        .replace(/\s+/g, ' ')
-                        .trim();
+                    for (let c = 2; c < columnas.length && !titulo; c++) {
+                        titulo = columnas
+                            .eq(c)
+                            .text()
+                            .replace(/\s+/g, ' ')
+                            .trim();
+                    }
 
                     if (
-                        horaInicio.includes(':') &&
-                        horaFin.includes(':') &&
+                        horaInicio &&
+                        horaFin &&
                         titulo &&
-                        horaInicio.length <= 5 &&
                         !titulo.includes('Horarios para hoy')
                     ) {
                         const minInicio = horaAMinutos(horaInicio);
