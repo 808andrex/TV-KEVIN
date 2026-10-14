@@ -77,3 +77,27 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/134.m3u8
 #EXTINF:-1 tvg-id="disney_junior.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" group-title="Infantil",Disney disney_junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/284.m3u8
+
+#EXTINF:-1 tvg-id="discovery_kisd.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/revision/latest?cb=20210930223617&path-prefix=es" group-title="Infantil",Discovery Kisd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/264.m3u8
+
+#EXTINF:-1 tvg-id="ecuavisa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Ecuavisa2014.svg/revision/latest?cb=20260204024837&path-prefix=es" group-title="Ecuador",Ecuavisa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://205.235.6.29:8000/play/a0yc/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="teleamazonas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Teleamazonas2007.svg/revision/latest?cb=20260205180535&path-prefix=es" group-title="Ecuador",Teleamazonas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://205.235.6.29:8000/play/a0yd/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="tc_television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png/revision/latest?cb=20201021171747&path-prefix=es"Ecuador",TC Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://205.235.6.29:8000/play/a0yg/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="tvc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest/scale-to-width-down/1000?cb=20230215230242&path-prefix=es" group-title="Ecuador",Televicentro TVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://205.235.6.29:8000/play/a0yh/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="rts" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/RTSEcuador2007.svg/revision/latest?cb=20260206022553&path-prefix=es" group-title="Ecuador",RTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://205.235.6.29:8000/play/a0yi/index.m3u8?hls

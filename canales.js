@@ -17,6 +17,11 @@ const canales = [
   { id: 'disney_channel.ec', nombre: 'Disney Channel', url: 'https://www.gatotv.com/canal/disney_channel_ecuador' },
   { id: 'cartoonito.ec', nombre: 'Cartoonito', url: 'https://www.gatotv.com/canal/cartoonito_ecuador' },
   { id: 'disney_junior.ec', nombre: 'Disney Junior', url: 'https://www.gatotv.com/canal/disney_junior_ecuador' },
+  { id: 'ecuavisa', nombre: 'Ecuavisa', url: 'https://www.gatotv.com/canal/discovery_kids_ecuador' },
+  { id: 'teleamazonas', nombre: 'Teleamazonas', url: 'https://www.gatotv.com/canal/teleamazonas' },
+  { id: 'tc_television', nombre: 'TC Television', url: 'https://www.gatotv.com/canal/tc_television' },
+  { id: 'tvc', nombre: 'Televicentro', url: 'https://www.gatotv.com/canal/discovery_kids_ecuador' },
+  { id: 'rts', nombre: 'RTS', url: 'https://www.gatotv.com/canal/discovery_kids_ecuador' },
   { id: 'espn.co', nombre: 'ESPN co', url: 'https://www.gatotv.com/canal/espn_colombia' }
 ];
 
