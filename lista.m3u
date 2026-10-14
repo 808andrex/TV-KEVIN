@@ -58,7 +58,7 @@ http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/408.m3u8
 
-#EXTINF:-1 tvg-id="cartoon-network.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Infantil",Cartoon Network 
+#EXTINF:-1 tvg-id="cartoon-network.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Infantil",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/128.m3u8
 
@@ -78,7 +78,7 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/134.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/284.m3u8
 
-#EXTINF:-1 tvg-id="discovery_kisd.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/revision/latest?cb=20210930223617&path-prefix=es" group-title="Infantil",Discovery Kisd
+#EXTINF:-1 tvg-id="discovery_kids.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/revision/latest?cb=20210930223617&path-prefix=es" group-title="Infantil",Discovery Kisd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/264.m3u8
 
@@ -90,7 +90,7 @@ http://205.235.6.29:8000/play/a0yc/index.m3u8?hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://205.235.6.29:8000/play/a0yd/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="tc_television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png/revision/latest?cb=20201021171747&path-prefix=es"Ecuador",TC Television
+#EXTINF:-1 tvg-id="tc_television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png/revision/latest?cb=20201021171747&path-prefix=es" group-title="Ecuador",TC Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://205.235.6.29:8000/play/a0yg/index.m3u8?hls
 

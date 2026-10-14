@@ -12,6 +12,10 @@ const { obtenerProgramacion } = require('./scrapers/mitv/scraper');
 // Scraper de DSPORTS 1, 2 y + (fuente: epgshare01.online)
 const { obtenerDSports } = require('./scrapers/directv/scraper');
 
+// Canales de Ecuador desde epgshare01.online (archivo EC1)
+const { obtenerEPGShareMulti } = require('./scrapers/epgshare/scraper');
+const ecuador = require('./scrapers/epgshare/canales-ec');
+
 const esperar = (ms) =>
     new Promise(resolve => setTimeout(resolve, ms));
 
@@ -299,6 +303,40 @@ async function generarEPG() {
     } catch (error) {
         console.error(
             '    ❌ Error al procesar DSPORTS:',
+            error.response?.status || error.message
+        );
+    }
+
+    // ==========================================
+    // CANALES DE ECUADOR (epgshare01.online, EC1)
+    // ==========================================
+    try {
+        console.log('\n📡 Procesando canales de Ecuador (EC1) ...');
+
+        const ec = await obtenerEPGShareMulti({
+            tag: ecuador.TAG,
+            canales: ecuador.canales
+        });
+
+        xml = xml.replace(
+            '</tv>',
+            () => `${ec.xmlCanales}\n${ec.xmlProgramas}\n</tv>`
+        );
+
+        console.log(
+            `    ✔️ ${ec.programas.length} programas añadidos a ` +
+            `${ec.encontrados.length} canales de Ecuador.`
+        );
+
+        if (ec.noEncontrados.length) {
+            console.warn(
+                `    ⚠️ Sin datos / no encontrados: ` +
+                ec.noEncontrados.map(c => c.id).join(', ')
+            );
+        }
+    } catch (error) {
+        console.error(
+            '    ❌ Error al procesar EC1:',
             error.response?.status || error.message
         );
     }
