@@ -5,12 +5,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1111.m3u8
 
+#EXTINF:-1 tvg-id="espn.co" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes",ESPN CO
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1107.m3u8
+
 #EXTINF:-1 tvg-id="espn2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes",ESPN 2
 #EXTVLCOPT:http-reconnect=true
 http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="espn.co" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Deportes",ESPN CO
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/1107.m3u8
 
 #EXTINF:-1 tvg-id="espn3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Deportes",ESPN 3
 http://181.209.80.115:8000/play/espn_3_hd
@@ -31,21 +31,17 @@ http://181.78.12.119:16123/play/ch20/index.m3u8
 #EXTVLCOPT:http-reconnect=true
 http://181.209.105.115:2525/play/espnpremium/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes",TNT Sports Premium
-#EXTVLCOPT:http-reconnect=true
-http://181.209.105.115:2525/play/tntsports/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes",DSports 1
+#EXTINF:-1 tvg-id="dsports1.ec" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes",DSports 1
 http://181.209.80.115:8000/play/dsports_hd
 
-#EXTINF:-1 tvg-id="DSports2.ar" tvg-logo="https://envivo.rojadirectatv.casa//wp-content/uploads/futbol-agenda/canales/directv-sports-2.webp" group-title="Deportes",DSports 2
+#EXTINF:-1 tvg-id="dsports2.ec" tvg-logo="https://es.wikipedia.org/wiki/Archivo:DSports2.png" group-title="Deportes",DSports 2
 http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="Deportes",DSports +
+#EXTINF:-1 tvg-id="dsportsplus.ec" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="Deportes",DSports +
 #EXTVLCOPT:http-reconnect=true
 http://195.178.110.110/dsportsplus/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes",Fox Sports
+#EXTINF:-1 tvg-id="fox.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes",Fox Sports
 http://181.209.80.115:8000/play/fox_sports_hd
 
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true" group-title="Deportes",Fox Sports 2
@@ -53,12 +49,6 @@ http://45.188.229.33:8000/play/a1ae/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true" group-title="Deportes",Fox Sports 3
 http://138.59.227.20:8000/play/a06y/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 1)
-http://38.44.109.41:8003/play/a02l/index.m3u8
-
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes",DeporTV
-http://138.59.227.20:8000/play/a07f/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="DAZN1.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-1-es.png?raw=true" group-title="Deportes",DAZN 1
 #EXTVLCOPT:network-caching=1000
@@ -68,5 +58,3 @@ http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/250px-Las_Estrellas_logo_%282016%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Mexico MX",Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8?bw=8000&segment_size=4&max_bitrate=12000&min_bitrate=3000&frame_rate=60&buffer_length=5&latency=normal

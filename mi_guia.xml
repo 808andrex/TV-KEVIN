@@ -324,6 +324,244 @@
   <programme start="20261013220000 -0500" stop="20261013000000 -0500" channel="espn7.ec">
     <title>Arsenal vs. Lille Fútbol UEFA Champions League</title>
   </programme>
+  <channel id="fox.ar">
+    <display-name>FOX Sports</display-name>
+  </channel>
+  <programme start="20261013050000 -0300" stop="20261013070000 -0300" channel="fox.ar">
+    <title>West Ham Utd. vs. Queens Park Rangers</title>
+    <sub-title>Fecha 9, London Stadium</sub-title>
+    <desc>Vive los partidos de la 25º edición de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división.</desc>
+  </programme>
+  <programme start="20261013070000 -0300" stop="20261013090000 -0300" channel="fox.ar">
+    <title>Bolton vs. Stoke City</title>
+    <sub-title>Fecha 9, Toughsheet Community Stadium</sub-title>
+    <desc>Vive los partidos de la 25º edición de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división.</desc>
+  </programme>
+  <programme start="20261013090000 -0300" stop="20261013100000 -0300" channel="fox.ar">
+    <title>Marketing registrado</title>
+    <sub-title>Marketing registrado</sub-title>
+    <desc>Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
+  </programme>
+  <programme start="20261013100000 -0300" stop="20261013103000 -0300" channel="fox.ar">
+    <title>Cuartos de final - Vuelta</title>
+    <sub-title>El show de la Copa Libertadores</sub-title>
+    <desc>El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente.</desc>
+  </programme>
+  <programme start="20261013103000 -0300" stop="20261013110000 -0300" channel="fox.ar">
+    <title>El show de la UEFA Champions League</title>
+    <sub-title>El show de la UEFA Champions League</sub-title>
+    <desc>No te puedes perder el resumen más completo de toda la jornada de la UEFA Champions League con las mejores jugadas y goles del certamen continental.</desc>
+  </programme>
+  <programme start="20261013110000 -0300" stop="20261013113000 -0300" channel="fox.ar">
+    <title>Fecha 2</title>
+    <sub-title>Previa - UEFA Champions League</sub-title>
+    <desc>Vive la previa de los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
+  </programme>
+  <programme start="20261013113000 -0300" stop="20261013134000 -0300" channel="fox.ar">
+    <title>RC Lens (Fra) vs. Sporting CP (Por)</title>
+    <sub-title>Fecha 2, Stade Bollaert-Delelis</sub-title>
+    <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
+  </programme>
+  <programme start="20261013134000 -0300" stop="20261013155500 -0300" channel="fox.ar">
+    <title>Galatasaray (Tur) vs. Barcelona (Esp)</title>
+    <sub-title>Fecha 2, Rams Park</sub-title>
+    <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
+  </programme>
+  <programme start="20261013155500 -0300" stop="20261013170000 -0300" channel="fox.ar">
+    <title>La vuelta</title>
+    <sub-title>La vuelta</sub-title>
+    <desc>Propone una mirada descontracturada y entretenida de todo lo que pasa en el mundo del deporte. Un trío con química, humor y timing, que combina información deportiva e invitados destacados.</desc>
+  </programme>
+  <programme start="20261013170000 -0300" stop="20261013190000 -0300" channel="fox.ar">
+    <title>Todo pelota</title>
+    <sub-title>Todo pelota</sub-title>
+    <desc>Actualidad y análisis de las principales competencias del mundo, con foco en la UEFA Champions League y en CONMEBOL Libertadores como solo Fox Sports te lo puede mostrar.</desc>
+  </programme>
+  <programme start="20261013190000 -0300" stop="20261013200000 -0300" channel="fox.ar">
+    <title>Telemétrico</title>
+    <sub-title>Telemétrico</sub-title>
+    <desc>Un formato pensado para la audiencia que quiere entender todo lo relacionado con la Fórmula 1: estrategias de carrera, decisiones de equipo, rendimiento, técnica de los autos, reglas y más.</desc>
+  </programme>
+  <programme start="20261013200000 -0300" stop="20261013220000 -0300" channel="fox.ar">
+    <title>Stoke City vs. Middlesbrough</title>
+    <sub-title>Fecha 10, bet365 Stadium</sub-title>
+    <desc>Vive los partidos de la 25º edición de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división.</desc>
+  </programme>
+  <programme start="20261013220000 -0300" stop="20261013000000 -0300" channel="fox.ar">
+    <title>Villarreal (Esp) vs. Napoli (Ita)</title>
+    <sub-title>Fecha 2, Estadio de la Cerámica</sub-title>
+    <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
+  </programme>
+  <programme start="20261013000000 -0300" stop="20261013020000 -0300" channel="fox.ar">
+    <title>Galatasaray (Tur) vs. Barcelona (Esp)</title>
+    <sub-title>Fecha 2, Rams Park</sub-title>
+    <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
+  </programme>
+  <programme start="20261013020000 -0300" stop="20261013030000 -0300" channel="fox.ar">
+    <title>Telemétrico</title>
+    <sub-title>Telemétrico</sub-title>
+    <desc>Un formato pensado para la audiencia que quiere entender todo lo relacionado con la Fórmula 1: estrategias de carrera, decisiones de equipo, rendimiento, técnica de los autos, reglas y más.</desc>
+  </programme>
+  <programme start="20261013030000 -0300" stop="20261013050000 -0300" channel="fox.ar">
+    <title>Stoke City vs. Middlesbrough</title>
+    <sub-title>Fecha 10, bet365 Stadium</sub-title>
+    <desc>Vive los partidos de la 25º edición de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división.</desc>
+  </programme>
+  <programme start="20261013050000 -0300" stop="20261013060000 -0300" channel="fox.ar">
+    <title>Todo pelota</title>
+    <sub-title>Todo pelota</sub-title>
+    <desc>Actualidad y análisis de las principales competencias del mundo, con foco en la UEFA Champions League y en CONMEBOL Libertadores como solo Fox Sports te lo puede mostrar.</desc>
+  </programme>
+  <channel id="fox2.ar">
+    <display-name>FOX Sports 2 </display-name>
+  </channel>
+  <programme start="20261013030000 -0300" stop="20261013080000 -0300" channel="fox2.ar">
+    <title>Finales femeninas y masculinas</title>
+    <sub-title>WTT Champions Chongqing</sub-title>
+    <desc>Vive toda la emoción de los partidos de tenis de mesa del torneo WTT Champions en su edición 2026, celebrado en la ciuda de Chongqing, China. Esta competencia de élite reúne a los mejores 32 jugadores y 32 jugadoras del ranking mundial.</desc>
+  </programme>
+  <programme start="20261013080000 -0300" stop="20261013100000 -0300" channel="fox2.ar">
+    <title>San Gregorio vs. Club Estudiantes de la Plata</title>
+    <sub-title>Fecha 9</sub-title>
+    <desc>Disfruta de los partidos disputados en el marco de la Copa Rio Uruguay Seguros 2026.</desc>
+  </programme>
+  <programme start="20261013100000 -0300" stop="20261013110000 -0300" channel="fox2.ar">
+    <title>Rugby Time</title>
+    <sub-title>Rugby Time</sub-title>
+    <desc>Un programa que repasa los contenidos más destacados del ámbito del rugby.</desc>
+  </programme>
+  <programme start="20261013110000 -0300" stop="20261013120000 -0300" channel="fox2.ar">
+    <title>Cuerpo técnico</title>
+    <sub-title>Cuerpo técnico</sub-title>
+    <desc>Un espacio para analizar todo lo que pasa en el fútbol. Con información y novedades.</desc>
+  </programme>
+  <programme start="20261013120000 -0300" stop="20261013130000 -0300" channel="fox2.ar">
+    <title>Última vuelta</title>
+    <sub-title>Última vuelta</sub-title>
+    <desc>Un clásico del automovilismo argentino que te cuenta lo que pasó y sucederá en cada uno de los circuitos de nuestro país, más el clásico debate de la mesa con la conducción de Eduardo Ruiz.</desc>
+  </programme>
+  <programme start="20261013130000 -0300" stop="20261013134000 -0300" channel="fox2.ar">
+    <title>Paradise Extreme</title>
+    <sub-title>Paradise Extreme</sub-title>
+    <desc>Un espacio dedicado a los deportes extremos y lifestyle. El refugio de los amantes del deporte alternativo en todo el planeta. Los mejores eventos, los atletas más arriesgados y todas las novedades,</desc>
+  </programme>
+  <programme start="20261013134000 -0300" stop="20261013160000 -0300" channel="fox2.ar">
+    <title>Villarreal (Esp) vs. Napoli (Ita)</title>
+    <sub-title>Fecha 2, Estadio de la Cerámica</sub-title>
+    <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
+  </programme>
+  <programme start="20261013160000 -0300" stop="20261013173000 -0300" channel="fox2.ar">
+    <title>La cocina del fútbol</title>
+    <sub-title>La cocina del fútbol</sub-title>
+    <desc>Carlos Borsa conduce un espacio que combina cocina y recetas con charla sobre el mundo del fútbol. El público podrá disfrutar de entrevistas en profundidad, pero con protagonistas de todos los equipos del fútbol argentino.</desc>
+  </programme>
+  <programme start="20261013173000 -0300" stop="20261013180000 -0300" channel="fox2.ar">
+    <title>Leyendas del rugby</title>
+    <sub-title>Leyendas del rugby</sub-title>
+    <desc>Un programa sobre la historia y la trayectoria de los Pumas, la selección nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atravesó el equipo.</desc>
+  </programme>
+  <programme start="20261013180000 -0300" stop="20261013183000 -0300" channel="fox2.ar">
+    <title>Co - Piloto</title>
+    <sub-title>Co - Piloto</sub-title>
+    <desc>Juan Pablo Rossotti conduce un programa que acerca nuevas aristas del automovilismo.</desc>
+  </programme>
+  <programme start="20261013183000 -0300" stop="20261013190000 -0300" channel="fox2.ar">
+    <title>Upgrade Golf</title>
+    <sub-title>Upgrade Golf</sub-title>
+    <desc>La actualidad del golf nacional e internacional con la cobertura del circuito profesional y aficionado, los principales eventos, el seguimiento de los golfistas argentinos.</desc>
+  </programme>
+  <programme start="20261013190000 -0300" stop="20261013200000 -0300" channel="fox2.ar">
+    <title>Los elegidos</title>
+    <sub-title>Los elegidos</sub-title>
+  </programme>
+  <programme start="20261013200000 -0300" stop="20261013220000 -0300" channel="fox2.ar">
+    <title>RC Lens (Fra) vs. Sporting CP (Por)</title>
+    <sub-title>Fecha 2, Stade Bollaert-Delelis</sub-title>
+    <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
+  </programme>
+  <programme start="20261013220000 -0300" stop="20261013230000 -0300" channel="fox2.ar">
+    <title>Sale por 3</title>
+    <sub-title>Sale por 3</sub-title>
+    <desc>Entrevistas a figuras del padel, actualidad del circuito profesional y amateur.</desc>
+  </programme>
+  <programme start="20261013230000 -0300" stop="20261013000000 -0300" channel="fox2.ar">
+    <title>Diamante y Valle María, Entre Ríos, Fecha 7</title>
+    <sub-title>Rally argentino</sub-title>
+    <desc>La emoción y la adrenalina lideran esta edición en la que se presentarán a los mejores corredores de automóviles, quienes desafiarán los obstáculos de la vía para alcanzar el primer lugar del podio.</desc>
+  </programme>
+  <programme start="20261013000000 -0300" stop="20261013020000 -0300" channel="fox2.ar">
+    <title>Legia Warszawa vs. Wisla Krakow</title>
+    <sub-title>Matchday 10, 2026</sub-title>
+    <desc>Disfruta las emociones de la edición número 93 de la máxima competición del fútbol de Polonia. Participan 18 equipos en un sistema de todos contra todos.</desc>
+  </programme>
+  <programme start="20261013020000 -0300" stop="20261013023000 -0300" channel="fox2.ar">
+    <title>Surf &amp; Rock</title>
+    <sub-title>Surf &amp; Rock</sub-title>
+    <desc>Lo mejor del surf, compartiendo una pasión a puro rock.</desc>
+  </programme>
+  <programme start="20261013023000 -0300" stop="20261013050000 -0300" channel="fox2.ar">
+    <title>Finales femenino y masculino</title>
+    <sub-title>ITTF Men's and Women's World Cup</sub-title>
+    <desc>Vive toda la emoción de los partidos de la Copa del Mundo ITTF Masculina y Femenina en su edición del 2026. Disfruta de los enfrentamientos que se celebran en Macao entre los mejores jugadores y jugadoras de individuales del mundo.</desc>
+  </programme>
+  <programme start="20261013050000 -0300" stop="20261013060000 -0300" channel="fox2.ar">
+    <title>Finales femeninas y masculinas - Dobles y Singles</title>
+    <sub-title>WTT Contender Taiyuan</sub-title>
+    <desc>Vive lo más emocionante de jornadas de competición en el marco del WTT Contender Taiyuan 2026. Los mejores jugadores de tenis de mesa se enfrentan en una competencia con un premio total de US$100,000.</desc>
+  </programme>
+  <channel id="fox3.ar">
+    <display-name>FOX Sports 3 </display-name>
+  </channel>
+  <programme start="20261013070000 -0300" stop="20261013080000 -0300" channel="fox3.ar">
+    <title>Santiago de Chile, Chile</title>
+    <sub-title>Red Bull Soapbox Series</sub-title>
+    <desc>Disfruta de las emociones de esta competencia en la que equipos de corredores transitan difíciles circuitos lenos de obstáculos en automóviles de carreras sin motor.</desc>
+  </programme>
+  <programme start="20261013080000 -0300" stop="20261013090000 -0300" channel="fox3.ar">
+    <title>Lady fierros</title>
+    <sub-title>Lady fierros</sub-title>
+    <desc>Un programa que promueve el empoderamiento femenino alrededor del vehículo y la mecánica. En esta clínica de autos es una comunidad que capacita y educa, a mujeres y todos los interesados, en todo lo relacionado a la industria automotriz.</desc>
+  </programme>
+  <programme start="20261013090000 -0300" stop="20261013100000 -0300" channel="fox3.ar">
+    <title>Marketing registrado</title>
+    <sub-title>Marketing registrado</sub-title>
+    <desc>Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
+  </programme>
+  <programme start="20261013100000 -0300" stop="20261013130000 -0300" channel="fox3.ar">
+    <title>Chicago Bears vs. Green Bay Packers</title>
+    <sub-title>Fecha 5, Lambeau Field</sub-title>
+    <desc>Vive los partidos de la edición 107º de la NFL. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos.</desc>
+  </programme>
+  <programme start="20261013130000 -0300" stop="20261013163000 -0300" channel="fox3.ar">
+    <title>San Francisco 49ers vs. Seattle Seahawks</title>
+    <sub-title>Fecha 5, Lumen Field</sub-title>
+    <desc>Vive los partidos de la edición 107º de la NFL. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos.</desc>
+  </programme>
+  <programme start="20261013163000 -0300" stop="20261013193000 -0300" channel="fox3.ar">
+    <title>Juego 2 - Series de Campeonato</title>
+    <sub-title>MLB</sub-title>
+    <desc>Vive los partidos de la temporada 2026 de la MLB, con las emociones de la liga de béisbol más importante del mundo.</desc>
+  </programme>
+  <programme start="20261013193000 -0300" stop="20261013213000 -0300" channel="fox3.ar">
+    <title>Rugbeat</title>
+    <sub-title>Rugbeat</sub-title>
+    <desc>Toda la información y las noticias sobre el mundo del Rugby, con entrevistas y contenidos variados.</desc>
+  </programme>
+  <programme start="20261013213000 -0300" stop="20261013233000 -0300" channel="fox3.ar">
+    <title>Handball de primera</title>
+    <sub-title>Handball de primera</sub-title>
+    <desc>Un espacio dedicado por completo a la emoción del handball.</desc>
+  </programme>
+  <programme start="20261013233000 -0300" stop="20261013050000 -0300" channel="fox3.ar">
+    <title>Copa Rotax Sudamericano - Uruguay</title>
+    <sub-title>Copa Rotax Sudamericano - Uruguay</sub-title>
+    <desc>Disfruta lo más destacado del Sudamericano Rotax y que forma parte del MC South América Trophy. Los amantes del deporte podrán disfrutar de la máxima expresión del karting continental y una competencia en la que se forjan las leyendas.</desc>
+  </programme>
+  <programme start="20261013050000 -0300" stop="20261013060000 -0300" channel="fox3.ar">
+    <title>A curiosa história de Italo Ferreira</title>
+    <sub-title>Documental</sub-title>
+    <desc>Desde las olas de Bahía Formosa hasta las de Japón, vemos la historia y el increíble viaje del deportista Ítalo Ferreira con su pasión por el surf.</desc>
+  </programme>
   <channel id="espn.co">
     <display-name>ESPN co</display-name>
   </channel>
@@ -371,5 +609,533 @@
   </programme>
   <programme start="20261013230000 -0500" stop="20261013000000 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <channel id="dsports1.ec">
+    <display-name>DSPORTS 1</display-name>
+  </channel>
+  <channel id="dsports2.ec">
+    <display-name>DSPORTS 2</display-name>
+  </channel>
+  <channel id="dsportsplus.ec">
+    <display-name>DSPORTS +</display-name>
+  </channel>
+  <programme start="20261013000000 -0500" stop="20261013010000 -0500" channel="dsports1.ec">
+    <title lang="en">Más que fútbol</title>
+  </programme>
+  <programme start="20261013010000 -0500" stop="20261013020000 -0500" channel="dsports1.ec">
+    <title lang="en">Dsports Total</title>
+  </programme>
+  <programme start="20261013020000 -0500" stop="20261013030000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Nite</title>
+  </programme>
+  <programme start="20261013030000 -0500" stop="20261013040000 -0500" channel="dsports1.ec">
+    <title lang="en">Más que fútbol</title>
+  </programme>
+  <programme start="20261013040000 -0500" stop="20261013050000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Nite</title>
+  </programme>
+  <programme start="20261013050000 -0500" stop="20261013070000 -0500" channel="dsports1.ec">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20261013070000 -0500" stop="20261013090000 -0500" channel="dsports1.ec">
+    <title lang="en">Real Sociedad de Fútbol vs. Deportivo de La Coruña</title>
+  </programme>
+  <programme start="20261013090000 -0500" stop="20261013110000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Nite</title>
+  </programme>
+  <programme start="20261013110000 -0500" stop="20261013113000 -0500" channel="dsports1.ec">
+    <title lang="en">Boca campeón sudamericana 2004</title>
+  </programme>
+  <programme start="20261013113000 -0500" stop="20261013120000 -0500" channel="dsports1.ec">
+    <title lang="en">Boca Juniors: Campeón de la Copa Sudamericana 2005</title>
+  </programme>
+  <programme start="20261013120000 -0500" stop="20261013140000 -0500" channel="dsports1.ec">
+    <title lang="en">São Paulo vs. Boca Juniors</title>
+  </programme>
+  <programme start="20261013140000 -0500" stop="20261013160000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Lite</title>
+  </programme>
+  <programme start="20261013160000 -0500" stop="20261013180000 -0500" channel="dsports1.ec">
+    <title lang="en">De Fútbol Se Habla Así Argentina</title>
+  </programme>
+  <programme start="20261013180000 -0500" stop="20261013190000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias</title>
+  </programme>
+  <programme start="20261013190000 -0500" stop="20261013210000 -0500" channel="dsports1.ec">
+    <title lang="en">Puede pasar</title>
+  </programme>
+  <programme start="20261013210000 -0500" stop="20261013220000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Lite Tarde</title>
+  </programme>
+  <programme start="20261013220000 -0500" stop="20261014002000 -0500" channel="dsports1.ec">
+    <title lang="en">CONMEBOL Sudamericana: Boca Juniors vs. Vasco da Gama</title>
+  </programme>
+  <programme start="20261014002000 -0500" stop="20261014023000 -0500" channel="dsports1.ec">
+    <title lang="en">Boca Juniors vs. Vasco da Gama</title>
+  </programme>
+  <programme start="20261014023000 -0500" stop="20261014040000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Nite</title>
+  </programme>
+  <programme start="20261014040000 -0500" stop="20261014060000 -0500" channel="dsports1.ec">
+    <title lang="en">Boca Juniors vs. Vasco da Gama</title>
+  </programme>
+  <programme start="20261014060000 -0500" stop="20261014063000 -0500" channel="dsports1.ec">
+    <title lang="en">Boca campeón sudamericana 2004</title>
+  </programme>
+  <programme start="20261014063000 -0500" stop="20261014070000 -0500" channel="dsports1.ec">
+    <title lang="en">Boca Juniors: Campeón de la Copa Sudamericana 2005</title>
+  </programme>
+  <programme start="20261014070000 -0500" stop="20261014090000 -0500" channel="dsports1.ec">
+    <title lang="en">Boca Juniors vs. Vasco da Gama</title>
+  </programme>
+  <programme start="20261014090000 -0500" stop="20261014120000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Nite</title>
+  </programme>
+  <programme start="20261014120000 -0500" stop="20261014140000 -0500" channel="dsports1.ec">
+    <title lang="en">Boca Juniors vs. Vasco da Gama</title>
+  </programme>
+  <programme start="20261014140000 -0500" stop="20261014160000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Lite</title>
+  </programme>
+  <programme start="20261014160000 -0500" stop="20261014173000 -0500" channel="dsports1.ec">
+    <title lang="en">De Fútbol Se Habla Así Argentina</title>
+  </programme>
+  <programme start="20261014173000 -0500" stop="20261014183000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias</title>
+  </programme>
+  <programme start="20261014183000 -0500" stop="20261014193000 -0500" channel="dsports1.ec">
+    <title lang="en">Puede pasar</title>
+  </programme>
+  <programme start="20261014193000 -0500" stop="20261014203000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Lite Tarde</title>
+  </programme>
+  <programme start="20261014203000 -0500" stop="20261014213000 -0500" channel="dsports1.ec">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20261014213000 -0500" stop="20261014215000 -0500" channel="dsports1.ec">
+    <title lang="en">CONMEBOL Sudamericana: Atlético Mineiro vs. Montevideo City Torque</title>
+  </programme>
+  <programme start="20261014215000 -0500" stop="20261015000000 -0500" channel="dsports1.ec">
+    <title lang="en">Atlético Mineiro vs. Montevideo City Torque</title>
+  </programme>
+  <programme start="20261015000000 -0500" stop="20261015010000 -0500" channel="dsports1.ec">
+    <title lang="en">El juego</title>
+  </programme>
+  <programme start="20261015010000 -0500" stop="20261015030000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Nite</title>
+  </programme>
+  <programme start="20261015030000 -0500" stop="20261015040000 -0500" channel="dsports1.ec">
+    <title lang="en">El juego</title>
+  </programme>
+  <programme start="20261015040000 -0500" stop="20261015050000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Nite</title>
+  </programme>
+  <programme start="20261015050000 -0500" stop="20261015053000 -0500" channel="dsports1.ec">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20261015053000 -0500" stop="20261015063000 -0500" channel="dsports1.ec">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20261015063000 -0500" stop="20261015070000 -0500" channel="dsports1.ec">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20261015070000 -0500" stop="20261015090000 -0500" channel="dsports1.ec">
+    <title lang="en">Atlético Mineiro vs. Montevideo City Torque</title>
+  </programme>
+  <programme start="20261015090000 -0500" stop="20261015110000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Nite</title>
+  </programme>
+  <programme start="20261015110000 -0500" stop="20261015130000 -0500" channel="dsports1.ec">
+    <title lang="en">Atlético Mineiro vs. Montevideo City Torque</title>
+  </programme>
+  <programme start="20261015130000 -0500" stop="20261015133000 -0500" channel="dsports1.ec">
+    <title lang="en">Argentina campeón del mundo 1986</title>
+  </programme>
+  <programme start="20261015133000 -0500" stop="20261015140000 -0500" channel="dsports1.ec">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20261015140000 -0500" stop="20261015160000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Lite</title>
+  </programme>
+  <programme start="20261015160000 -0500" stop="20261015173000 -0500" channel="dsports1.ec">
+    <title lang="en">De Fútbol Se Habla Así Argentina</title>
+  </programme>
+  <programme start="20261015173000 -0500" stop="20261015190000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias</title>
+  </programme>
+  <programme start="20261015190000 -0500" stop="20261015200000 -0500" channel="dsports1.ec">
+    <title lang="en">Puede pasar</title>
+  </programme>
+  <programme start="20261015200000 -0500" stop="20261015213000 -0500" channel="dsports1.ec">
+    <title lang="en">DSPORTS Noticias Lite Tarde</title>
+  </programme>
+  <programme start="20261015213000 -0500" stop="20261015230000 -0500" channel="dsports1.ec">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20261015230000 -0500" stop="20261016000000 -0500" channel="dsports1.ec">
+    <title lang="en">El juego</title>
+  </programme>
+  <programme start="20261013004500 -0500" stop="20261013010000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Kobe Bryant</title>
+  </programme>
+  <programme start="20261013010000 -0500" stop="20261013030000 -0500" channel="dsportsplus.ec">
+    <title lang="en">La Tablada vs. Jockey Club Córdoba</title>
+  </programme>
+  <programme start="20261013030000 -0500" stop="20261013033000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Urban Sessions: Bruselas</title>
+  </programme>
+  <programme start="20261013033000 -0500" stop="20261013060000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Power Slap</title>
+  </programme>
+  <programme start="20261013060000 -0500" stop="20261013090000 -0500" channel="dsportsplus.ec">
+    <title lang="en">ONE Friday Fights 174</title>
+  </programme>
+  <programme start="20261013090000 -0500" stop="20261013110000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Il Lombardia</title>
+  </programme>
+  <programme start="20261013110000 -0500" stop="20261013113000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Lake Placid: Ronda final</title>
+  </programme>
+  <programme start="20261013113000 -0500" stop="20261013120000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Liege Bastogne</title>
+  </programme>
+  <programme start="20261013120000 -0500" stop="20261013123000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Lebron James</title>
+  </programme>
+  <programme start="20261013123000 -0500" stop="20261013143000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Panathinaikos Aktor vs. Fenerbahçe Tarfin</title>
+  </programme>
+  <programme start="20261013143000 -0500" stop="20261013150000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Dirk Nowitzki</title>
+  </programme>
+  <programme start="20261013150000 -0500" stop="20261013153000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Whistler</title>
+  </programme>
+  <programme start="20261013153000 -0500" stop="20261013173000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Gran Piemonte</title>
+  </programme>
+  <programme start="20261013173000 -0500" stop="20261013180000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Lake Placid: Ronda final</title>
+  </programme>
+  <programme start="20261013180000 -0500" stop="20261013182500 -0500" channel="dsportsplus.ec">
+    <title lang="en">Manu Ginóbili: The last dance en la selección</title>
+  </programme>
+  <programme start="20261013182500 -0500" stop="20261013203000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Partizan Mozzart Bet vs. Panathinaikos Aktor</title>
+  </programme>
+  <programme start="20261013203000 -0500" stop="20261013210000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Dirk Nowitzki</title>
+  </programme>
+  <programme start="20261013210000 -0500" stop="20261013230000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Eneco Tour Femenino: Etapa 1</title>
+  </programme>
+  <programme start="20261013230000 -0500" stop="20261013233000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Urban Sessions: Bruselas</title>
+  </programme>
+  <programme start="20261013233000 -0500" stop="20261014000000 -0500" channel="dsportsplus.ec">
+    <title lang="en">De ciclismo se habla así</title>
+  </programme>
+  <programme start="20261014000000 -0500" stop="20261014003000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Whistler</title>
+  </programme>
+  <programme start="20261014003000 -0500" stop="20261014010000 -0500" channel="dsportsplus.ec">
+    <title lang="en">De ciclismo se habla así</title>
+  </programme>
+  <programme start="20261014010000 -0500" stop="20261014030000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Nannup, día 1 y día 2</title>
+  </programme>
+  <programme start="20261014030000 -0500" stop="20261014033000 -0500" channel="dsportsplus.ec">
+    <title lang="en">De ciclismo se habla así</title>
+  </programme>
+  <programme start="20261014033000 -0500" stop="20261014040000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Lake Placid: Ronda final</title>
+  </programme>
+  <programme start="20261014040000 -0500" stop="20261014050000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Copa Davis 2026: Highlights</title>
+  </programme>
+  <programme start="20261014050000 -0500" stop="20261014053000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Manny Pacquiao</title>
+  </programme>
+  <programme start="20261014053000 -0500" stop="20261014063000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Lo Mejor de DSPORTS Fight</title>
+  </programme>
+  <programme start="20261014063000 -0500" stop="20261014090000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Power Slap</title>
+  </programme>
+  <programme start="20261014090000 -0500" stop="20261014110000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Partizan Mozzart Bet vs. Panathinaikos Aktor</title>
+  </programme>
+  <programme start="20261014110000 -0500" stop="20261014120000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Lo Mejor de DSPORTS Fight</title>
+  </programme>
+  <programme start="20261014120000 -0500" stop="20261014123000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Dirk Nowitzki</title>
+  </programme>
+  <programme start="20261014123000 -0500" stop="20261014143000 -0500" channel="dsportsplus.ec">
+    <title lang="en">EA7 Emporio Armani Milano vs. Real Madrid</title>
+  </programme>
+  <programme start="20261014143000 -0500" stop="20261014150000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Manu Ginóbili</title>
+  </programme>
+  <programme start="20261014150000 -0500" stop="20261014152500 -0500" channel="dsportsplus.ec">
+    <title lang="en">Blindar la Joya</title>
+  </programme>
+  <programme start="20261014152500 -0500" stop="20261014172500 -0500" channel="dsportsplus.ec">
+    <title lang="en">Akhmat Groznyi vs. FC Dinamo Moscú</title>
+  </programme>
+  <programme start="20261014172500 -0500" stop="20261014193000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Anadolu Efes vs. FC Bayern München</title>
+  </programme>
+  <programme start="20261014193000 -0500" stop="20261014200000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Manu Ginóbili</title>
+  </programme>
+  <programme start="20261014200000 -0500" stop="20261014210000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Artic Race of Norway</title>
+  </programme>
+  <programme start="20261014210000 -0500" stop="20261014230000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Eneco Tour Femenino: Etapa 2</title>
+  </programme>
+  <programme start="20261014230000 -0500" stop="20261015013000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Longines Global Champions Tour: Gran Premio de Roma</title>
+  </programme>
+  <programme start="20261015013000 -0500" stop="20261015033000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Anadolu Efes vs. FC Bayern München</title>
+  </programme>
+  <programme start="20261015033000 -0500" stop="20261015040000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Whistler</title>
+  </programme>
+  <programme start="20261015040000 -0500" stop="20261015050000 -0500" channel="dsportsplus.ec">
+    <title lang="en">DSPORTS Básquet</title>
+  </programme>
+  <programme start="20261015050000 -0500" stop="20261015080000 -0500" channel="dsportsplus.ec">
+    <title lang="en">PFL Africa: Main card</title>
+  </programme>
+  <programme start="20261015080000 -0500" stop="20261015090000 -0500" channel="dsportsplus.ec">
+    <title lang="en">PFL Africa: Main card</title>
+  </programme>
+  <programme start="20261015090000 -0500" stop="20261015110000 -0500" channel="dsportsplus.ec">
+    <title lang="en">EA7 Emporio Armani Milano vs. Real Madrid</title>
+  </programme>
+  <programme start="20261015110000 -0500" stop="20261015120000 -0500" channel="dsportsplus.ec">
+    <title lang="en">DSPORTS Básquet</title>
+  </programme>
+  <programme start="20261015120000 -0500" stop="20261015123000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Manu Ginóbili</title>
+  </programme>
+  <programme start="20261015123000 -0500" stop="20261015144500 -0500" channel="dsportsplus.ec">
+    <title lang="en">Astana: Day 1, Evening Session</title>
+  </programme>
+  <programme start="20261015144500 -0500" stop="20261015150000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Kobe Bryant</title>
+  </programme>
+  <programme start="20261015150000 -0500" stop="20261015170000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Anadolu Efes vs. FC Bayern München</title>
+  </programme>
+  <programme start="20261015170000 -0500" stop="20261015173000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Dirk Nowitzki</title>
+  </programme>
+  <programme start="20261015173000 -0500" stop="20261015174000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Perlas en la CONMEBOL Sudamericana</title>
+  </programme>
+  <programme start="20261015174000 -0500" stop="20261015194500 -0500" channel="dsportsplus.ec">
+    <title lang="en">Rubin Kazan vs. FC Oremburgo</title>
+  </programme>
+  <programme start="20261015194500 -0500" stop="20261015200000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Simplemente Diego: El Pelusa de la Paternal</title>
+  </programme>
+  <programme start="20261015200000 -0500" stop="20261015210000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Tour de la República Checa 2026</title>
+  </programme>
+  <programme start="20261015210000 -0500" stop="20261015230000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Eneco Tour Femenino: Etapa 3</title>
+  </programme>
+  <programme start="20261015230000 -0500" stop="20261016010000 -0500" channel="dsportsplus.ec">
+    <title lang="en">Fenerbahçe Tarfin vs. Partizan Mozzart Bet</title>
+  </programme>
+  <programme start="20261013000000 -0500" stop="20261013010000 -0500" channel="dsports2.ec">
+    <title lang="en">Fútbol Portugués Primeira Liga</title>
+  </programme>
+  <programme start="20261013010000 -0500" stop="20261013030000 -0500" channel="dsports2.ec">
+    <title lang="en">Deportivo Alavés vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20261013030000 -0500" stop="20261013040000 -0500" channel="dsports2.ec">
+    <title lang="en">Fútbol Portugués Primeira Liga</title>
+  </programme>
+  <programme start="20261013040000 -0500" stop="20261013043000 -0500" channel="dsports2.ec">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20261013043000 -0500" stop="20261013050000 -0500" channel="dsports2.ec">
+    <title lang="en">Alessandro del Piero</title>
+  </programme>
+  <programme start="20261013050000 -0500" stop="20261013060000 -0500" channel="dsports2.ec">
+    <title lang="en">DSPORTS Noticias Nite</title>
+  </programme>
+  <programme start="20261013060000 -0500" stop="20261013063000 -0500" channel="dsports2.ec">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20261013063000 -0500" stop="20261013070000 -0500" channel="dsports2.ec">
+    <title lang="en">El origen de un romance</title>
+  </programme>
+  <programme start="20261013070000 -0500" stop="20261013090000 -0500" channel="dsports2.ec">
+    <title lang="en">CS Marítimo vs. FC Porto</title>
+  </programme>
+  <programme start="20261013090000 -0500" stop="20261013110000 -0500" channel="dsports2.ec">
+    <title lang="en">Real Madrid vs. Villarreal CF</title>
+  </programme>
+  <programme start="20261013110000 -0500" stop="20261013120000 -0500" channel="dsports2.ec">
+    <title lang="en">Más que fútbol</title>
+  </programme>
+  <programme start="20261013120000 -0500" stop="20261013130000 -0500" channel="dsports2.ec">
+    <title lang="en">Dsports Total</title>
+  </programme>
+  <programme start="20261013130000 -0500" stop="20261013150000 -0500" channel="dsports2.ec">
+    <title lang="en">Nannup, día 1 y día 2</title>
+  </programme>
+  <programme start="20261013150000 -0500" stop="20261013152500 -0500" channel="dsports2.ec">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20261013152500 -0500" stop="20261013173000 -0500" channel="dsports2.ec">
+    <title lang="en">FC Lokomotiv Moscú vs. FC Akron</title>
+  </programme>
+  <programme start="20261013173000 -0500" stop="20261013180000 -0500" channel="dsports2.ec">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20261013180000 -0500" stop="20261013182500 -0500" channel="dsports2.ec">
+    <title lang="en">Dirk Nowitzki</title>
+  </programme>
+  <programme start="20261013182500 -0500" stop="20261013203000 -0500" channel="dsports2.ec">
+    <title lang="en">EA7 Emporio Armani Milano vs. Real Madrid</title>
+  </programme>
+  <programme start="20261013203000 -0500" stop="20261013223000 -0500" channel="dsports2.ec">
+    <title lang="en">São Paulo vs. Boca Juniors</title>
+  </programme>
+  <programme start="20261013223000 -0500" stop="20261013230000 -0500" channel="dsports2.ec">
+    <title lang="en">El origen de un romance</title>
+  </programme>
+  <programme start="20261013230000 -0500" stop="20261014000000 -0500" channel="dsports2.ec">
+    <title lang="en">Fútbol Portugués Primeira Liga</title>
+  </programme>
+  <programme start="20261014000000 -0500" stop="20261014010000 -0500" channel="dsports2.ec">
+    <title lang="en">Lo Mejor de DSPORTS Fight</title>
+  </programme>
+  <programme start="20261014010000 -0500" stop="20261014013000 -0500" channel="dsports2.ec">
+    <title lang="en">LaLiga Highlights</title>
+  </programme>
+  <programme start="20261014013000 -0500" stop="20261014020000 -0500" channel="dsports2.ec">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20261014020000 -0500" stop="20261014023000 -0500" channel="dsports2.ec">
+    <title lang="en">LaLiga Highlights</title>
+  </programme>
+  <programme start="20261014023000 -0500" stop="20261014043000 -0500" channel="dsports2.ec">
+    <title lang="en">Boca Juniors vs. Vasco da Gama</title>
+  </programme>
+  <programme start="20261014043000 -0500" stop="20261014050000 -0500" channel="dsports2.ec">
+    <title lang="en">Manu Ginóbili</title>
+  </programme>
+  <programme start="20261014050000 -0500" stop="20261014070000 -0500" channel="dsports2.ec">
+    <title lang="en">EA7 Emporio Armani Milano vs. Real Madrid</title>
+  </programme>
+  <programme start="20261014070000 -0500" stop="20261014090000 -0500" channel="dsports2.ec">
+    <title lang="en">Real Madrid vs. Villarreal CF</title>
+  </programme>
+  <programme start="20261014090000 -0500" stop="20261014100000 -0500" channel="dsports2.ec">
+    <title lang="en">Lo Mejor de DSPORTS Fight</title>
+  </programme>
+  <programme start="20261014100000 -0500" stop="20261014130000 -0500" channel="dsports2.ec">
+    <title lang="en">Shanghái: Día 1</title>
+  </programme>
+  <programme start="20261014130000 -0500" stop="20261014150000 -0500" channel="dsports2.ec">
+    <title lang="en">Eneco Tour Femenino: Etapa 2</title>
+  </programme>
+  <programme start="20261014150000 -0500" stop="20261014152500 -0500" channel="dsports2.ec">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20261014152500 -0500" stop="20261014174000 -0500" channel="dsports2.ec">
+    <title lang="en">Dynamo Makhachkala vs. FC Zenit</title>
+  </programme>
+  <programme start="20261014174000 -0500" stop="20261014194500 -0500" channel="dsports2.ec">
+    <title lang="en">CSKA Moscú vs. FC Rostov</title>
+  </programme>
+  <programme start="20261014194500 -0500" stop="20261014200000 -0500" channel="dsports2.ec">
+    <title lang="en">Simplemente Diego: El Pelusa de la Paternal</title>
+  </programme>
+  <programme start="20261014200000 -0500" stop="20261014203000 -0500" channel="dsports2.ec">
+    <title lang="en">Alessandro del Piero</title>
+  </programme>
+  <programme start="20261014203000 -0500" stop="20261014223000 -0500" channel="dsports2.ec">
+    <title lang="en">FC Krasnodar vs. Fakel Voronezh</title>
+  </programme>
+  <programme start="20261014223000 -0500" stop="20261014233000 -0500" channel="dsports2.ec">
+    <title lang="en">Fútbol Portugués Primeira Liga</title>
+  </programme>
+  <programme start="20261014233000 -0500" stop="20261015000000 -0500" channel="dsports2.ec">
+    <title lang="en">LaLiga Highlights</title>
+  </programme>
+  <programme start="20261015000000 -0500" stop="20261015010000 -0500" channel="dsports2.ec">
+    <title lang="en">DSPORTS Básquet</title>
+  </programme>
+  <programme start="20261015010000 -0500" stop="20261015013000 -0500" channel="dsports2.ec">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20261015013000 -0500" stop="20261015020000 -0500" channel="dsports2.ec">
+    <title lang="en">LaLiga Free Tour</title>
+  </programme>
+  <programme start="20261015020000 -0500" stop="20261015040000 -0500" channel="dsports2.ec">
+    <title lang="en">Boca Juniors vs. Vasco da Gama</title>
+  </programme>
+  <programme start="20261015040000 -0500" stop="20261015043000 -0500" channel="dsports2.ec">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20261015043000 -0500" stop="20261015050000 -0500" channel="dsports2.ec">
+    <title lang="en">Messi en la selección argentina</title>
+  </programme>
+  <programme start="20261015050000 -0500" stop="20261015060000 -0500" channel="dsports2.ec">
+    <title lang="en">DSPORTS Noticias Nite</title>
+  </programme>
+  <programme start="20261015060000 -0500" stop="20261015063000 -0500" channel="dsports2.ec">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20261015063000 -0500" stop="20261015070000 -0500" channel="dsports2.ec">
+    <title lang="en">Simplemente Diego: Maradona DT De Mandiyú</title>
+  </programme>
+  <programme start="20261015070000 -0500" stop="20261015090000 -0500" channel="dsports2.ec">
+    <title lang="en">FC Lokomotiv Moscú vs. FC Akron</title>
+  </programme>
+  <programme start="20261015090000 -0500" stop="20261015100000 -0500" channel="dsports2.ec">
+    <title lang="en">Artic Race of Norway</title>
+  </programme>
+  <programme start="20261015100000 -0500" stop="20261015103000 -0500" channel="dsports2.ec">
+    <title lang="en">Soldier Hollow</title>
+  </programme>
+  <programme start="20261015103000 -0500" stop="20261015133000 -0500" channel="dsports2.ec">
+    <title lang="en">Shanghái: Día 2</title>
+  </programme>
+  <programme start="20261015133000 -0500" stop="20261015152500 -0500" channel="dsports2.ec">
+    <title lang="en">Eneco Tour Femenino: Etapa 3</title>
+  </programme>
+  <programme start="20261015152500 -0500" stop="20261015173000 -0500" channel="dsports2.ec">
+    <title lang="en">FC Rodina vs. Spartak Moscow</title>
+  </programme>
+  <programme start="20261015173000 -0500" stop="20261015174000 -0500" channel="dsports2.ec">
+    <title lang="en">EuroLeague: Shane Larkin</title>
+  </programme>
+  <programme start="20261015174000 -0500" stop="20261015194500 -0500" channel="dsports2.ec">
+    <title lang="en">Fenerbahçe Tarfin vs. Partizan Mozzart Bet</title>
+  </programme>
+  <programme start="20261015194500 -0500" stop="20261015200000 -0500" channel="dsports2.ec">
+    <title lang="en">Euroleague: Justin Anderson</title>
+  </programme>
+  <programme start="20261015200000 -0500" stop="20261015203000 -0500" channel="dsports2.ec">
+    <title lang="en">Boca Juniors: Campeón de la Copa Sudamericana 2005</title>
+  </programme>
+  <programme start="20261015203000 -0500" stop="20261015223000 -0500" channel="dsports2.ec">
+    <title lang="en">Boca Juniors vs. Vasco da Gama</title>
+  </programme>
+  <programme start="20261015223000 -0500" stop="20261015230000 -0500" channel="dsports2.ec">
+    <title lang="en">Boca campeón sudamericana 2004</title>
+  </programme>
+  <programme start="20261015230000 -0500" stop="20261016010000 -0500" channel="dsports2.ec">
+    <title lang="en">Atlético Mineiro vs. Montevideo City Torque</title>
   </programme>
 </tv>
