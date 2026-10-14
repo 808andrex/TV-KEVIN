@@ -324,4 +324,52 @@
   <programme start="20261013220000 -0500" stop="20261013000000 -0500" channel="espn7.ec">
     <title>Arsenal vs. Lille Fútbol UEFA Champions League</title>
   </programme>
+  <channel id="espn.co">
+    <display-name>ESPN co</display-name>
+  </channel>
+  <programme start="20261013000000 -0500" stop="20261013010000 -0500" channel="espn.co">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261013010000 -0500" stop="20261013020000 -0500" channel="espn.co">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261013020000 -0500" stop="20261013030000 -0500" channel="espn.co">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261013030000 -0500" stop="20261013040000 -0500" channel="espn.co">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261013040000 -0500" stop="20261013050000 -0500" channel="espn.co">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261013050000 -0500" stop="20261013090000 -0500" channel="espn.co">
+    <title>Tenis ATP Rolex Shanghai Masters 2026</title>
+  </programme>
+  <programme start="20261013090000 -0500" stop="20261013100000 -0500" channel="espn.co">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261013100000 -0500" stop="20261013113000 -0500" channel="espn.co">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261013113000 -0500" stop="20261013134000 -0500" channel="espn.co">
+    <title>Lens vs. Sporting CP Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20261013134000 -0500" stop="20261013155500 -0500" channel="espn.co">
+    <title>Viking FK vs. Bayern de Múnich Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20261013155500 -0500" stop="20261013173000 -0500" channel="espn.co">
+    <title>Balón dividido</title>
+  </programme>
+  <programme start="20261013173000 -0500" stop="20261013190000 -0500" channel="espn.co">
+    <title>ESPN F360</title>
+  </programme>
+  <programme start="20261013190000 -0500" stop="20261013212500 -0500" channel="espn.co">
+    <title>Boca Juniors vs. de Regatas Vasco da Gama Fútbol Conmebol Copa Sudamericana</title>
+  </programme>
+  <programme start="20261013212500 -0500" stop="20261013230000 -0500" channel="espn.co">
+    <title>ESPN F90</title>
+  </programme>
+  <programme start="20261013230000 -0500" stop="20261013000000 -0500" channel="espn.co">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
 </tv>
