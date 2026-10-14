@@ -15,15 +15,29 @@ const { obtenerDSports } = require('./scrapers/directv/scraper');
 const esperar = (ms) =>
     new Promise(resolve => setTimeout(resolve, ms));
 
-// Formatea la fecha y la hora para XMLTV
-function formatearFecha(horaStr, zonaHoraria) {
-    const fecha = new Date();
+// Fecha de hoy en Ecuador (no depende de la zona horaria del servidor)
+function fechaBaseEcuador() {
+    const [y, m, d] = new Date()
+        .toLocaleDateString('en-CA', { timeZone: 'America/Guayaquil' })
+        .split('-')
+        .map(Number);
 
-    const year = fecha.getFullYear();
-    const month = String(fecha.getMonth() + 1).padStart(2, '0');
-    const day = String(fecha.getDate()).padStart(2, '0');
+    return { y, m, d };
+}
 
-    const horaLimpia = horaStr.replace(':', '').trim();
+// Formatea la fecha y la hora para XMLTV.
+// diasExtra permite indicar programas que caen en el día siguiente (después de medianoche).
+function formatearFecha(horaStr, zonaHoraria, diasExtra = 0) {
+    const { y, m, d } = fechaBaseEcuador();
+    const fecha = new Date(Date.UTC(y, m - 1, d + diasExtra));
+
+    const year = fecha.getUTCFullYear();
+    const month = String(fecha.getUTCMonth() + 1).padStart(2, '0');
+    const day = String(fecha.getUTCDate()).padStart(2, '0');
+
+    const [horas, minutos] = horaStr.trim().split(':');
+    const horaLimpia =
+        String(horas).padStart(2, '0') + String(minutos).padStart(2, '0');
 
     return `${year}${month}${day}${horaLimpia}00 ${zonaHoraria}`;
 }
@@ -74,6 +88,10 @@ async function generarEPG() {
 
                 const $ = cheerio.load(respuesta.data);
 
+                // Para detectar el cambio de día (programas después de medianoche)
+                let diaExtra = 0;
+                let ultimoMin = -1;
+
                 $('table tr').each((i, elemento) => {
                     const columnas = $(elemento).find('td');
 
@@ -96,14 +114,25 @@ async function generarEPG() {
                         horaInicio.length <= 5 &&
                         !titulo.includes('Horarios para hoy')
                     ) {
+                        const minInicio = horaAMinutos(horaInicio);
+
+                        if (minInicio < ultimoMin) diaExtra++;
+                        ultimoMin = minInicio;
+
+                        const diaFin =
+                            diaExtra +
+                            (horaAMinutos(horaFin) <= minInicio ? 1 : 0);
+
                         const start = formatearFecha(
                             horaInicio,
-                            '-0500'
+                            '-0500',
+                            diaExtra
                         );
 
                         const stop = formatearFecha(
                             horaFin,
-                            '-0500'
+                            '-0500',
+                            diaFin
                         );
 
                         root.ele('programme', {
@@ -139,13 +168,24 @@ async function generarEPG() {
                     `    Programas encontrados en mi.tv: ${programas.length}`
                 );
 
+                // mi.tv se consulta con /-300 (UTC-5), así que las horas ya vienen
+                // en hora de Ecuador. Se detecta el cambio de día al pasar medianoche.
+                let diaExtra = 0;
+                let ultimoMin = -1;
+
                 for (let i = 0; i < programas.length; i++) {
                     const programa = programas[i];
                     const siguiente = programas[i + 1];
 
+                    const minInicio = horaAMinutos(programa.hora);
+
+                    if (minInicio < ultimoMin) diaExtra++;
+                    ultimoMin = minInicio;
+
                     const start = formatearFecha(
                         programa.hora,
-                        '-0300'
+                        '-0500',
+                        diaExtra
                     );
 
                     let horaFin;
@@ -165,9 +205,14 @@ async function generarEPG() {
                             String(minutosFin).padStart(2, '0');
                     }
 
+                    const diaFin =
+                        diaExtra +
+                        (horaAMinutos(horaFin) <= minInicio ? 1 : 0);
+
                     const stop = formatearFecha(
                         horaFin,
-                        '-0300'
+                        '-0500',
+                        diaFin
                     );
 
                     const elementoPrograma = root.ele('programme', {

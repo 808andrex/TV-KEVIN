@@ -34,7 +34,7 @@ http://181.209.105.115:2525/play/espnpremium/index.m3u8
 #EXTINF:-1 tvg-id="dsports1.ec" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes",DSports 1
 http://181.209.80.115:8000/play/dsports_hd
 
-#EXTINF:-1 tvg-id="dsports2.ec" tvg-logo="https://es.wikipedia.org/wiki/Archivo:DSports2.png" group-title="Deportes",DSports 2
+#EXTINF:-1 tvg-id="dsports2.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/DirecTV_Sports_2_2018.png/revision/latest?cb=20200706224735&path-prefix=es" group-title="Deportes",DSports 2
 http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
 
 #EXTINF:-1 tvg-id="dsportsplus.ec" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="Deportes",DSports +
