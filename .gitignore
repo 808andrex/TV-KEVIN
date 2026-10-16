@@ -1,2 +1,20 @@
 node_modules/
 *.log
+npm-debug.log*
+
+# Guía generada en local (la oficial la sube GitHub Actions)
+mi_guia.xml
+
+# Reporte que genera scrapers/epgshare/listar-canales.js
+canales_guia.txt
+
+# Editor / sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secretos y temporales
+.env
+.env.*
+*.tmp

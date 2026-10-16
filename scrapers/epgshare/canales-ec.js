@@ -17,8 +17,7 @@ const canales = [
     // Ecuavisa: EC1 no trae programación; se usa la señal Internacional (archivo SV1).
     // Su parrilla puede diferir un poco de la señal local.
     { id: 'ecuavisa',        nombre: 'Ecuavisa',        tag: 'SV1', idFuente: 'Canal.Ecuavisa.Internacional.sv' },
-    { id: 'rts',             nombre: 'RTS',             idFuente: 'Canal.RTS.ec' },
-    { id: 'gamavision.ec',   nombre: 'Gamavisión',      idFuente: 'Canal.Gamavisión.ec' },
+    // RTS y Gamavisión: EC1 y SV1 vienen vacíos; ahora se prueban desde gatotv (ver canales.js).
     { id: 'ecuador_tv.ec',   nombre: 'Ecuador TV',      idFuente: 'Canal.Ecuador.TV.ec' },
     { id: 'hola_tv.ec',      nombre: '¡HOLA! TV',       idFuente: 'Canal.¡HOLA!.TV.ec' },
     { id: 'esne_tv.ec',      nombre: 'ESNE TV',         idFuente: 'Canal.ESNE.TV.ec' },
@@ -52,7 +51,6 @@ const canales = [
     // ---------- Infantil ----------
     { id: 'baby_tv.ec',      nombre: 'Baby TV',         idFuente: 'Canal.Baby.TV.(Latinoamérica).ec' },
     { id: 'nick_jr.ec',      nombre: 'Nick Jr.',        idFuente: 'Canal.Nick.Jr..(Ecuador).ec' },
-    { id: 'teennick.ec',     nombre: 'TeenNick',        idFuente: 'Canal.TeenNick.ec' },
     { id: 'zoomoo.ec',       nombre: 'ZooMoo',          idFuente: 'Canal.ZooMoo.Latinoamérica.ec' },
 
     // ---------- Películas y series ----------
@@ -65,7 +63,6 @@ const canales = [
     { id: 'film_arts.ec',    nombre: 'Film & Arts',     idFuente: 'Canal.Film.&.Arts.ec' },
     { id: 'fx.ec',           nombre: 'FX',              idFuente: 'Canal.FX.(Ecuador).ec' },
     { id: 'golden.ec',       nombre: 'Golden',          idFuente: 'Canal.Golden.(Ecuador).ec' },
-    { id: 'paramount.ec',    nombre: 'Paramount Channel', idFuente: 'Canal.Paramount.Channel.(Ecuador).ec' },
     { id: 'space.ec',        nombre: 'Space',           idFuente: 'Canal.Space.(Ecuador).ec' },
     { id: 'studio_universal.ec', nombre: 'Studio Universal', idFuente: 'Canal.Studio.Universal.(Ecuador).ec' },
     { id: 'tcm.ec',          nombre: 'TCM',             idFuente: 'Canal.TCM.(Ecuador).ec' },
@@ -77,6 +74,19 @@ const canales = [
     { id: 'comedy_central.ec', nombre: 'Comedy Central', idFuente: 'Canal.Comedy.Central.(Ecuador).ec' },
     { id: 'eurochannel.ec',  nombre: 'Eurochannel',     idFuente: 'Canal.Eurochannel.ec' },
     { id: 'europa_europa.ec', nombre: 'Europa Europa',  idFuente: 'Canal.Europa.Europa.ec' },
+
+    // ---------- HBO y Paramount (otros archivos de epgshare01) ----------
+    // CO1 tiene el mismo huso horario que Ecuador (UTC-5). Signature, Mundi y Plus solo están en MX1.
+    { id: 'hbo.co',           nombre: 'HBO',             tag: 'CO1', idFuente: 'HBO.co' },
+    { id: 'hbo2.co',          nombre: 'HBO 2',           tag: 'CO1', idFuente: 'HBO.2.co' },
+    { id: 'hbo_family.co',    nombre: 'HBO Family',      tag: 'CO1', idFuente: 'HBO.Family.co' },
+    { id: 'hbo_pop.co',       nombre: 'HBO Pop',         tag: 'CO1', idFuente: 'HBO.POP.co' },
+    { id: 'hbo_xtreme.co',    nombre: 'HBO Xtreme',      tag: 'CO1', idFuente: 'HBO.XTREME.co' },
+    { id: 'hbo_signature.mx', nombre: 'HBO Signature',   tag: 'MX1', idFuente: 'Canal.HBO.Signature.Latinoamérica.mx' },
+    { id: 'hbo_mundi.mx',     nombre: 'HBO Mundi',       tag: 'MX1', idFuente: 'Canal.HBO.Mundi.mx' },
+    { id: 'hbo_plus.mx',      nombre: 'HBO Plus',        tag: 'MX1', idFuente: 'Canal.HBO.Plus.mx' },
+    // Paramount: CO1 viene vacío; se prueba Perú (PE1, también UTC-5). Alternativa: MX1 'Canal.Paramount.Channel.(México).mx'
+    { id: 'paramount.ec',     nombre: 'Paramount Channel', tag: 'PE1', idFuente: 'PARAMOUNT.HD.(Paramount.HD).pe' },
 
     // ---------- Novelas ----------
     { id: 'tnt_novelas.ec',  nombre: 'TNT Novelas',     idFuente: 'Canal.TNT.Novelas.(Ecuador).ec' },
@@ -100,7 +110,6 @@ const canales = [
     { id: 'a_e.ec',          nombre: 'A&E',             idFuente: 'Canal.A&E.(Ecuador).ec' },
     { id: 'lifetime.ec',     nombre: 'Lifetime',        idFuente: 'Canal.Lifetime.(Ecuador).ec' },
     { id: 'elgourmet.ec',    nombre: 'El Gourmet',      idFuente: 'Canal.Elgourmet.ec' },
-    { id: 'mas_chic.ec',     nombre: 'Más Chic',        idFuente: 'Canal.Más.Chic.Latinoamérica.ec' },
     { id: 'e_entertainment.ec', nombre: 'E! Entertainment', idFuente: 'Canal.E!.Entertainment.Television.(Ecuador).ec' },
     { id: 'ewtn.ec',         nombre: 'EWTN en Español', idFuente: 'Canal.EWTN.en.Español.ec' },
     { id: 'dhe.ec',          nombre: 'DHE',             idFuente: 'Canal.DHE.ec' },
@@ -108,9 +117,6 @@ const canales = [
 
     // ---------- Música ----------
     { id: 'mtv.ec',          nombre: 'MTV',             idFuente: 'Canal.MTV.(Ecuador).ec' },
-    { id: 'mtv_00s.ec',      nombre: 'MTV 00s',         idFuente: 'Canal.MTV.00s.ec' },
-    { id: 'mtv_hits.ec',     nombre: 'MTV Hits',        idFuente: 'Canal.MTV.Hits.ec' },
-    { id: 'mtv_live.ec',     nombre: 'MTV Live HD',     idFuente: 'Canal.MTV.Live.HD.ec' },
     { id: 'telehit.ec',      nombre: 'Telehit',         idFuente: 'Canal.Telehit.ec' },
 
     // ---------- Antes venían de gatotv (que bloquea a GitHub Actions) ----------

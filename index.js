@@ -9,6 +9,9 @@ const canales = require('./canales');
 // Importamos el scraper funcional de mi.tv
 const { obtenerProgramacion } = require('./scrapers/mitv/scraper');
 
+// Scraper de la página oficial de TVC y RTS (HTML con a.schedule-segment)
+const { obtenerProgramacionWeb } = require('./scrapers/web/scraper');
+
 // Scraper de DSPORTS 1, 2 y + (fuente: epgshare01.online)
 const { obtenerDSports } = require('./scrapers/directv/scraper');
 
@@ -200,7 +203,11 @@ async function generarEPG() {
             // ==========================================
             // MI.TV
             // ==========================================
-            } else if (canal.url.includes('mi.tv')) {
+            } else if (
+                canal.url.includes('mi.tv') ||
+                canal.url.includes('tvc.com.ec') ||
+                canal.url.includes('rts.com.ec')
+            ) {
                 // Extraemos el identificador del canal
                 // Ejemplo: fox-sports-hd
                 const partesURL = new URL(canal.url).pathname
@@ -210,7 +217,10 @@ async function generarEPG() {
                 const idCanal = partesURL[partesURL.length - 1];
 
                 // Usamos el scraper que ya funciona
-                const programas = await obtenerProgramacion(idCanal);
+                // mi.tv y las páginas oficiales devuelven el mismo formato [{ hora, titulo, ... }]
+                const programas = canal.url.includes('mi.tv')
+                    ? await obtenerProgramacion(idCanal)
+                    : await obtenerProgramacionWeb(canal.url);
 
                 console.log(
                     `    Programas encontrados en mi.tv: ${programas.length}`

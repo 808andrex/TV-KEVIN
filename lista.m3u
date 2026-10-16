@@ -8,6 +8,9 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1111.m3u8
 #EXTINF:-1 tvg-id="espn.co" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes",ESPN CO
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1107.m3u8
 
+#EXTINF:-1 tvg-id="espn.co" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes",ESPN CO 1080
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+
 #EXTINF:-1 tvg-id="espn2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes",ESPN 2
 #EXTVLCOPT:http-reconnect=true
 http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/index.m3u8

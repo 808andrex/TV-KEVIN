@@ -3090,12 +3090,6 @@
   <channel id="ecuavisa">
     <display-name>Ecuavisa</display-name>
   </channel>
-  <channel id="rts">
-    <display-name>RTS</display-name>
-  </channel>
-  <channel id="gamavision.ec">
-    <display-name>Gamavisión</display-name>
-  </channel>
   <channel id="ecuador_tv.ec">
     <display-name>Ecuador TV</display-name>
   </channel>
@@ -3171,9 +3165,6 @@
   <channel id="nick_jr.ec">
     <display-name>Nick Jr.</display-name>
   </channel>
-  <channel id="teennick.ec">
-    <display-name>TeenNick</display-name>
-  </channel>
   <channel id="zoomoo.ec">
     <display-name>ZooMoo</display-name>
   </channel>
@@ -3203,9 +3194,6 @@
   </channel>
   <channel id="golden.ec">
     <display-name>Golden</display-name>
-  </channel>
-  <channel id="paramount.ec">
-    <display-name>Paramount Channel</display-name>
   </channel>
   <channel id="space.ec">
     <display-name>Space</display-name>
@@ -3297,9 +3285,6 @@
   <channel id="elgourmet.ec">
     <display-name>El Gourmet</display-name>
   </channel>
-  <channel id="mas_chic.ec">
-    <display-name>Más Chic</display-name>
-  </channel>
   <channel id="e_entertainment.ec">
     <display-name>E! Entertainment</display-name>
   </channel>
@@ -3314,15 +3299,6 @@
   </channel>
   <channel id="mtv.ec">
     <display-name>MTV</display-name>
-  </channel>
-  <channel id="mtv_00s.ec">
-    <display-name>MTV 00s</display-name>
-  </channel>
-  <channel id="mtv_hits.ec">
-    <display-name>MTV Hits</display-name>
-  </channel>
-  <channel id="mtv_live.ec">
-    <display-name>MTV Live HD</display-name>
   </channel>
   <channel id="telehit.ec">
     <display-name>Telehit</display-name>
@@ -63311,202 +63287,152 @@
   <programme start="20261019190000 -0500" stop="20261019200000 -0500" channel="hola_tv.ec">
     <title lang="es">La hora Hola</title>
   </programme>
-  <programme start="20261015000000 -0500" stop="20261015010000 -0500" channel="goltv.ec">
-    <title lang="es">Gol TV Noticias</title>
-    <desc lang="es">Comentario sobre las noticias y jugadas más importantes del fútbol mundial.</desc>
-    <credits>
-      <actor>Alejandro Vásquez</actor>
-      <actor>Ivy Pozo Zerga</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">News</category>
-    <category lang="es">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p705531_b_h10_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018150000 -0500" stop="20261018153000 -0500" channel="hola_tv.ec">
+    <title lang="es">Especiales Realeza</title>
   </programme>
-  <programme start="20261015010000 -0500" stop="20261015013000 -0500" channel="goltv.ec">
-    <title lang="en">Go Go Goal</title>
-    <desc lang="es">Los mejores goles de la semana, desde todos los ángulos, de las mejores ligas del mundo.</desc>
-    <credits>
-      <actor>Giancarlo Granda</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17559163_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018153000 -0500" stop="20261018160000 -0500" channel="hola_tv.ec">
+    <title lang="es">Especiales Realeza</title>
   </programme>
-  <programme start="20261015013000 -0500" stop="20261015033000 -0500" channel="goltv.ec">
-    <title lang="es">Fútbol Portugués Primeira Liga</title>
-    <desc lang="es">Acción con los partidos del campeonato portugués de fútbol de primera división.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9223539_b_h8_ax.jpg?w=960&amp;h=540" />
-    <previously-shown />
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
+  <programme start="20261018160000 -0500" stop="20261018163000 -0500" channel="hola_tv.ec">
+    <title lang="es">Íntimo y personal</title>
   </programme>
-  <programme start="20261015033000 -0500" stop="20261015043000 -0500" channel="goltv.ec">
-    <title lang="es">Fanáticos</title>
-    <desc lang="es">Un recorrido por el mundo para entrar en los clubes más importantes de fútbol del planeta y entrevistar a las principales figuras del deporte.</desc>
-    <credits>
-      <actor>Juan Carlos Scelza</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Interview</category>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8603502_b_h8_ad.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018163000 -0500" stop="20261018170000 -0500" channel="hola_tv.ec">
+    <title lang="es">Íntimo y personal</title>
   </programme>
-  <programme start="20261015043000 -0500" stop="20261015050000 -0500" channel="goltv.ec">
-    <title lang="es">The Football Review</title>
-    <desc lang="es">Las últimas noticias del fútbol y momentos iluminantes de los partidos de todo el mundo.</desc>
-    <date>2013</date>
-    <category lang="es">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9714185_b_h10_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018170000 -0500" stop="20261018173000 -0500" channel="hola_tv.ec">
+    <title lang="es">Mi primer viaje</title>
   </programme>
-  <programme start="20261015050000 -0500" stop="20261015070000 -0500" channel="goltv.ec">
-    <title lang="es">Fútbol Uruguayo Primera División</title>
-    <desc lang="es">Partidos de fútbol de la Primera División de Uruguay.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7936876_b_h10_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018173000 -0500" stop="20261018180000 -0500" channel="hola_tv.ec">
+    <title lang="es">Cóctel de noticias</title>
   </programme>
-  <programme start="20261015070000 -0500" stop="20261015090000 -0500" channel="goltv.ec">
-    <title lang="es">Fútbol Uruguayo Primera División</title>
-    <desc lang="es">Partidos de fútbol de la Primera División de Uruguay.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7936876_b_h10_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018180000 -0500" stop="20261018183000 -0500" channel="hola_tv.ec">
+    <title lang="es">Fashion Forward</title>
   </programme>
-  <programme start="20261015090000 -0500" stop="20261015110000 -0500" channel="goltv.ec">
-    <title lang="es">Fútbol Portugués Primeira Liga</title>
-    <desc lang="es">Acción con los partidos del campeonato portugués de fútbol de primera división.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9223539_b_h8_ax.jpg?w=960&amp;h=540" />
-    <previously-shown />
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
+  <programme start="20261018183000 -0500" stop="20261018190000 -0500" channel="hola_tv.ec">
+    <title lang="es">La lista VIP</title>
   </programme>
-  <programme start="20261015110000 -0500" stop="20261015113000 -0500" channel="goltv.ec">
-    <title lang="en">Go Go Goal</title>
-    <desc lang="es">Los mejores goles de la semana, desde todos los ángulos, de las mejores ligas del mundo.</desc>
-    <credits>
-      <actor>Giancarlo Granda</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17559163_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018190000 -0500" stop="20261018193000 -0500" channel="hola_tv.ec">
+    <title lang="es">Las Berrocal</title>
   </programme>
-  <programme start="20261015113000 -0500" stop="20261015133000 -0500" channel="goltv.ec">
-    <title lang="es">Fútbol Uruguayo Primera División</title>
-    <desc lang="es">Partidos de fútbol de la Primera División de Uruguay.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7936876_b_h10_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018193000 -0500" stop="20261018200000 -0500" channel="hola_tv.ec">
+    <title lang="es">Las Berrocal</title>
   </programme>
-  <programme start="20261015133000 -0500" stop="20261015140000 -0500" channel="goltv.ec">
-    <title lang="es">The Football Review</title>
-    <desc lang="es">Las últimas noticias del fútbol y momentos iluminantes de los partidos de todo el mundo.</desc>
-    <date>2013</date>
-    <category lang="es">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9714185_b_h10_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018200000 -0500" stop="20261018203000 -0500" channel="hola_tv.ec">
+    <title lang="es">Los Iglesias. Hermanos a la obra</title>
   </programme>
-  <programme start="20261015140000 -0500" stop="20261015160000 -0500" channel="goltv.ec">
-    <title lang="es">Fútbol Uruguayo Primera División</title>
-    <desc lang="es">Partidos de fútbol de la Primera División de Uruguay.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7936876_b_h10_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018203000 -0500" stop="20261018210000 -0500" channel="hola_tv.ec">
+    <title lang="es">Los Iglesias. Hermanos a la obra</title>
   </programme>
-  <programme start="20261015160000 -0500" stop="20261015163000 -0500" channel="goltv.ec">
-    <title lang="es">Fechas pasadas</title>
-    <desc lang="es">Una propuesta para disfrutar de los mejores recuerdos de partidos memorables del fútbol uruguayo.</desc>
-    <credits>
-      <actor>Miguel Pastorino</actor>
-    </credits>
-    <category lang="es">Classic Sport Event</category>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12640233_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018210000 -0500" stop="20261018213000 -0500" channel="hola_tv.ec">
+    <title lang="es">Los Iglesias. Hermanos a la obra</title>
   </programme>
-  <programme start="20261015163000 -0500" stop="20261015173000 -0500" channel="goltv.ec">
-    <title lang="es">Tu Fútbol - Uruguay</title>
-    <desc lang="es">Con lo mejor del fútbol uruguayo.</desc>
-    <credits>
-      <actor>Giancarlo Granda</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Sports talk</category>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10939732_b_h10_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018213000 -0500" stop="20261018220000 -0500" channel="hola_tv.ec">
+    <title lang="es">Cóctel de noticias</title>
   </programme>
-  <programme start="20261015173000 -0500" stop="20261015193000 -0500" channel="goltv.ec">
-    <title lang="es">Fútbol Uruguayo Primera División</title>
-    <desc lang="es">Partidos de fútbol de la Primera División de Uruguay.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7936876_b_h10_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018220000 -0500" stop="20261018223000 -0500" channel="hola_tv.ec">
+    <title lang="es">Las Berrocal</title>
   </programme>
-  <programme start="20261015193000 -0500" stop="20261015203000 -0500" channel="goltv.ec">
-    <title lang="es">Gol TV Noticias</title>
-    <desc lang="es">Comentario sobre las noticias y jugadas más importantes del fútbol mundial.</desc>
-    <credits>
-      <actor>Alejandro Vásquez</actor>
-      <actor>Ivy Pozo Zerga</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">News</category>
-    <category lang="es">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p705531_b_h10_ac.jpg?w=960&amp;h=540" />
-    <premiere />
+  <programme start="20261018223000 -0500" stop="20261018230000 -0500" channel="hola_tv.ec">
+    <title lang="es">Las Berrocal</title>
   </programme>
-  <programme start="20261015203000 -0500" stop="20261015210000 -0500" channel="goltv.ec">
-    <title lang="es">The Football Review</title>
-    <desc lang="es">Las últimas noticias del fútbol y momentos iluminantes de los partidos de todo el mundo.</desc>
-    <date>2013</date>
-    <category lang="es">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9714185_b_h10_ac.jpg?w=960&amp;h=540" />
-    <premiere />
+  <programme start="20261018230000 -0500" stop="20261018233000 -0500" channel="hola_tv.ec">
+    <title lang="es">Los Iglesias. Hermanos a la obra</title>
   </programme>
-  <programme start="20261015210000 -0500" stop="20261015213000 -0500" channel="goltv.ec">
-    <title lang="en">Go Go Goal</title>
-    <desc lang="es">Los mejores goles de la semana, desde todos los ángulos, de las mejores ligas del mundo.</desc>
-    <credits>
-      <actor>Giancarlo Granda</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17559163_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261018233000 -0500" stop="20261019000000 -0500" channel="hola_tv.ec">
+    <title lang="es">Los Iglesias. Hermanos a la obra</title>
   </programme>
-  <programme start="20261015213000 -0500" stop="20261015233000 -0500" channel="goltv.ec">
-    <title lang="es">Fútbol Uruguayo Primera División</title>
-    <desc lang="es">Partidos de fútbol de la Primera División de Uruguay.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7936876_b_h10_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261019000000 -0500" stop="20261019003000 -0500" channel="hola_tv.ec">
+    <title lang="es">Los Iglesias. Hermanos a la obra</title>
   </programme>
-  <programme start="20261015233000 -0500" stop="20261016000000 -0500" channel="goltv.ec">
-    <title lang="es">Fechas pasadas</title>
-    <desc lang="es">Una propuesta para disfrutar de los mejores recuerdos de partidos memorables del fútbol uruguayo.</desc>
-    <credits>
-      <actor>Miguel Pastorino</actor>
-    </credits>
-    <category lang="es">Classic Sport Event</category>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12640233_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />
+  <programme start="20261019003000 -0500" stop="20261019010000 -0500" channel="hola_tv.ec">
+    <title lang="es">Mi primer viaje</title>
+  </programme>
+  <programme start="20261019010000 -0500" stop="20261019013000 -0500" channel="hola_tv.ec">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20261019013000 -0500" stop="20261019020000 -0500" channel="hola_tv.ec">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20261019020000 -0500" stop="20261019023000 -0500" channel="hola_tv.ec">
+    <title lang="es">La lista VIP</title>
+  </programme>
+  <programme start="20261019023000 -0500" stop="20261019030000 -0500" channel="hola_tv.ec">
+    <title lang="es">Cóctel de noticias</title>
+  </programme>
+  <programme start="20261019030000 -0500" stop="20261019033000 -0500" channel="hola_tv.ec">
+    <title lang="es">Hashtag ¡Hola! TV</title>
+  </programme>
+  <programme start="20261019033000 -0500" stop="20261019040000 -0500" channel="hola_tv.ec">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20261019040000 -0500" stop="20261019043000 -0500" channel="hola_tv.ec">
+    <title lang="es">La lista VIP</title>
+  </programme>
+  <programme start="20261019043000 -0500" stop="20261019050000 -0500" channel="hola_tv.ec">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20261019050000 -0500" stop="20261019060000 -0500" channel="hola_tv.ec">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20261019060000 -0500" stop="20261019063000 -0500" channel="hola_tv.ec">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20261019063000 -0500" stop="20261019073000 -0500" channel="hola_tv.ec">
+    <title lang="es">Pain Relief Revealed</title>
+  </programme>
+  <programme start="20261019073000 -0500" stop="20261019080000 -0500" channel="hola_tv.ec">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20261019080000 -0500" stop="20261019083000 -0500" channel="hola_tv.ec">
+    <title lang="es">Pain Relief Revealed</title>
+  </programme>
+  <programme start="20261019083000 -0500" stop="20261019090000 -0500" channel="hola_tv.ec">
+    <title lang="es">La Dr. Polo vida sin límites</title>
+  </programme>
+  <programme start="20261019090000 -0500" stop="20261019100000 -0500" channel="hola_tv.ec">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20261019100000 -0500" stop="20261019110000 -0500" channel="hola_tv.ec">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20261019110000 -0500" stop="20261019120000 -0500" channel="hola_tv.ec">
+    <title lang="es">Casas de ensueño frente al mar</title>
+  </programme>
+  <programme start="20261019120000 -0500" stop="20261019123000 -0500" channel="hola_tv.ec">
+    <title lang="es">Design Hunters</title>
+  </programme>
+  <programme start="20261019123000 -0500" stop="20261019130000 -0500" channel="hola_tv.ec">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20261019130000 -0500" stop="20261019133000 -0500" channel="hola_tv.ec">
+    <title lang="es">Videofashion: Designers</title>
+  </programme>
+  <programme start="20261019133000 -0500" stop="20261019143000 -0500" channel="hola_tv.ec">
+    <title lang="es">Un Nuevo Look Para una Nueva Vida</title>
+  </programme>
+  <programme start="20261019143000 -0500" stop="20261019153000 -0500" channel="hola_tv.ec">
+    <title lang="es">Especiales Realeza</title>
+  </programme>
+  <programme start="20261019153000 -0500" stop="20261019160000 -0500" channel="hola_tv.ec">
+    <title lang="es">El álbum de las celebridades</title>
+  </programme>
+  <programme start="20261019160000 -0500" stop="20261019163000 -0500" channel="hola_tv.ec">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20261019163000 -0500" stop="20261019170000 -0500" channel="hola_tv.ec">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20261019170000 -0500" stop="20261019173000 -0500" channel="hola_tv.ec">
+    <title lang="es">Happy &amp; Zen</title>
+  </programme>
+  <programme start="20261019173000 -0500" stop="20261019180000 -0500" channel="hola_tv.ec">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20261019180000 -0500" stop="20261019190000 -0500" channel="hola_tv.ec">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20261019190000 -0500" stop="20261019200000 -0500" channel="hola_tv.ec">
+    <title lang="es">La hora Hola</title>
   </programme>
   <programme start="20261016000000 -0500" stop="20261016010000 -0500" channel="goltv.ec">
     <title lang="es">Gol TV Noticias</title>
