@@ -18,3 +18,12 @@ Thumbs.db
 .env
 .env.*
 *.tmp
+
+AR1.xml
+AR1.xml.gz
+CO1.xml
+CO1.xml.gz
+EC1.xml
+EC1.xml.gz
+es1.xml
+es1.xml.gz
