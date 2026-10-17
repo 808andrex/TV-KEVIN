@@ -876,6 +876,63 @@
   <channel id="gamavision.ec">
     <display-name>Gamavisión</display-name>
   </channel>
+  <channel id="tyc_sports.ar">
+    <display-name>TyC Sports</display-name>
+  </channel>
+  <programme start="20261016000000 -0500" stop="20261016010000 -0500" channel="tyc_sports.ar">
+    <title>Sportia</title>
+  </programme>
+  <programme start="20261016010000 -0500" stop="20261016020000 -0500" channel="tyc_sports.ar">
+    <title>Sportia</title>
+  </programme>
+  <programme start="20261016020000 -0500" stop="20261016030000 -0500" channel="tyc_sports.ar">
+    <title>Sportia</title>
+  </programme>
+  <programme start="20261016030000 -0500" stop="20261016040000 -0500" channel="tyc_sports.ar">
+    <title>Sportia</title>
+  </programme>
+  <programme start="20261016040000 -0500" stop="20261016050000 -0500" channel="tyc_sports.ar">
+    <title>Sportia</title>
+  </programme>
+  <programme start="20261016050000 -0500" stop="20261016060000 -0500" channel="tyc_sports.ar">
+    <title>Sportia</title>
+  </programme>
+  <programme start="20261016060000 -0500" stop="20261016080000 -0500" channel="tyc_sports.ar">
+    <title>Racing Club vs. Belgrano</title>
+  </programme>
+  <programme start="20261016080000 -0500" stop="20261016090000 -0500" channel="tyc_sports.ar">
+    <title>Superfútbol</title>
+  </programme>
+  <programme start="20261016090000 -0500" stop="20261016100000 -0500" channel="tyc_sports.ar">
+    <title>Sportia</title>
+  </programme>
+  <programme start="20261016100000 -0500" stop="20261016120000 -0500" channel="tyc_sports.ar">
+    <title>Dale al medio</title>
+  </programme>
+  <programme start="20261016120000 -0500" stop="20261016140000 -0500" channel="tyc_sports.ar">
+    <title>Líbero</title>
+  </programme>
+  <programme start="20261016140000 -0500" stop="20261016165500 -0500" channel="tyc_sports.ar">
+    <title>Sportia</title>
+  </programme>
+  <programme start="20261016165500 -0500" stop="20261016190000 -0500" channel="tyc_sports.ar">
+    <title>Social y Deportivo Defensa y Justicia vs. Instituto Atlético Central Córdoba</title>
+  </programme>
+  <programme start="20261016190000 -0500" stop="20261016192500 -0500" channel="tyc_sports.ar">
+    <title>Líbero</title>
+  </programme>
+  <programme start="20261016192500 -0500" stop="20261016213000 -0500" channel="tyc_sports.ar">
+    <title>Boca Juniors vs. Talleres</title>
+  </programme>
+  <programme start="20261016213000 -0500" stop="20261016220000 -0500" channel="tyc_sports.ar">
+    <title>La noche de TyC Sports</title>
+  </programme>
+  <programme start="20261016220000 -0500" stop="20261016230000 -0500" channel="tyc_sports.ar">
+    <title>Sportia</title>
+  </programme>
+  <programme start="20261016230000 -0500" stop="20261017000000 -0500" channel="tyc_sports.ar">
+    <title>Sportia</title>
+  </programme>
   <channel id="tvc">
     <display-name>TVC</display-name>
   </channel>
@@ -1266,6 +1323,109 @@
     <title>Red Bull Moto Spy</title>
     <sub-title>Temporada 4 Episodio 2</sub-title>
     <desc>Cooper Webb tiene una vieja rivalidad y se presenta a los pilotos emergentes de Supercross.</desc>
+  </programme>
+  <channel id="tnt_sports.ar">
+    <display-name>TNT Sports </display-name>
+  </channel>
+  <programme start="20261016043000 -0500" stop="20261016062000 -0500" channel="tnt_sports.ar">
+    <title>Lanús vs. Vélez Sarsfield</title>
+    <sub-title>Fecha 12 - Grupo A, Estadio Ciudad de Lanús – Néstor Díaz Pérez</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261016062000 -0500" stop="20261016081000 -0500" channel="tnt_sports.ar">
+    <title>Racing Club vs. Belgrano</title>
+    <sub-title>Fecha 12 - Grupo B, Estadio Juan Domingo Perón</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261016081000 -0500" stop="20261016100000 -0500" channel="tnt_sports.ar">
+    <title>Huracán vs. Gimnasia (LP)</title>
+    <sub-title>Fecha 13 - Grupo B, Estadio Tomás Adolfo Duco</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261016100000 -0500" stop="20261016120000 -0500" channel="tnt_sports.ar">
+    <title>Pelota parada</title>
+    <sub-title>Pelota parada</sub-title>
+    <desc>Somos un equipo que sale a la cancha todos los mediodías para acercarte el análisis de cada fecha del fútbol argentino. Paramos la pelota y opinamos con criterio. Con entrevistas, móviles y columnistas.</desc>
+  </programme>
+  <programme start="20261016120000 -0500" stop="20261016133000 -0500" channel="tnt_sports.ar">
+    <title>TNT Data Sports - Primera edición</title>
+    <sub-title>TNT Data Sports - Primera edición</sub-title>
+    <desc>La mejor información del fútbol argentino, las ligas internacionales, todas los disciplinas y las primicias del mundo del deporte.</desc>
+  </programme>
+  <programme start="20261016133000 -0500" stop="20261016150000 -0500" channel="tnt_sports.ar">
+    <title>TNT Data Sports - Primera edición</title>
+    <sub-title>TNT Data Sports - Primera edición</sub-title>
+    <desc>La mejor información del fútbol argentino, las ligas internacionales, todas los disciplinas y las primicias del mundo del deporte.</desc>
+  </programme>
+  <programme start="20261016150000 -0500" stop="20261016170000 -0500" channel="tnt_sports.ar">
+    <title>TNT Fútbol</title>
+    <sub-title>TNT Fútbol</sub-title>
+    <desc>Un espacio ideal para los amantes del fútbol. Análisis detallados, entrevistas exclusivas, debate apasionado y la mejor cobertura de los partidos.</desc>
+  </programme>
+  <programme start="20261016170000 -0500" stop="20261016173000 -0500" channel="tnt_sports.ar">
+    <title>Agustina Vargas</title>
+    <sub-title>TNT Gol fem</sub-title>
+    <desc>Ángela conversa con futbolistas de diversos clubes, explorando sus trayectorias, desafíos y sueños. Estas entrevistas ofrecen una visión íntima del recorrido de las jugadoras, desde sus inicios hasta su consolidación en el profesionalismo.</desc>
+  </programme>
+  <programme start="20261016173000 -0500" stop="20261016180000 -0500" channel="tnt_sports.ar">
+    <title>Semifinal - Ida</title>
+    <sub-title>El show de la Copa Libertadores</sub-title>
+    <desc>El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente.</desc>
+  </programme>
+  <programme start="20261016180000 -0500" stop="20261016183000 -0500" channel="tnt_sports.ar">
+    <title>Talleres</title>
+    <sub-title>Pensiones</sub-title>
+    <desc>Ángela Lerena revela la vida de los jugadores y jugadoras de fútbol en las pensiones, mostrando sus desafíos diarios, convivencia, y las historias detrás del fútbol profesional.</desc>
+  </programme>
+  <programme start="20261016183000 -0500" stop="20261016190000 -0500" channel="tnt_sports.ar">
+    <title>Semifinal - Ida</title>
+    <sub-title>Magazine CONMEBOL Sudamericana</sub-title>
+    <desc>Mira todos los detalles sobre los partidos de fútbol que son parte de la CONMEBOL Sudamericana 2026.</desc>
+  </programme>
+  <programme start="20261016190000 -0500" stop="20261016191500 -0500" channel="tnt_sports.ar">
+    <title>Match Day: Previa</title>
+    <sub-title>Match Day: Previa</sub-title>
+    <desc>Cada fin de semana TNT Sports pone en pantalla al mejor equipo periodístico. para realizar una cobertura multiplataforma desde los estadios y las concentraciones bajo el formato Matchday, a lo largo de la previa y el post partido.</desc>
+  </programme>
+  <programme start="20261016191500 -0500" stop="20261016213000 -0500" channel="tnt_sports.ar">
+    <title>Boca Jrs. vs. Talleres (Cba.)</title>
+    <sub-title>Fecha 13 - Grupo A, Estadio Alberto J. Armando</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261016213000 -0500" stop="20261016220000 -0500" channel="tnt_sports.ar">
+    <title>Match Day: Post partido</title>
+    <sub-title>Match Day: Post partido</sub-title>
+    <desc>Cada fin de semana TNT Sports pone en pantalla al mejor equipo periodístico. para realizar una cobertura multiplataforma desde los estadios y las concentraciones bajo el formato Matchday, a lo largo de la previa y el post partido.</desc>
+  </programme>
+  <programme start="20261016220000 -0500" stop="20261016230000 -0500" channel="tnt_sports.ar">
+    <title>TNT Data Sports - Segunda edición</title>
+    <sub-title>TNT Data Sports - Segunda edición</sub-title>
+    <desc>El más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo, con el foco puesto en las estadísticas y con datos que permiten comprender los hechos.</desc>
+  </programme>
+  <programme start="20261016230000 -0500" stop="20261017013000 -0500" channel="tnt_sports.ar">
+    <title>NBA Pretemporada</title>
+    <sub-title>NBA Pretemporada</sub-title>
+    <desc>Vive las emociones de los partidos preparativos a la temporada regular de la NBA. Participan los 30 equipos de la categoría.</desc>
+  </programme>
+  <programme start="20261017013000 -0500" stop="20261017033000 -0500" channel="tnt_sports.ar">
+    <title>Def. y Justicia vs. Instituto</title>
+    <sub-title>Fecha 13 - Grupo A, Estadio Norberto "Tito" Tomaghello</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261017033000 -0500" stop="20261017040000 -0500" channel="tnt_sports.ar">
+    <title>FIFA World Cup Unseen</title>
+    <sub-title>FIFA World Cup Unseen</sub-title>
+    <desc>Una mirada inédita al Mundial 2026, con imágenes exclusivas, momentos detrás de escena y todo lo que no se vio durante la competencia.</desc>
+  </programme>
+  <programme start="20261017040000 -0500" stop="20261017055000 -0500" channel="tnt_sports.ar">
+    <title>Boca Jrs. vs. Talleres (Cba.)</title>
+    <sub-title>Fecha 13 - Grupo A, Estadio Alberto J. Armando</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261017055000 -0500" stop="20261017065000 -0500" channel="tnt_sports.ar">
+    <title>Huracán vs. Gimnasia (LP)</title>
+    <sub-title>Fecha 13 - Grupo B, Estadio Tomás Adolfo Duco</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
   </programme>
   <channel id="dsports1.ec">
     <display-name>DSPORTS 1</display-name>
@@ -2037,6 +2197,12 @@
   </channel>
   <channel id="goltv.ec">
     <display-name>GolTV</display-name>
+  </channel>
+  <channel id="DAZN1.Spain">
+    <display-name>DAZN 1</display-name>
+  </channel>
+  <channel id="DAZNF1.Spain">
+    <display-name>DAZN F1</display-name>
   </channel>
   <channel id="hbo.co">
     <display-name>HBO</display-name>
@@ -62853,6 +63019,1445 @@
     <category lang="es">Soccer</category>
     <icon src="http://dtil.tmsimg.com/assets/p276825_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
+  </programme>
+  <programme start="20261012180200 -0500" stop="20261012215300 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261012215300 -0500" stop="20261013015300 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261013015300 -0500" stop="20261013055200 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261013055200 -0500" stop="20261013060000 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261013060000 -0500" stop="20261013072300 -0500" channel="DAZN1.Spain">
+    <title lang="es">Green Lions</title>
+    <desc lang="es">Green Lions es la increíble historia de un 'underdog' que captó la atención mundial. Cuando Camerún derrotó a la actual campeona del mundo, Argentina, en el partido inaugural de Italia '90, fue, posiblemente, la mayor sorpresa de la historia de los Mundiales.</desc>
+    <credits>
+      <director>Billy Dosanjh</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://cdn.sincroguia.tv/storage/29623/c_green_lions_2022.jpeg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013072300 -0500" stop="20261013092400 -0500" channel="DAZN1.Spain">
+    <title lang="es">Premier League</title>
+    <sub-title lang="es">Coventry City-Newcastle</sub-title>
+    <desc lang="es">El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7065/c_premier_league_2024_2.jpeg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2627</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013092400 -0500" stop="20261013100500 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN Originals</title>
+    <sub-title lang="es">The Post 2</sub-title>
+    <desc lang="es">Revive lo mejor de cada fin de semana en 'The Post', el programa con el mejor análisis y resúmenes de la jornada de fútbol internacional con Jaume Naveira, Nacho González y David Fer a los mandos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013100500 -0500" stop="20261013110600 -0500" channel="DAZN1.Spain">
+    <title lang="es">Moto3 - GP de Indonesia</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El GP de Indonesia se corre del 16 al 18 de octubre en el vibrante circuito callejero de Pertamina Mandalika, en la isla de Lombok. Un trazado ultrarrápido y técnico marcado por el calor extremo, la pasión de la afición local y una altísima exigencia física. Una prueba clave para el desenlace final del Mundial.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Indonesia</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013110600 -0500" stop="20261013120800 -0500" channel="DAZN1.Spain">
+    <title lang="es">Moto2 - GP de Indonesia</title>
+    <sub-title lang="es">Carrera Moto2</sub-title>
+    <desc lang="es">El GP de Indonesia se corre del 16 al 18 de octubre en el vibrante circuito callejero de Pertamina Mandalika, en la isla de Lombok. Un trazado ultrarrápido y técnico marcado por el calor extremo, la pasión de la afición local y una altísima exigencia física. Una prueba clave para el desenlace final del Mundial.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Indonesia</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013120800 -0500" stop="20261013131400 -0500" channel="DAZN1.Spain">
+    <title lang="es">MotoGP - GP de Indonesia</title>
+    <sub-title lang="es">Carrera MotoGP</sub-title>
+    <desc lang="es">El GP de Indonesia se corre del 16 al 18 de octubre en el vibrante circuito callejero de Pertamina Mandalika, en la isla de Lombok. Un trazado ultrarrápido y técnico marcado por el calor extremo, la pasión de la afición local y una altísima exigencia física. Una prueba clave para el desenlace final del Mundial.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Indonesia</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013131400 -0500" stop="20261013134100 -0500" channel="DAZN1.Spain">
+    <title lang="es">Código MotoGP</title>
+    <sub-title lang="es">Indonesia</sub-title>
+    <desc lang="es">Estrenamos nueva temporada de Código MotoGP, programa presentado por Natacha Alfageme en el que, cada lunes después de Gran Premio, se descubrirán todos los secretos y los mejores momentos que pasaron desapercibidos durante el fin de semana.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E16</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013134100 -0500" stop="20261013140000 -0500" channel="DAZN1.Spain">
+    <title lang="es">Premier Corner by Guiness 0,0</title>
+    <sub-title lang="es">David Silva</sub-title>
+    <desc lang="es">David Silva es un exfutbolista español nacido el 8 de enero de 1986 en Arguineguín, Gran Canaria. Conocido por su gran visión de juego, técnica exquisita y precisión en el pase, es considerado uno de los mejores centrocampistas de su generación. Inició su carrera en el Valencia CF, donde destacó por su talento creativo, y alcanzó su máxima consagración en el Manchester City, club con el que ganó numerosos títulos y se convirtió en una leyenda.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2025 E7</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013140000 -0500" stop="20261013160100 -0500" channel="DAZN1.Spain">
+    <title lang="es">Premier League</title>
+    <sub-title lang="es">Liverpool-Manchester City</sub-title>
+    <desc lang="es">El escándalo desatado en torno a la financiación del Man City en su época de mayor éxito emborrona un gran choque futbolístico. Los de Iraola ya están a seis puntos del líder Man City que desde su derrota en la Community Shield ha ganado todo.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7065/c_premier_league_2024_2.jpeg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2627</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013160100 -0500" stop="20261013163000 -0500" channel="DAZN1.Spain">
+    <title lang="es">Premier League Features</title>
+    <sub-title lang="es">Premier Corner: Pepe Reina</sub-title>
+    <desc lang="es">En este nuevo episodio de Premier Corner hablamos con Pepe Reina, portero español de leyenda, que nos habla de su trayectoria, especialmente de su etapa en el 'Spanish' Liverpool.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013163000 -0500" stop="20261013163000 -0500" channel="DAZN1.Spain">
+    <title lang="es">DTM - Sachsenring</title>
+    <sub-title lang="es">Carrera 2</sub-title>
+    <desc lang="es">El fin de temporada de la DTM se lleva a cabo en Hockenheim.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Alemania</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013163000 -0500" stop="20261013180300 -0500" channel="DAZN1.Spain">
+    <title lang="es">DTM - Sachsenring</title>
+    <sub-title lang="es">Carrera 2</sub-title>
+    <desc lang="es">El fin de temporada de la DTM se lleva a cabo en Hockenheim.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Alemania</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013180300 -0500" stop="20261013215800 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261013215800 -0500" stop="20261014015800 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261014015800 -0500" stop="20261014055800 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261014055800 -0500" stop="20261014060000 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261014060000 -0500" stop="20261014093200 -0500" channel="DAZN1.Spain">
+    <title lang="es">NFL</title>
+    <sub-title lang="es">Los Angeles Rams - Buffalo Bills</sub-title>
+    <desc lang="es">La pasión, la estrategia, la fuerza y la inteligencia se combinan en el deporte que paraliza Estados Unidos. La NFL busca al equipo más completo, que se coronará en la Super Bowl que se disputará en Inglewood el 14 de febrero. Los Seattle Seahawks defienden título.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/38295/c_nfl_2023.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2627</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014093200 -0500" stop="20261014102300 -0500" channel="DAZN1.Spain">
+    <title lang="es">Moto4 Asia Cup Japón</title>
+    <sub-title lang="es">Japón | Carrera 1</sub-title>
+    <desc lang="es">Un campeonato de motociclismo juvenil de primer nivel, diseñado para descubrir y formar a la próxima generación de estrellas con vistas a su llegada a MotoGP.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014102300 -0500" stop="20261014111400 -0500" channel="DAZN1.Spain">
+    <title lang="es">Moto4 Asia Cup Japón</title>
+    <sub-title lang="es">Japón | Carrera 2</sub-title>
+    <desc lang="es">Un campeonato de motociclismo juvenil de primer nivel, diseñado para descubrir y formar a la próxima generación de estrellas con vistas a su llegada a MotoGP.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014111400 -0500" stop="20261014122000 -0500" channel="DAZN1.Spain">
+    <title lang="es">MotoGP - GP de Indonesia</title>
+    <sub-title lang="es">Carrera MotoGP</sub-title>
+    <desc lang="es">El GP de Indonesia se corre del 16 al 18 de octubre en el vibrante circuito callejero de Pertamina Mandalika, en la isla de Lombok. Un trazado ultrarrápido y técnico marcado por el calor extremo, la pasión de la afición local y una altísima exigencia física. Una prueba clave para el desenlace final del Mundial.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Indonesia</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014122000 -0500" stop="20261014124800 -0500" channel="DAZN1.Spain">
+    <title lang="es">Código MotoGP</title>
+    <sub-title lang="es">Indonesia</sub-title>
+    <desc lang="es">Estrenamos nueva temporada de Código MotoGP, programa presentado por Natacha Alfageme en el que, cada lunes después de Gran Premio, se descubrirán todos los secretos y los mejores momentos que pasaron desapercibidos durante el fin de semana.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E16</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014124800 -0500" stop="20261014144900 -0500" channel="DAZN1.Spain">
+    <title lang="es">Premier League</title>
+    <sub-title lang="es">Manchester United-Tottenham</sub-title>
+    <desc lang="es">El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7065/c_premier_league_2024_2.jpeg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2627</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014144900 -0500" stop="20261014153000 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN Originals</title>
+    <sub-title lang="es">The Post 2</sub-title>
+    <desc lang="es">Revive lo mejor de cada fin de semana en 'The Post', el programa con el mejor análisis y resúmenes de la jornada de fútbol internacional con Jaume Naveira, Nacho González y David Fer a los mandos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014153000 -0500" stop="20261014153000 -0500" channel="DAZN1.Spain">
+    <title lang="es">Premier League</title>
+    <sub-title lang="es">Chelsea-Bournemouth</sub-title>
+    <desc lang="es">El Chelsea necesita volver a reencontrarse con la victoria ante el Bournemouth en la sexta fecha del calendario de Premier League.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7065/c_premier_league_2024_2.jpeg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2627</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014153000 -0500" stop="20261014173100 -0500" channel="DAZN1.Spain">
+    <title lang="es">Premier League</title>
+    <sub-title lang="es">Chelsea-Bournemouth</sub-title>
+    <desc lang="es">El Chelsea necesita volver a reencontrarse con la victoria ante el Bournemouth en la sexta fecha del calendario de Premier League.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7065/c_premier_league_2024_2.jpeg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2627</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014173100 -0500" stop="20261014183400 -0500" channel="DAZN1.Spain">
+    <title lang="es">Boxeo - Campeonato del mundo de WBA</title>
+    <sub-title lang="es">Floyd Schofield Jr. - Lucas Bahdi</sub-title>
+    <desc lang="es">Floyd Schofield Jr. y Lucas Bahdi se enfrentan en un atractivo duelo entre dos jóvenes talentos del peso ligero. Velocidad, pegada y ambición sobre el ring en un combate que puede marcar un antes y un después en la carrera de ambos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014183400 -0500" stop="20261014223400 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261014223400 -0500" stop="20261015023400 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261015023400 -0500" stop="20261015060000 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261015060000 -0500" stop="20261015065200 -0500" channel="DAZN1.Spain">
+    <title lang="es">Moto4 Asia Cup Japón</title>
+    <sub-title lang="es">Japón | Carrera 1</sub-title>
+    <desc lang="es">Un campeonato de motociclismo juvenil de primer nivel, diseñado para descubrir y formar a la próxima generación de estrellas con vistas a su llegada a MotoGP.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015065200 -0500" stop="20261015074300 -0500" channel="DAZN1.Spain">
+    <title lang="es">Moto4 Asia Cup Japón</title>
+    <sub-title lang="es">Japón | Carrera 2</sub-title>
+    <desc lang="es">Un campeonato de motociclismo juvenil de primer nivel, diseñado para descubrir y formar a la próxima generación de estrellas con vistas a su llegada a MotoGP.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015074300 -0500" stop="20261015091200 -0500" channel="DAZN1.Spain">
+    <title lang="es">E1 Series</title>
+    <sub-title lang="es">Luanda - Finales</sub-title>
+    <desc lang="es">Las E1 Series son una competición de lanchas eléctricas y que celebra su tercera temporada.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015091200 -0500" stop="20261015111300 -0500" channel="DAZN1.Spain">
+    <title lang="es">Premier League</title>
+    <sub-title lang="es">Manchester United-Tottenham</sub-title>
+    <desc lang="es">El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7065/c_premier_league_2024_2.jpeg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2627</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015111300 -0500" stop="20261015115400 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN Originals</title>
+    <sub-title lang="es">The Post 2</sub-title>
+    <desc lang="es">Revive lo mejor de cada fin de semana en 'The Post', el programa con el mejor análisis y resúmenes de la jornada de fútbol internacional con Jaume Naveira, Nacho González y David Fer a los mandos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015115400 -0500" stop="20261015135600 -0500" channel="DAZN1.Spain">
+    <title lang="es">Premier League</title>
+    <sub-title lang="es">Liverpool-Manchester City</sub-title>
+    <desc lang="es">El escándalo desatado en torno a la financiación del Man City en su época de mayor éxito emborrona un gran choque futbolístico. Los de Iraola ya están a seis puntos del líder Man City que desde su derrota en la Community Shield ha ganado todo.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7065/c_premier_league_2024_2.jpeg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2627</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015135600 -0500" stop="20261015145700 -0500" channel="DAZN1.Spain">
+    <title lang="es">Moto3 - GP de Indonesia</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El GP de Indonesia se corre del 16 al 18 de octubre en el vibrante circuito callejero de Pertamina Mandalika, en la isla de Lombok. Un trazado ultrarrápido y técnico marcado por el calor extremo, la pasión de la afición local y una altísima exigencia física. Una prueba clave para el desenlace final del Mundial.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Indonesia</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015145700 -0500" stop="20261015155800 -0500" channel="DAZN1.Spain">
+    <title lang="es">Moto2 - GP de Indonesia</title>
+    <sub-title lang="es">Carrera Moto2</sub-title>
+    <desc lang="es">El GP de Indonesia se corre del 16 al 18 de octubre en el vibrante circuito callejero de Pertamina Mandalika, en la isla de Lombok. Un trazado ultrarrápido y técnico marcado por el calor extremo, la pasión de la afición local y una altísima exigencia física. Una prueba clave para el desenlace final del Mundial.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Indonesia</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015155800 -0500" stop="20261015155800 -0500" channel="DAZN1.Spain">
+    <title lang="es">MotoGP - GP de Indonesia</title>
+    <sub-title lang="es">Carrera MotoGP</sub-title>
+    <desc lang="es">El GP de Indonesia se corre del 16 al 18 de octubre en el vibrante circuito callejero de Pertamina Mandalika, en la isla de Lombok. Un trazado ultrarrápido y técnico marcado por el calor extremo, la pasión de la afición local y una altísima exigencia física. Una prueba clave para el desenlace final del Mundial.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Indonesia</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015155800 -0500" stop="20261015170400 -0500" channel="DAZN1.Spain">
+    <title lang="es">MotoGP - GP de Indonesia</title>
+    <sub-title lang="es">Carrera MotoGP</sub-title>
+    <desc lang="es">El GP de Indonesia se corre del 16 al 18 de octubre en el vibrante circuito callejero de Pertamina Mandalika, en la isla de Lombok. Un trazado ultrarrápido y técnico marcado por el calor extremo, la pasión de la afición local y una altísima exigencia física. Una prueba clave para el desenlace final del Mundial.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Indonesia</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015170400 -0500" stop="20261015173100 -0500" channel="DAZN1.Spain">
+    <title lang="es">Código MotoGP</title>
+    <sub-title lang="es">Indonesia</sub-title>
+    <desc lang="es">Estrenamos nueva temporada de Código MotoGP, programa presentado por Natacha Alfageme en el que, cada lunes después de Gran Premio, se descubrirán todos los secretos y los mejores momentos que pasaron desapercibidos durante el fin de semana.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E16</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015173100 -0500" stop="20261015180400 -0500" channel="DAZN1.Spain">
+    <title lang="es">Jorge Martín Del cielo al infierno</title>
+    <desc lang="es">Llegando a la temporada 2025 como el vigente Campeón del Mundo, el español acabaría viviendo un año muy complicado, después de que varias lesiones arruinaran su debut con Aprilia.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015180400 -0500" stop="20261015220400 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261015220400 -0500" stop="20261016020400 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261016020400 -0500" stop="20261016033000 -0500" channel="DAZN1.Spain">
+    <title lang="es">DAZN 1</title>
+    <desc lang="es">DAZN 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+  </programme>
+  <programme start="20261016033000 -0500" stop="20261016043000 -0500" channel="DAZN1.Spain">
+    <title lang="es">Mundial de Superbike - España</title>
+    <sub-title lang="es">FP1</sub-title>
+    <desc lang="es">Vive los primeros entrenamientos de la última prueba del campeonato de Superbikes de la temporada que se disputa este fin de semana en el circuito de Jerez - Ángel Nieto.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016043000 -0500" stop="20261016052000 -0500" channel="DAZN1.Spain">
+    <title lang="es">Toprak Razgatlioglu, la mayor hazaña</title>
+    <desc lang="es">Nadie podría haberlo predicho, pero el fichaje de Toprak Razgatlioglu por BMW fue sin duda la historia que definió el Mundial de WSBK de 2024. En una temporada marcada por las historias de superación de varios pilotos, el ascenso del turco y BMW contra todo pronóstico, culminó con una histórica victoria en el Mundial. Ahora, 'Toprak Razgatlioglu: The Greatest Stunt' cuenta en profundidad toda la historia del año que cambió WorldSBK.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016052000 -0500" stop="20261016054500 -0500" channel="DAZN1.Spain">
+    <title lang="es">Jonathan Rea: Irrepetible</title>
+    <desc lang="es">Nueve temporadas, seis títulos y un legado de leyenda. Revive el viaje irrepetible de Jonathan Rea y Kawasaki que marcó una época en el Mundial de Superbikes.</desc>
+    <date>2024</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2024 E4</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016054500 -0500" stop="20261016060500 -0500" channel="DAZN1.Spain">
+    <title lang="es">The Showdown</title>
+    <desc lang="es">Solo un punto separaba de la gloria a Colin Edwards y Troy Bayliss a su llegada a Imola en 2002, el resto es un duelo para la historia del motoclismo.</desc>
+    <date>2023</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016060500 -0500" stop="20261016062500 -0500" channel="DAZN1.Spain">
+    <title lang="es">Inside Ducati</title>
+    <sub-title lang="es">Ducati Inside | GP Indonesia</sub-title>
+    <desc lang="es">Nuevo episodio de Ducati Inside, en esta ocasión hacía una recapitulación de lo que dejó el Gran Premio de Indonesia con la caída de Marc Márquez y la no puntuación de Pecco Bagnaia.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016062500 -0500" stop="20261016095500 -0500" channel="DAZN1.Spain">
+    <title lang="es">Mundial de Superbike - España</title>
+    <sub-title lang="es">FP2</sub-title>
+    <desc lang="es">La de España es la duodécima y última cita del Campeonato del Mundo de Superbike. Se celebra del 16 al 18 de octubre en el Circuito de Jerez-Ángel Nieto, donde se deciden los títulos de categorías como WorldSBK, WorldSSP y WorldWCR.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016095500 -0500" stop="20261016114000 -0500" channel="DAZN1.Spain">
+    <title lang="es">Premier League</title>
+    <sub-title lang="es">Manchester City-Coventry City</sub-title>
+    <desc lang="es">Manchester City recibe al Coventry City en un duelo en el que los locales parten como favoritos. El conjunto de Manchester buscará imponer su ritmo y calidad ante un Coventry decidido a competir y aprovechar cualquier oportunidad para dar la sorpresa.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7065/c_premier_league_2024_2.jpeg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2627</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016114000 -0500" stop="20261016133000 -0500" channel="DAZN1.Spain">
+    <title lang="es">Liga de Campeones de balonmano</title>
+    <sub-title lang="es">Barcelona-Füchse Berlín</sub-title>
+    <desc lang="es">Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/38354/recurso_deportes_balonmano_3.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2526</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016133000 -0500" stop="20261016153500 -0500" channel="DAZN1.Spain">
+    <title lang="es">MotoGP - GP de Catalunya</title>
+    <sub-title lang="es">Carreras</sub-title>
+    <desc lang="es">Un jueves más llega la previa de cada GP con Paddock Abierto, presentado por Carles Pérez, donde escucharemos a los pilotos protagonistas del Gran Premio de Cataluña, el sexto de la temporada, que se disputa este fin de semana.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016153500 -0500" stop="20261016164000 -0500" channel="DAZN1.Spain">
+    <title lang="es">Boxeo: velada Foster vs Ford</title>
+    <sub-title lang="es">O'Shaquie Foster vs Raymond Ford</sub-title>
+    <desc lang="es">O'Shaquie Foster y Ray Ford se enfrentan en un combate de alto nivel en el peso superpluma. Foster busca consolidar su reinado, mientras Ford aspira a dar el salto definitivo. Un choque de talento y ambición que promete ritmo, precisión y máxima competitividad.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/29452/recurso_deportes_boxeo_3.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20261012183000 -0500" stop="20261012203000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1</title>
+    <title lang="es">GP de Japón</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">La Fórmula 1 aterriza en Asia con una de las pruebas más emblemáticas del calendario, el GP de Japón. El legendario circuito de Suzuka acoge la cuarta cita del año. Tras su triunfo en Australia, Carlos Sainz busca una segunda victoria consecutiva.</desc>
+    <date>2024</date>
+    <icon src="https://cdn.sincroguia.tv/storage/10737/c_msc_cruises_japanese_grand_prix_2024.jpeg" />
+    <country lang="es">Japón</country>
+    <episode-num system="onscreen">S2024</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261012203000 -0500" stop="20261012223000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Emilia-Romaña</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">Los casi cinco kilómetros del Autodromo Internazionale Enzo e Dino Ferrari ponen a prueba a escuderías y pilotos en el GP de Emilia-Romaña, séptima parada de la temporada en el Mundial de F1. La de Imola es la primera carrera del año en territorio europeo.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7268/c_formula_1_2025.jpeg" />
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261012223000 -0500" stop="20261012233000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Bravissimo</title>
+    <desc lang="es">El 25 de septiembre de 2005, Fernando Alonso hizo historia al convertirse en el primer campeón mundial español de Fórmula 1. Revivimos los mejores momentos de ese momento histórico junto a sus protagonistas.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/12644/c_bravissimo_2026.jpeg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261012233000 -0500" stop="20261013013000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1</title>
+    <title lang="es">GP de Baréin</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">Los amantes de la Fórmula 1 están de enhorabuena. El Mundial comienza con el GP de Baréin, que se celebra en el Circuito de Sakhir el primer fin de semana de marzo. Max Verstappen defiende título de campeón tras una temporada marcada por su dominio en la competición.</desc>
+    <date>2024</date>
+    <icon src="https://cdn.sincroguia.tv/storage/10671/c_gulf_air_bahrain_grand_prix_2024_1.jpeg" />
+    <country lang="es">Las Bahamas</country>
+    <episode-num system="onscreen">S2024</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013013000 -0500" stop="20261013034500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Mónaco</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">La octava carrera del Circuito Internacional de la temporada 2025 se disputa en el icónico Curcuito de Mónaco. Caracterizado por curvas marcadas y calles estrechas, es uno de los mejores medidores de la precisión de los pilotos.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7268/c_formula_1_2025.jpeg" />
+    <country lang="es">Mónaco</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013034500 -0500" stop="20261013043000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Gearbox</title>
+    <desc lang="es">Los fanáticos de la conducción tienen una cita en 'Gearbox', donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7587/c_gearbox-_s01.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013043000 -0500" stop="20261013070000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1</title>
+    <title lang="es">GP de los Países Bajos</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">Tras el parón veraniego, la Fórmula 1 vuelve a la acción en el circuito neerlandés de Zandvoort, con las gradas naranjas abarrotadas de seguidores de Max Verstappen. El ídolo local buscará una nueva victoria que le acerque aún más al tricampeonato.</desc>
+    <date>2023</date>
+    <icon src="https://cdn.sincroguia.tv/storage/10291/c_heineken_dutch_grand_prix_2023.jpeg" />
+    <country lang="es">Países Bajos</country>
+    <episode-num system="onscreen">S2023</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013070000 -0500" stop="20261013080000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Box, Box</title>
+    <sub-title lang="es">GP de España. Madrid</sub-title>
+    <desc lang="es">Disfruta del mejor programa previo a un Gran Premio de F1 dirigido por el gran Tomás Slafer. El análisis más completo, conexiones en directo con los circuitos, declaraciones de los pilotos, ruedas de prensa a tiempo real.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E18</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013080000 -0500" stop="20261013100000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Japón</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">La emblemática pista de Suzuka, con su desafiante diseño en forma de ''8'', promete una vez más grandes emociones. La combinación de curvas rápidas, cambios de elevación y secciones técnicas ponen a prueba la habilidad de los pilotos y la aerodinámica de los monoplazas.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7268/c_formula_1_2025.jpeg" />
+    <country lang="es">Japón</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013100000 -0500" stop="20261013101500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Japón</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7242/c_codigo_f1_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E3</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013101500 -0500" stop="20261013104500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Gearbox</title>
+    <desc lang="es">Los fanáticos de la conducción tienen una cita en 'Gearbox', donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7587/c_gearbox-_s01.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013104500 -0500" stop="20261013113000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Miami</title>
+    <sub-title lang="es">Esprín</sub-title>
+    <desc lang="es">La Fórmula 1 vuelve a Miami con un Gran Premio que combina velocidad, espectáculo y ambiente único. El trazado urbano alrededor del Hard Rock Stadium acoge una cita clave del calendario, con lucha cerrada en pista y un evento que va mucho más allá de la carrera.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7268/c_formula_1_2025.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013113000 -0500" stop="20261013120000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Gearbox</title>
+    <desc lang="es">Los fanáticos de la conducción tienen una cita en 'Gearbox', donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7587/c_gearbox-_s01.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013120000 -0500" stop="20261013140000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Singapur</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El Gran Premio de Singapur es una carrera de automovilismo del Campeonato Mundial de Fórmula 1 disputada en el circuito callejero de Marina Bay, ubicado en la ciudad-estado de Singapur.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Singapur</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013140000 -0500" stop="20261013141500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Singapur</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/23480/c_codigo_f1_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E16</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013141500 -0500" stop="20261013161500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Miami</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">La Fórmula 1 vuelve a Miami con un Gran Premio que combina velocidad, espectáculo y ambiente único. El trazado urbano alrededor del Hard Rock Stadium acoge una cita clave del calendario, con lucha cerrada en pista y un evento que va mucho más allá de la carrera.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7268/c_formula_1_2025.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013161500 -0500" stop="20261013163000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Miami</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7242/c_codigo_f1_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E4</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013163000 -0500" stop="20261013163000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Box, Box</title>
+    <sub-title lang="es">Canadá</sub-title>
+    <desc lang="es">Disfruta del mejor programa previo a un Gran Premio de F1 dirigido por el gran Tomás Slafer. El análisis más completo, conexiones en directo con los circuitos, declaraciones de los pilotos, ruedas de prensa a tiempo real.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7598/c_box_box_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E9</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013163000 -0500" stop="20261013181500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Box, Box</title>
+    <sub-title lang="es">Canadá</sub-title>
+    <desc lang="es">Disfruta del mejor programa previo a un Gran Premio de F1 dirigido por el gran Tomás Slafer. El análisis más completo, conexiones en directo con los circuitos, declaraciones de los pilotos, ruedas de prensa a tiempo real.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7598/c_box_box_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E9</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013181500 -0500" stop="20261013201500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1</title>
+    <title lang="es">GP de Arabia Saudí</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">La Fórmula 1 continúa su periplo por Oriente Medio en el inicio de temporada. Tras el debut en Baréin, Arabia Saudí toma el relevo. El circuito urbano de Yeda acoge por cuarto año consecutivo una cita mundialista. En 2023, Checo Pérez se impuso y Alonso fue tercero.</desc>
+    <date>2024</date>
+    <icon src="https://cdn.sincroguia.tv/storage/10683/c_stc_saudi_arabian_grand_prix_2024_1.jpeg" />
+    <country lang="es">Arabia Saudí</country>
+    <episode-num system="onscreen">S2024</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013201500 -0500" stop="20261013221500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1</title>
+    <title lang="es">GP de Italia</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El Mundial de Fórmula 1 pone rumbo a la 14ª carrera del calendario de 2023, que tendrá lugar en el emblemático trazado italiano de Monza. En un circuito donde la velocidad punta será clave, ¿alguien podrá hacer frente a Red Bull?</desc>
+    <date>2023</date>
+    <icon src="https://cdn.sincroguia.tv/storage/5973/recurso_deportes_formula_1.jpeg" />
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">S2023</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261013221500 -0500" stop="20261014003000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1</title>
+    <title lang="es">GP de Azerbaiyán</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El GP de Azerbaiyán es la cuarta prueba de la temporada del Mundial de Fórmula 1. Un Gran Premio que consta de denominación propia solo desde 2016 y que se disputa por un circuito urbano en las calles de Bakú.</desc>
+    <date>2023</date>
+    <icon src="https://cdn.sincroguia.tv/storage/10037/c_azerbaijan_grand_prix_2023.jpeg" />
+    <country lang="es">Azerbaiyán</country>
+    <episode-num system="onscreen">S2023</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014003000 -0500" stop="20261014023000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1</title>
+    <title lang="es">GP de Canadá</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El Mundial de Fórmula 1 vuelve a aterrizar en América con la disputa del GP de Canadá, décima prueba del año. Los monoplazas regresan al circuito de Montreal, rebautizado como Gilles Villeneuve por ser el primer piloto en ganar allí en la Fórmula 1.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/images/238826/image.jpg" />
+    <country lang="es">Canadá</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014023000 -0500" stop="20261014043000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1</title>
+    <title lang="es">GP de Miami</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">La Formula 1 regresa a Miami. La ciudad de Florida acoge un Gran Premio por tercera vez tras abrirse camino en 2022. El Miami Autodrome, que rodea el Hard Rock Stadium, es testigo de la sexta prueba del campeonato. Max Verstappen llega como líder destacado.</desc>
+    <date>2024</date>
+    <icon src="https://cdn.sincroguia.tv/storage/6259/recurso_deportes_formula_1.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2024</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014043000 -0500" stop="20261014053000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Decoded</title>
+    <sub-title lang="es">Lewis Hamilton</sub-title>
+    <desc lang="es">El fútbol levanta pasiones y convierte a los mejores jugadores en auténticos iconos deportivos y culturales. Este espacio analiza pormenorizadamente a varias figuras del deporte rey, tanto dentro como fuera del terreno de juego.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7257/c_decod3d_s01.jpeg" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014053000 -0500" stop="20261014063000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Box, Box</title>
+    <sub-title lang="es">GP de España. Madrid</sub-title>
+    <desc lang="es">Disfruta del mejor programa previo a un Gran Premio de F1 dirigido por el gran Tomás Slafer. El análisis más completo, conexiones en directo con los circuitos, declaraciones de los pilotos, ruedas de prensa a tiempo real.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E18</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014063000 -0500" stop="20261014070000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Gearbox</title>
+    <desc lang="es">Los fanáticos de la conducción tienen una cita en 'Gearbox', donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7587/c_gearbox-_s01.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014070000 -0500" stop="20261014074500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Canadá</title>
+    <sub-title lang="es">Esprín</sub-title>
+    <desc lang="es">El GP de Canadá 2026 llega al icónico Circuit Gilles-Villeneuve, un trazado rápido y técnico famoso por el “Muro de los Campeones”. Montreal se transforma en una fiesta para los fans en un fin de semana lleno de acción, sprint y una carrera decisiva.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Canadá</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014074500 -0500" stop="20261014080000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Singapur</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/23480/c_codigo_f1_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E16</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014080000 -0500" stop="20261014100000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Canadá</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El GP de Canadá 2026 llega al icónico Circuit Gilles-Villeneuve, un trazado rápido y técnico famoso por el “Muro de los Campeones”. Montreal se transforma en una fiesta para los fans en un fin de semana lleno de acción, sprint y una carrera decisiva.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Canadá</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014100000 -0500" stop="20261014101500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Canadá</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7242/c_codigo_f1_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E5</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014101500 -0500" stop="20261014124500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1</title>
+    <title lang="es">GP de Singapur</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">Max Verstappen sigue rompiendo récords en un año totalmente dominador. Sin embargo, ahora se enfrenta a un trazado en el que nunca ha podido ganar: el circuito de Marina Bay. ¿Algún otro equipo podrá terminar con la hegemonía de Red Bull en el GP de Singapur?</desc>
+    <date>2023</date>
+    <icon src="https://cdn.sincroguia.tv/storage/10382/c_singapore_airlines_singapore_grand_prix_2023.jpeg" />
+    <country lang="es">Singapur</country>
+    <episode-num system="onscreen">S2023</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014124500 -0500" stop="20261014144500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Austria</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El Mundial aterriza en territorio Red Bull. El circuito de Spielberg acoge la undécima prueba de la temporada de Fórmula 1. El trazado cuenta con un diseño rápido y fluido, con varias rectas largas y zonas de frenado intenso que favorecen los adelantamientos.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/images/240928/image.jpg" />
+    <country lang="es">Austria</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014144500 -0500" stop="20261014150000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Azerbaiyán</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E14</episode-num>
+    <rating system="ES">
+      <value>+-1</value>
+    </rating>
+  </programme>
+  <programme start="20261014150000 -0500" stop="20261014170000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Mónaco</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El glamur y la velocidad se dan la mano con la disputa del GP de Mónaco, sexta prueba de la temporada. Las estrechas calles del Principado son el escenario de la prueba más especial del calendario.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Mónaco</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014170000 -0500" stop="20261014173000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Mónaco</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7242/c_codigo_f1_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E6</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014173000 -0500" stop="20261014191500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Box, Box</title>
+    <sub-title lang="es">Barcelona-Cataluña</sub-title>
+    <desc lang="es">Disfruta del mejor programa previo a un Gran Premio de F1 dirigido por el gran Tomás Slafer. El análisis más completo, conexiones en directo con los circuitos, declaraciones de los pilotos, ruedas de prensa a tiempo real.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7598/c_box_box_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E11</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014191500 -0500" stop="20261014211500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1</title>
+    <title lang="es">GP de Emilia-Romaña</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El Circuito de Imola acoge el séptimo Gran Premio de una temporada que está siendo apasionante y en la que ya hemos visto ganadores diferentes a Max Verstappen. El último, Lando Norris, que en Miami consiguió su primera victoria en F1.</desc>
+    <date>2024</date>
+    <icon src="https://cdn.sincroguia.tv/storage/images/140485/image.jpg" />
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">S2024</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014211500 -0500" stop="20261014221500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Bravissimo</title>
+    <desc lang="es">El 25 de septiembre de 2005, Fernando Alonso hizo historia al convertirse en el primer campeón mundial español de Fórmula 1. Revivimos los mejores momentos de ese momento histórico junto a sus protagonistas.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/12644/c_bravissimo_2026.jpeg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014221500 -0500" stop="20261014230000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Gearbox</title>
+    <desc lang="es">Los fanáticos de la conducción tienen una cita en ''Gearbox'', donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7587/c_gearbox-_s01.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261014230000 -0500" stop="20261015010000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Gran Bretaña</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El circuito de Silverstone es una de las citas imprescindibles de la temporada. El trazado británico, con sus 5,891 kilómetros y 18 curvas, siempre ha mantenido su esencia como uno de los más rápidos del calendario de la F1.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/images/240928/image.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015010000 -0500" stop="20261015040000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1</title>
+    <title lang="es">GP de Mónaco</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El glamur y la velocidad se dan la mano con la disputa del GP de Mónaco, octava prueba de la temporada. Las estrechas calles del Principado son el escenario de la prueba más especial del calendario.</desc>
+    <date>2024</date>
+    <icon src="https://cdn.sincroguia.tv/storage/images/188150/image.jpg" />
+    <country lang="es">Mónaco</country>
+    <episode-num system="onscreen">S2024</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015040000 -0500" stop="20261015061500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1</title>
+    <title lang="es">GP de México</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El Autódromo Hermanos Rodríguez será una vez más el escenario del GP de México, donde miles de fans esperan ver a su ídolo local, Sergio Pérez, rehacerse de la mala tendencia en las últimas pruebas y plantarle cara a su compañero y vigente campeón, Max Verstappen.</desc>
+    <date>2023</date>
+    <icon src="https://cdn.sincroguia.tv/storage/6259/recurso_deportes_formula_1.jpeg" />
+    <country lang="es">México</country>
+    <episode-num system="onscreen">S2023</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015061500 -0500" stop="20261015081500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Las Vegas</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El Mundial afronta su recta final con la celebración del GP de Las Vegas. El 'Gran Circo' regresa al desierto de Mojave de Nevada para disputar una cita donde las altas velocidades y las bajas temperaturas pondrán a prueba, otro año más, la mecánica de los monoplazas.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7268/c_formula_1_2025.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015081500 -0500" stop="20261015101500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Barcelona-Catalunya</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">Un año más, el circuito de Montmeló acoge al circo de la Fórmula 1. El GP de Barcelona-Catalunya siempre es un excelente termómetro para saber el estado real de pilotos y escuderías. Los puntos comienzan a ser decisivos en las clasificaciones de pilotos y fabricantes.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015101500 -0500" stop="20261015104500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Barcelona</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7242/c_codigo_f1_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E7</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015104500 -0500" stop="20261015124500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Catar</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">La cita de Catar es siempre una de las más espectaculares del calendario. El 'Gran Circo' está a las puertas de su última función y los grandes protagonistas del espectáculo quiere dejar a los aficionados con la boca abierta.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/6259/recurso_deportes_formula_1.jpeg" />
+    <country lang="es">Estado De Catar</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015124500 -0500" stop="20261015144500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Abu Dabi</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">La temporada de Fórmula 1 baja el telón de una temporada apasionante. Antes de las vacaciones, los pilotos deben dar una última prueba de su valía en el GP de Abu Dabi. El circuito de Yas Marina examina a las escuderías.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/5973/recurso_deportes_formula_1.jpeg" />
+    <country lang="es">Emiratos Árabes Unidos</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015144500 -0500" stop="20261015151500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Abu Dabi</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1. Tomás Slafer analiza en profundidad todas las imágenes que no se han visto y desmenuza el fin de semana del gran circo del motor.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7242/c_codigo_f1_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2025 E24</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015151500 -0500" stop="20261015154500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Gearbox</title>
+    <desc lang="es">Los fanáticos de la conducción tienen una cita en 'Gearbox', donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7587/c_gearbox-_s01.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015154500 -0500" stop="20261015154500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Austria</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">Un año más, el rápido trazado del Red Bull Ring acoge al circo de la Fórmula 1. Los puntos comienzan a ser decisivos en las clasificaciones de pilotos y fabricantes.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Austria</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015154500 -0500" stop="20261015174500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Austria</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">Un año más, el rápido trazado del Red Bull Ring acoge al circo de la Fórmula 1. Los puntos comienzan a ser decisivos en las clasificaciones de pilotos y fabricantes.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Austria</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015174500 -0500" stop="20261015180000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Austria</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/23480/c_codigo_f1_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E8</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015180000 -0500" stop="20261015194500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Box, Box</title>
+    <sub-title lang="es">Gran Bretaña</sub-title>
+    <desc lang="es">Disfruta del mejor programa previo a un Gran Premio de F1 dirigido por el gran Tomás Slafer. El análisis más completo, conexiones en directo con los circuitos, declaraciones de los pilotos, ruedas de prensa a tiempo real.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/23735/c_box_box_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E13</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015194500 -0500" stop="20261015203000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Gearbox</title>
+    <desc lang="es">Los fanáticos de la conducción tienen una cita en ''Gearbox'', donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7587/c_gearbox-_s01.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015203000 -0500" stop="20261015224500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de China</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El Circuito Internacional de Shanghái acoge la segunda prueba de la temporada, el primer gran premio del año que, además de la carrera habitual, cuenta con otra al 'sprint'.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7268/c_formula_1_2025.jpeg" />
+    <country lang="es">China</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015224500 -0500" stop="20261015234500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Bravissimo</title>
+    <desc lang="es">El 25 de septiembre de 2005, Fernando Alonso hizo historia al convertirse en el primer campeón mundial español de Fórmula 1. Revivimos los mejores momentos de ese momento histórico junto a sus protagonistas.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/12644/c_bravissimo_2026.jpeg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261015234500 -0500" stop="20261016004500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Decoded</title>
+    <sub-title lang="es">Lewis Hamilton</sub-title>
+    <desc lang="es">El fútbol levanta pasiones y convierte a los mejores jugadores en auténticos iconos deportivos y culturales. Este espacio analiza pormenorizadamente a varias figuras del deporte rey, tanto dentro como fuera del terreno de juego.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7257/c_decod3d_s01.jpeg" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016004500 -0500" stop="20261016011500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Gearbox</title>
+    <desc lang="es">Los fanáticos de la conducción tienen una cita en ''Gearbox'', donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7587/c_gearbox-_s01.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016011500 -0500" stop="20261016033000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Australia</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El Mundial de F1 da su pistoletazo de salida con la celebración del GP de Australia en el circuito de Albert Park. Los 20 pilotos que conforman la parrilla del Gran Circo, por primera vez esta nueva temporada, ponen a prueba sus nuevos monoplazas.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7268/c_formula_1_2025.jpeg" />
+    <country lang="es">Australia</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016033000 -0500" stop="20261016034500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Australia</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7242/c_codigo_f1_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E1</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016034500 -0500" stop="20261016054500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Baréin</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El Circuito de Sakhir, en el desierto de Baréin, es un buen termómetro del rendimiento de las escuderías en el cuarto episodio de la temporada. El trazado combina velocidad, técnica y estrategia, siendo uno de los favoritos de pilotos e ingenieros. Carrera nocturna.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7268/c_formula_1_2025.jpeg" />
+    <country lang="es">Las Bahamas</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016054500 -0500" stop="20261016063000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Gran Bretaña</title>
+    <sub-title lang="es">Carrera al sprint</sub-title>
+    <desc lang="es">El circuito de Silverstone es una de las citas imprescindibles de la temporada. El trazado británico, con sus 5,891 kilómetros y 18 curvas, siempre ha mantenido su esencia como uno de los más rápidos del calendario de la F1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016063000 -0500" stop="20261016080000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Próxima parada: Madring</title>
+    <desc lang="es">Programa especial sobre la llegada del Circuito de Madring al calendario de la Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016080000 -0500" stop="20261016100000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Gran Bretaña</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">El circuito de Silverstone es una de las citas imprescindibles de la temporada. El trazado británico, con sus 5,891 kilómetros y 18 curvas, siempre ha mantenido su esencia como uno de los más rápidos del calendario de la F1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016100000 -0500" stop="20261016101500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Gran Bretaña</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/23480/c_codigo_f1_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E9</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016101500 -0500" stop="20261016103000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Madrid, Velocidad y Memoria</title>
+    <desc lang="es">Particularidades sobre el paso de la F1 en Madrid y en Jarama.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016103000 -0500" stop="20261016110000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Gearbox</title>
+    <desc lang="es">Los fanáticos de la conducción tienen una cita en 'Gearbox', donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/7587/c_gearbox-_s01.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016110000 -0500" stop="20261016130000 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Bélgica</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">Eau Rouge, posiblemente la secuencia de curvas más famosa del mundo, pone a prueba a los pilotos en el GP de Bélgica de F1, décima prueba de la temporada. Spa es uno de los circuitos más apreciados por las escuderías, pero la climatología puede alterar todo.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/84/41.jpg" />
+    <country lang="es">Bélgica</country>
+    <episode-num system="onscreen">S2026</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016130000 -0500" stop="20261016131500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Bélgica</sub-title>
+    <desc lang="es">Una crónica experta y provocativa con una visión totalmente nueva e integrada de lo que ha sido el GP de Fórmula 1.</desc>
+    <date>2026</date>
+    <icon src="https://cdn.sincroguia.tv/storage/23480/c_codigo_f1_s2025.jpeg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2026 E10</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
+  </programme>
+  <programme start="20261016131500 -0500" stop="20261016151500 -0500" channel="DAZNF1.Spain">
+    <title lang="es">F1 - GP de Arabia Saudita</title>
+    <sub-title lang="es">Carrera</sub-title>
+    <desc lang="es">Arabia Saudita acoge la quinta prueba del Mundial de F1. El Circuito Corniche de Yeda es un trazado ubicado a orillas del Mar Rojo que, a pesar de ser urbano, se caracteriza por su fluidez y alta velocidad. La carrera, nocturna, se celebra bajo iluminación artificial.</desc>
+    <date>2025</date>
+    <icon src="https://cdn.sincroguia.tv/storage/12074/c_formula_1_stc_gp_de_arabia_saudi_2025.jpeg" />
+    <country lang="es">Arabia Saudí</country>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="ES">
+      <value>Apta</value>
+    </rating>
   </programme>
   <programme start="20261016113100 -0500" stop="20261016135200 -0500" channel="hbo.co">
     <title lang="es">Jurassic World: Renace</title>
