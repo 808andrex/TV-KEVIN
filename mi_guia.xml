@@ -6,11 +6,11 @@
   <programme start="20261015233000 -0500" stop="20261016003000 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261016003000 -0500" stop="20261016010000 -0500" channel="espn.ar">
-    <title>F Táctico</title>
-  </programme>
-  <programme start="20261016010000 -0500" stop="20261016020000 -0500" channel="espn.ar">
+  <programme start="20261016003000 -0500" stop="20261016013000 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261016013000 -0500" stop="20261016020000 -0500" channel="espn.ar">
+    <title>F Táctico</title>
   </programme>
   <programme start="20261016020000 -0500" stop="20261016030000 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
@@ -21,107 +21,110 @@
   <programme start="20261016040000 -0500" stop="20261016050000 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261016050000 -0500" stop="20261016070000 -0500" channel="espn.ar">
+  <programme start="20261016050000 -0500" stop="20261016060000 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261016070000 -0500" stop="20261016090000 -0500" channel="espn.ar">
+  <programme start="20261016060000 -0500" stop="20261016080000 -0500" channel="espn.ar">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261016080000 -0500" stop="20261016100000 -0500" channel="espn.ar">
     <title>Buen día ESPN</title>
   </programme>
-  <programme start="20261016090000 -0500" stop="20261016110000 -0500" channel="espn.ar">
+  <programme start="20261016100000 -0500" stop="20261016120000 -0500" channel="espn.ar">
     <title>ESPN F12</title>
   </programme>
-  <programme start="20261016110000 -0500" stop="20261016130000 -0500" channel="espn.ar">
+  <programme start="20261016120000 -0500" stop="20261016140000 -0500" channel="espn.ar">
     <title>ESPN F90</title>
   </programme>
-  <programme start="20261016130000 -0500" stop="20261016143000 -0500" channel="espn.ar">
+  <programme start="20261016140000 -0500" stop="20261016153000 -0500" channel="espn.ar">
     <title>ESPN F3</title>
   </programme>
-  <programme start="20261016143000 -0500" stop="20261016160000 -0500" channel="espn.ar">
+  <programme start="20261016153000 -0500" stop="20261016170000 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261016160000 -0500" stop="20261016170000 -0500" channel="espn.ar">
+  <programme start="20261016170000 -0500" stop="20261016180000 -0500" channel="espn.ar">
     <title>ESPN F360</title>
   </programme>
-  <programme start="20261016170000 -0500" stop="20261016183000 -0500" channel="espn.ar">
+  <programme start="20261016180000 -0500" stop="20261016193000 -0500" channel="espn.ar">
     <title>Equipo F</title>
   </programme>
-  <programme start="20261016183000 -0500" stop="20261016191500 -0500" channel="espn.ar">
+  <programme start="20261016193000 -0500" stop="20261016201500 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261016191500 -0500" stop="20261016212500 -0500" channel="espn.ar">
+  <programme start="20261016201500 -0500" stop="20261016222500 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261016212500 -0500" stop="20261016223000 -0500" channel="espn.ar">
+  <programme start="20261016222500 -0500" stop="20261016233000 -0500" channel="espn.ar">
     <title>ESPN F10</title>
   </programme>
-  <programme start="20261016223000 -0500" stop="20261016233000 -0500" channel="espn.ar">
+  <programme start="20261016233000 -0500" stop="20261017003000 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
-  </programme>
-  <programme start="20261016233000 -0500" stop="20261017020000 -0500" channel="espn.ar">
-    <title>Australia vs. Nueva Zelanda Rugby Internacional</title>
   </programme>
   <channel id="espn5.ec">
     <display-name>ESPN 5</display-name>
   </channel>
-  <programme start="20261016000000 -0500" stop="20261016010000 -0500" channel="espn5.ec">
-    <title>ESPN Compact</title>
+  <programme start="20261015223000 -0500" stop="20261016003000 -0500" channel="espn5.ec">
+    <title>Olympique de Lyon vs. Crystal Palace Fútbol UEFA Europa League</title>
+  </programme>
+  <programme start="20261016003000 -0500" stop="20261016010000 -0500" channel="espn5.ec">
+    <title>EFL Highlights</title>
   </programme>
   <programme start="20261016010000 -0500" stop="20261016020000 -0500" channel="espn5.ec">
-    <title>Celta de Vigo vs. Juventus Fútbol UEFA Europa League</title>
+    <title>ESPN Compact</title>
   </programme>
   <programme start="20261016020000 -0500" stop="20261016030000 -0500" channel="espn5.ec">
-    <title>UEFA Europa League Highlights</title>
+    <title>Celta de Vigo vs. Juventus Fútbol UEFA Europa League</title>
   </programme>
   <programme start="20261016030000 -0500" stop="20261016040000 -0500" channel="espn5.ec">
-    <title>ESPN Compact</title>
+    <title>UEFA Europa League Highlights</title>
   </programme>
   <programme start="20261016040000 -0500" stop="20261016050000 -0500" channel="espn5.ec">
     <title>ESPN Compact</title>
   </programme>
   <programme start="20261016050000 -0500" stop="20261016060000 -0500" channel="espn5.ec">
-    <title>El Show de la F1</title>
-  </programme>
-  <programme start="20261016060000 -0500" stop="20261016070000 -0500" channel="espn5.ec">
     <title>ESPN Compact</title>
   </programme>
+  <programme start="20261016060000 -0500" stop="20261016070000 -0500" channel="espn5.ec">
+    <title>El Show de la F1</title>
+  </programme>
   <programme start="20261016070000 -0500" stop="20261016080000 -0500" channel="espn5.ec">
+    <title>ESPN Compact</title>
+  </programme>
+  <programme start="20261016080000 -0500" stop="20261016090000 -0500" channel="espn5.ec">
     <title>Celta de Vigo vs. Juventus Fútbol UEFA Europa League</title>
   </programme>
-  <programme start="20261016080000 -0500" stop="20261016100000 -0500" channel="espn5.ec">
+  <programme start="20261016090000 -0500" stop="20261016110000 -0500" channel="espn5.ec">
     <title>Olympique de Lyon vs. Crystal Palace Fútbol UEFA Europa League</title>
-  </programme>
-  <programme start="20261016100000 -0500" stop="20261016110000 -0500" channel="espn5.ec">
-    <title>UEFA Champions League Highlights</title>
   </programme>
   <programme start="20261016110000 -0500" stop="20261016120000 -0500" channel="espn5.ec">
     <title>UEFA Champions League Highlights</title>
   </programme>
   <programme start="20261016120000 -0500" stop="20261016130000 -0500" channel="espn5.ec">
+    <title>UEFA Champions League Highlights</title>
+  </programme>
+  <programme start="20261016130000 -0500" stop="20261016140000 -0500" channel="espn5.ec">
     <title>UEFA Europa League Highlights</title>
   </programme>
-  <programme start="20261016130000 -0500" stop="20261016160000 -0500" channel="espn5.ec">
+  <programme start="20261016140000 -0500" stop="20261016170000 -0500" channel="espn5.ec">
     <title>Futbol Americano NFL</title>
   </programme>
-  <programme start="20261016160000 -0500" stop="20261016170000 -0500" channel="espn5.ec">
-    <title>El Show de la F1</title>
-  </programme>
   <programme start="20261016170000 -0500" stop="20261016180000 -0500" channel="espn5.ec">
-    <title>ESPN Compact</title>
+    <title>El Show de la F1</title>
   </programme>
   <programme start="20261016180000 -0500" stop="20261016190000 -0500" channel="espn5.ec">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261016190000 -0500" stop="20261016193000 -0500" channel="espn5.ec">
+  <programme start="20261016190000 -0500" stop="20261016200000 -0500" channel="espn5.ec">
+    <title>ESPN Compact</title>
+  </programme>
+  <programme start="20261016200000 -0500" stop="20261016203000 -0500" channel="espn5.ec">
     <title>EFL Highlights</title>
   </programme>
-  <programme start="20261016193000 -0500" stop="20261016213000 -0500" channel="espn5.ec">
+  <programme start="20261016203000 -0500" stop="20261016223000 -0500" channel="espn5.ec">
     <title>Burnley vs. Wolverhampton Wanderers Fútbol EFL Championship</title>
   </programme>
-  <programme start="20261016213000 -0500" stop="20261016220000 -0500" channel="espn5.ec">
+  <programme start="20261016223000 -0500" stop="20261016230000 -0500" channel="espn5.ec">
     <title>UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20261016220000 -0500" stop="20261016230000 -0500" channel="espn5.ec">
-    <title>ESPN Compact</title>
   </programme>
   <programme start="20261016230000 -0500" stop="20261017000000 -0500" channel="espn5.ec">
     <title>ESPN Compact</title>
@@ -129,32 +132,32 @@
   <channel id="espn6.ec">
     <display-name>ESPN 6</display-name>
   </channel>
-  <programme start="20261016000000 -0500" stop="20261016020000 -0500" channel="espn6.ec">
+  <programme start="20261015230000 -0500" stop="20261016010000 -0500" channel="espn6.ec">
+    <title>ESPN Knockout</title>
+  </programme>
+  <programme start="20261016010000 -0500" stop="20261016030000 -0500" channel="espn6.ec">
     <title>Estudiantes de La Plata vs. Flamengo Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261016020000 -0500" stop="20261016040000 -0500" channel="espn6.ec">
+  <programme start="20261016030000 -0500" stop="20261016050000 -0500" channel="espn6.ec">
     <title>Roma vs. Real Madrid Fútbol UEFA Champions League</title>
   </programme>
-  <programme start="20261016040000 -0500" stop="20261016060000 -0500" channel="espn6.ec">
+  <programme start="20261016050000 -0500" stop="20261016070000 -0500" channel="espn6.ec">
     <title>Atlético de Madrid vs. Manchester United Fútbol UEFA Champions League</title>
   </programme>
-  <programme start="20261016060000 -0500" stop="20261016063000 -0500" channel="espn6.ec">
+  <programme start="20261016070000 -0500" stop="20261016073000 -0500" channel="espn6.ec">
     <title>EFL Highlights</title>
   </programme>
-  <programme start="20261016063000 -0500" stop="20261016073000 -0500" channel="espn6.ec">
+  <programme start="20261016073000 -0500" stop="20261016083000 -0500" channel="espn6.ec">
     <title>Goles de la Eredivisie</title>
   </programme>
-  <programme start="20261016073000 -0500" stop="20261016100000 -0500" channel="espn6.ec">
+  <programme start="20261016083000 -0500" stop="20261016110000 -0500" channel="espn6.ec">
     <title>Hockey NHL</title>
   </programme>
-  <programme start="20261016100000 -0500" stop="20261016130000 -0500" channel="espn6.ec">
+  <programme start="20261016110000 -0500" stop="20261016140000 -0500" channel="espn6.ec">
     <title>Futbol Americano NFL</title>
   </programme>
-  <programme start="20261016130000 -0500" stop="20261016140000 -0500" channel="espn6.ec">
-    <title>UEFA Champions League Highlights</title>
-  </programme>
   <programme start="20261016140000 -0500" stop="20261016150000 -0500" channel="espn6.ec">
-    <title>ESPN Compact</title>
+    <title>UEFA Champions League Highlights</title>
   </programme>
   <programme start="20261016150000 -0500" stop="20261016160000 -0500" channel="espn6.ec">
     <title>ESPN Compact</title>
@@ -166,660 +169,654 @@
     <title>ESPN Compact</title>
   </programme>
   <programme start="20261016180000 -0500" stop="20261016190000 -0500" channel="espn6.ec">
-    <title>UEFA Champions League Highlights</title>
+    <title>ESPN Compact</title>
   </programme>
   <programme start="20261016190000 -0500" stop="20261016200000 -0500" channel="espn6.ec">
     <title>UEFA Champions League Highlights</title>
   </programme>
   <programme start="20261016200000 -0500" stop="20261016210000 -0500" channel="espn6.ec">
+    <title>UEFA Champions League Highlights</title>
+  </programme>
+  <programme start="20261016210000 -0500" stop="20261016220000 -0500" channel="espn6.ec">
     <title>ESPN Knockout</title>
   </programme>
-  <programme start="20261016210000 -0500" stop="20261017000000 -0500" channel="espn6.ec">
+  <programme start="20261016220000 -0500" stop="20261017010000 -0500" channel="espn6.ec">
     <title>Futbol Americano NFL</title>
   </programme>
   <channel id="espn7.ec">
     <display-name>ESPN 7</display-name>
   </channel>
-  <programme start="20261015223000 -0500" stop="20261016010000 -0500" channel="espn7.ec">
+  <programme start="20261015233000 -0500" stop="20261016020000 -0500" channel="espn7.ec">
     <title>Hockey NHL</title>
   </programme>
-  <programme start="20261016010000 -0500" stop="20261016020000 -0500" channel="espn7.ec">
+  <programme start="20261016020000 -0500" stop="20261016030000 -0500" channel="espn7.ec">
     <title>UEFA Europa League Highlights</title>
   </programme>
-  <programme start="20261016020000 -0500" stop="20261016040000 -0500" channel="espn7.ec">
+  <programme start="20261016030000 -0500" stop="20261016050000 -0500" channel="espn7.ec">
     <title>Ajax vs. NEC Nijmegen Fútbol Eredivisie</title>
   </programme>
-  <programme start="20261016040000 -0500" stop="20261016060000 -0500" channel="espn7.ec">
+  <programme start="20261016050000 -0500" stop="20261016070000 -0500" channel="espn7.ec">
     <title>Manchester City vs. Paris Saint-Germain Fútbol UEFA Champions League</title>
   </programme>
-  <programme start="20261016060000 -0500" stop="20261016080000 -0500" channel="espn7.ec">
+  <programme start="20261016070000 -0500" stop="20261016090000 -0500" channel="espn7.ec">
     <title>ESPN Knockout</title>
   </programme>
-  <programme start="20261016080000 -0500" stop="20261016083000 -0500" channel="espn7.ec">
+  <programme start="20261016090000 -0500" stop="20261016093000 -0500" channel="espn7.ec">
     <title>ESPN 7 Sur</title>
   </programme>
-  <programme start="20261016083000 -0500" stop="20261016103000 -0500" channel="espn7.ec">
+  <programme start="20261016093000 -0500" stop="20261016113000 -0500" channel="espn7.ec">
     <title>Celta de Vigo vs. Juventus Fútbol UEFA Europa League</title>
   </programme>
-  <programme start="20261016103000 -0500" stop="20261016120000 -0500" channel="espn7.ec">
+  <programme start="20261016113000 -0500" stop="20261016130000 -0500" channel="espn7.ec">
     <title>Red Bull Salzburgo vs. AC Milan Fútbol UEFA Europa League</title>
   </programme>
-  <programme start="20261016120000 -0500" stop="20261016123000 -0500" channel="espn7.ec">
+  <programme start="20261016130000 -0500" stop="20261016133000 -0500" channel="espn7.ec">
     <title>ESPN 7 Sur</title>
   </programme>
-  <programme start="20261016123000 -0500" stop="20261016133000 -0500" channel="espn7.ec">
+  <programme start="20261016133000 -0500" stop="20261016143000 -0500" channel="espn7.ec">
     <title>Goles de la Eredivisie</title>
   </programme>
-  <programme start="20261016133000 -0500" stop="20261016135000 -0500" channel="espn7.ec">
+  <programme start="20261016143000 -0500" stop="20261016145000 -0500" channel="espn7.ec">
     <title>Futbol Internacional</title>
   </programme>
-  <programme start="20261016135000 -0500" stop="20261016160000 -0500" channel="espn7.ec">
+  <programme start="20261016145000 -0500" stop="20261016170000 -0500" channel="espn7.ec">
     <title>Burnley vs. Wolverhampton Wanderers Fútbol EFL Championship</title>
   </programme>
-  <programme start="20261016160000 -0500" stop="20261016170000 -0500" channel="espn7.ec">
+  <programme start="20261016170000 -0500" stop="20261016180000 -0500" channel="espn7.ec">
     <title>ESPN 7 Sur</title>
   </programme>
-  <programme start="20261016170000 -0500" stop="20261016180000 -0500" channel="espn7.ec">
+  <programme start="20261016180000 -0500" stop="20261016190000 -0500" channel="espn7.ec">
     <title>UEFA Champions League Highlights</title>
   </programme>
-  <programme start="20261016180000 -0500" stop="20261016200000 -0500" channel="espn7.ec">
+  <programme start="20261016190000 -0500" stop="20261016210000 -0500" channel="espn7.ec">
     <title>Futbol Americano NFL</title>
   </programme>
-  <programme start="20261016200000 -0500" stop="20261016210000 -0500" channel="espn7.ec">
+  <programme start="20261016210000 -0500" stop="20261016220000 -0500" channel="espn7.ec">
     <title>ESPN 7 Sur</title>
   </programme>
-  <programme start="20261016210000 -0500" stop="20261016230000 -0500" channel="espn7.ec">
+  <programme start="20261016220000 -0500" stop="20261017000000 -0500" channel="espn7.ec">
     <title>Eintracht Frankfurt vs. Colonia Fútbol: Bundesliga</title>
-  </programme>
-  <programme start="20261016230000 -0500" stop="20261017000000 -0500" channel="espn7.ec">
-    <title>Goles de la Eredivisie</title>
   </programme>
   <channel id="espn.premium">
     <display-name>ESPN Premium</display-name>
   </channel>
-  <programme start="20261015230000 -0500" stop="20261016010000 -0500" channel="espn.premium">
+  <programme start="20261016000000 -0500" stop="20261016020000 -0500" channel="espn.premium">
     <title>Fútbol EFL Championship</title>
   </programme>
-  <programme start="20261016010000 -0500" stop="20261016020000 -0500" channel="espn.premium">
+  <programme start="20261016020000 -0500" stop="20261016030000 -0500" channel="espn.premium">
     <title>Goles de la Eredivisie</title>
   </programme>
-  <programme start="20261016020000 -0500" stop="20261016040000 -0500" channel="espn.premium">
+  <programme start="20261016030000 -0500" stop="20261016050000 -0500" channel="espn.premium">
     <title>Estudiantes de La Plata vs. Flamengo Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261016040000 -0500" stop="20261016060000 -0500" channel="espn.premium">
+  <programme start="20261016050000 -0500" stop="20261016070000 -0500" channel="espn.premium">
     <title>Mineiro vs. Montevideo City Torque Fútbol Conmebol Copa Sudamericana</title>
   </programme>
-  <programme start="20261016060000 -0500" stop="20261016080000 -0500" channel="espn.premium">
+  <programme start="20261016070000 -0500" stop="20261016090000 -0500" channel="espn.premium">
     <title>Boca Juniors vs. de Regatas Vasco da Gama Fútbol Conmebol Copa Sudamericana</title>
   </programme>
-  <programme start="20261016080000 -0500" stop="20261016095500 -0500" channel="espn.premium">
+  <programme start="20261016090000 -0500" stop="20261016105500 -0500" channel="espn.premium">
     <title>Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261016095500 -0500" stop="20261016115000 -0500" channel="espn.premium">
+  <programme start="20261016105500 -0500" stop="20261016125000 -0500" channel="espn.premium">
     <title>Estudiantes de La Plata vs. Flamengo Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261016115000 -0500" stop="20261016125000 -0500" channel="espn.premium">
+  <programme start="20261016125000 -0500" stop="20261016135000 -0500" channel="espn.premium">
     <title>Bundesliga Highlights Show</title>
   </programme>
-  <programme start="20261016125000 -0500" stop="20261016132000 -0500" channel="espn.premium">
+  <programme start="20261016135000 -0500" stop="20261016142000 -0500" channel="espn.premium">
     <title>Bundesliga Preview Show</title>
   </programme>
-  <programme start="20261016132000 -0500" stop="20261016153000 -0500" channel="espn.premium">
+  <programme start="20261016142000 -0500" stop="20261016163000 -0500" channel="espn.premium">
     <title>Eintracht Frankfurt vs. Colonia Fútbol: Bundesliga</title>
   </programme>
-  <programme start="20261016153000 -0500" stop="20261016163000 -0500" channel="espn.premium">
+  <programme start="20261016163000 -0500" stop="20261016173000 -0500" channel="espn.premium">
     <title>UEFA Champions League Highlights</title>
   </programme>
-  <programme start="20261016163000 -0500" stop="20261016170000 -0500" channel="espn.premium">
+  <programme start="20261016173000 -0500" stop="20261016180000 -0500" channel="espn.premium">
     <title>ATP Tour Uncovered</title>
-  </programme>
-  <programme start="20261016170000 -0500" stop="20261016180000 -0500" channel="espn.premium">
-    <title>ESPN Compact</title>
   </programme>
   <programme start="20261016180000 -0500" stop="20261016190000 -0500" channel="espn.premium">
     <title>ESPN Compact</title>
   </programme>
   <programme start="20261016190000 -0500" stop="20261016200000 -0500" channel="espn.premium">
-    <title>ESPN Knockout</title>
+    <title>ESPN Compact</title>
   </programme>
   <programme start="20261016200000 -0500" stop="20261016210000 -0500" channel="espn.premium">
+    <title>ESPN Knockout</title>
+  </programme>
+  <programme start="20261016210000 -0500" stop="20261016220000 -0500" channel="espn.premium">
     <title>El Show de la F1</title>
   </programme>
-  <programme start="20261016210000 -0500" stop="20261016230000 -0500" channel="espn.premium">
+  <programme start="20261016220000 -0500" stop="20261017000000 -0500" channel="espn.premium">
     <title>Burnley vs. Wolverhampton Wanderers Fútbol EFL Championship</title>
-  </programme>
-  <programme start="20261016230000 -0500" stop="20261016233000 -0500" channel="espn.premium">
-    <title>UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20261016233000 -0500" stop="20261017000000 -0500" channel="espn.premium">
-    <title>EFL Highlights</title>
   </programme>
   <channel id="cartoonito.ec">
     <display-name>Cartoonito</display-name>
   </channel>
-  <programme start="20261016000000 -0500" stop="20261016000500 -0500" channel="cartoonito.ec">
-    <title>Numberblocks El nueve que todo lo sabe</title>
+  <programme start="20261016000000 -0500" stop="20261016000600 -0500" channel="cartoonito.ec">
+    <title>La araña Lucas Las moscas no bailan</title>
   </programme>
-  <programme start="20261016000500 -0500" stop="20261016001000 -0500" channel="cartoonito.ec">
-    <title>Numberblocks La señal espacial</title>
+  <programme start="20261016000600 -0500" stop="20261016001200 -0500" channel="cartoonito.ec">
+    <title>La araña Lucas Lo haré en un minuto</title>
   </programme>
-  <programme start="20261016001000 -0500" stop="20261016001500 -0500" channel="cartoonito.ec">
-    <title>Numberblocks ¿Cuántos batidos son?</title>
+  <programme start="20261016001200 -0500" stop="20261016001800 -0500" channel="cartoonito.ec">
+    <title>La araña Lucas Rebotín</title>
   </programme>
-  <programme start="20261016001500 -0500" stop="20261016002000 -0500" channel="cartoonito.ec">
-    <title>Numberblocks La mejor casa en numerópolis</title>
+  <programme start="20261016001800 -0500" stop="20261016002400 -0500" channel="cartoonito.ec">
+    <title>La araña Lucas Sonidos en la noche</title>
   </programme>
-  <programme start="20261016002000 -0500" stop="20261016002500 -0500" channel="cartoonito.ec">
-    <title>Numberblocks Obras de Arte</title>
-  </programme>
-  <programme start="20261016002500 -0500" stop="20261016003000 -0500" channel="cartoonito.ec">
-    <title>Numberblocks El torneo de bolos</title>
+  <programme start="20261016002400 -0500" stop="20261016003000 -0500" channel="cartoonito.ec">
+    <title>La araña Lucas Lengua torcida</title>
   </programme>
   <programme start="20261016003000 -0500" stop="20261016003600 -0500" channel="cartoonito.ec">
-    <title>Booba Rocódromo divertido</title>
+    <title>Cuquin Circo</title>
   </programme>
   <programme start="20261016003600 -0500" stop="20261016004200 -0500" channel="cartoonito.ec">
-    <title>Booba La huella</title>
+    <title>Cuquin Nuevo en clase</title>
   </programme>
   <programme start="20261016004200 -0500" stop="20261016004800 -0500" channel="cartoonito.ec">
-    <title>Booba Edad de piedra</title>
+    <title>Cuquin Calendario de adviento</title>
   </programme>
   <programme start="20261016004800 -0500" stop="20261016005400 -0500" channel="cartoonito.ec">
-    <title>Booba Queso mágico</title>
+    <title>Cuquin Mochila pingüino</title>
   </programme>
   <programme start="20261016005400 -0500" stop="20261016010000 -0500" channel="cartoonito.ec">
-    <title>Booba El duende de la Navidad</title>
+    <title>Cuquin La música de Cuquín</title>
   </programme>
-  <programme start="20261016010000 -0500" stop="20261016011500 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita imagine-se</title>
+  <programme start="20261016010000 -0500" stop="20261016010500 -0500" channel="cartoonito.ec">
+    <title>Numberblocks El nueve que todo lo sabe</title>
+  </programme>
+  <programme start="20261016010500 -0500" stop="20261016011000 -0500" channel="cartoonito.ec">
+    <title>Numberblocks La señal espacial</title>
+  </programme>
+  <programme start="20261016011000 -0500" stop="20261016011500 -0500" channel="cartoonito.ec">
+    <title>Numberblocks ¿Cuántos batidos son?</title>
   </programme>
   <programme start="20261016011500 -0500" stop="20261016012000 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita TV Shorts Música</title>
+    <title>Numberblocks La mejor casa en numerópolis</title>
   </programme>
   <programme start="20261016012000 -0500" stop="20261016012500 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita TV Shorts Vou desenhar</title>
+    <title>Numberblocks Obras de Arte</title>
   </programme>
   <programme start="20261016012500 -0500" stop="20261016013000 -0500" channel="cartoonito.ec">
+    <title>Numberblocks El torneo de bolos</title>
+  </programme>
+  <programme start="20261016013000 -0500" stop="20261016013600 -0500" channel="cartoonito.ec">
+    <title>Booba Rocódromo divertido</title>
+  </programme>
+  <programme start="20261016013600 -0500" stop="20261016014200 -0500" channel="cartoonito.ec">
+    <title>Booba La huella</title>
+  </programme>
+  <programme start="20261016014200 -0500" stop="20261016014800 -0500" channel="cartoonito.ec">
+    <title>Booba Edad de piedra</title>
+  </programme>
+  <programme start="20261016014800 -0500" stop="20261016015400 -0500" channel="cartoonito.ec">
+    <title>Booba Queso mágico</title>
+  </programme>
+  <programme start="20261016015400 -0500" stop="20261016020000 -0500" channel="cartoonito.ec">
+    <title>Booba El duende de la Navidad</title>
+  </programme>
+  <programme start="20261016020000 -0500" stop="20261016021500 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita imagine-se</title>
+  </programme>
+  <programme start="20261016021500 -0500" stop="20261016022000 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita TV Shorts Música</title>
+  </programme>
+  <programme start="20261016022000 -0500" stop="20261016022500 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita TV Shorts Vou desenhar</title>
+  </programme>
+  <programme start="20261016022500 -0500" stop="20261016023000 -0500" channel="cartoonito.ec">
     <title>Mundo Bita TV Shorts Quebra-Cabeça</title>
   </programme>
-  <programme start="20261016013000 -0500" stop="20261016014000 -0500" channel="cartoonito.ec">
+  <programme start="20261016023000 -0500" stop="20261016024000 -0500" channel="cartoonito.ec">
     <title>Bugs y sus amigos a la obra La gran Pulga</title>
   </programme>
-  <programme start="20261016014000 -0500" stop="20261016015000 -0500" channel="cartoonito.ec">
+  <programme start="20261016024000 -0500" stop="20261016025000 -0500" channel="cartoonito.ec">
     <title>Bugs y sus amigos a la obra Luna Looney</title>
   </programme>
-  <programme start="20261016015000 -0500" stop="20261016020000 -0500" channel="cartoonito.ec">
+  <programme start="20261016025000 -0500" stop="20261016030000 -0500" channel="cartoonito.ec">
     <title>Bugs y sus amigos a la obra K-9 Cachorro del espacio</title>
   </programme>
-  <programme start="20261016020000 -0500" stop="20261016021000 -0500" channel="cartoonito.ec">
+  <programme start="20261016030000 -0500" stop="20261016031000 -0500" channel="cartoonito.ec">
     <title>Batwheels La Luz De La Batiseñal</title>
   </programme>
-  <programme start="20261016021000 -0500" stop="20261016022000 -0500" channel="cartoonito.ec">
+  <programme start="20261016031000 -0500" stop="20261016032000 -0500" channel="cartoonito.ec">
     <title>Batwheels El día de Zoom</title>
   </programme>
-  <programme start="20261016022000 -0500" stop="20261016023000 -0500" channel="cartoonito.ec">
+  <programme start="20261016032000 -0500" stop="20261016033000 -0500" channel="cartoonito.ec">
     <title>Batwheels Volando en el aire</title>
   </programme>
-  <programme start="20261016023000 -0500" stop="20261016024000 -0500" channel="cartoonito.ec">
+  <programme start="20261016033000 -0500" stop="20261016034000 -0500" channel="cartoonito.ec">
     <title>Batwheels ¡El bati-propulsor!</title>
   </programme>
-  <programme start="20261016024000 -0500" stop="20261016025000 -0500" channel="cartoonito.ec">
+  <programme start="20261016034000 -0500" stop="20261016035000 -0500" channel="cartoonito.ec">
     <title>Batwheels El Batichicamóvil</title>
   </programme>
-  <programme start="20261016025000 -0500" stop="20261016030000 -0500" channel="cartoonito.ec">
+  <programme start="20261016035000 -0500" stop="20261016040000 -0500" channel="cartoonito.ec">
     <title>Batwheels Licencia para bromear</title>
   </programme>
-  <programme start="20261016030000 -0500" stop="20261016040000 -0500" channel="cartoonito.ec">
+  <programme start="20261016040000 -0500" stop="20261016050000 -0500" channel="cartoonito.ec">
     <title>Grizzy y los lemmings</title>
   </programme>
-  <programme start="20261016040000 -0500" stop="20261016040600 -0500" channel="cartoonito.ec">
+  <programme start="20261016050000 -0500" stop="20261016050600 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Escarabajo brillante Lu</title>
   </programme>
-  <programme start="20261016040600 -0500" stop="20261016041200 -0500" channel="cartoonito.ec">
+  <programme start="20261016050600 -0500" stop="20261016051200 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Problemas con las burbujas</title>
   </programme>
-  <programme start="20261016041200 -0500" stop="20261016041800 -0500" channel="cartoonito.ec">
+  <programme start="20261016051200 -0500" stop="20261016051800 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Saltos Squeak</title>
   </programme>
-  <programme start="20261016041800 -0500" stop="20261016042400 -0500" channel="cartoonito.ec">
+  <programme start="20261016051800 -0500" stop="20261016052400 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Gran despedida</title>
   </programme>
-  <programme start="20261016042400 -0500" stop="20261016043000 -0500" channel="cartoonito.ec">
+  <programme start="20261016052400 -0500" stop="20261016053000 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Ordenar</title>
   </programme>
-  <programme start="20261016043000 -0500" stop="20261016043600 -0500" channel="cartoonito.ec">
+  <programme start="20261016053000 -0500" stop="20261016053600 -0500" channel="cartoonito.ec">
     <title>Pocoyó Bañando a Loula</title>
   </programme>
-  <programme start="20261016043600 -0500" stop="20261016044200 -0500" channel="cartoonito.ec">
+  <programme start="20261016053600 -0500" stop="20261016054200 -0500" channel="cartoonito.ec">
     <title>Pocoyó Puntazo</title>
   </programme>
-  <programme start="20261016044200 -0500" stop="20261016044800 -0500" channel="cartoonito.ec">
+  <programme start="20261016054200 -0500" stop="20261016054800 -0500" channel="cartoonito.ec">
     <title>Pocoyó Pequeñeces</title>
   </programme>
-  <programme start="20261016044800 -0500" stop="20261016045400 -0500" channel="cartoonito.ec">
+  <programme start="20261016054800 -0500" stop="20261016055400 -0500" channel="cartoonito.ec">
     <title>Pocoyó Nos vamos de camping</title>
   </programme>
-  <programme start="20261016045400 -0500" stop="20261016050000 -0500" channel="cartoonito.ec">
+  <programme start="20261016055400 -0500" stop="20261016060000 -0500" channel="cartoonito.ec">
     <title>Pocoyó ¡Despierta, Pocoyó!</title>
   </programme>
-  <programme start="20261016050000 -0500" stop="20261016051500 -0500" channel="cartoonito.ec">
+  <programme start="20261016060000 -0500" stop="20261016061500 -0500" channel="cartoonito.ec">
     <title>La casa de muñecas de Gabby Aviones, trenes y gatiglobos</title>
   </programme>
-  <programme start="20261016051500 -0500" stop="20261016053000 -0500" channel="cartoonito.ec">
+  <programme start="20261016061500 -0500" stop="20261016063000 -0500" channel="cartoonito.ec">
     <title>La casa de muñecas de Gabby Viaje fantástico a Sireatlantis</title>
   </programme>
-  <programme start="20261016053000 -0500" stop="20261016054500 -0500" channel="cartoonito.ec">
+  <programme start="20261016063000 -0500" stop="20261016064500 -0500" channel="cartoonito.ec">
     <title>Mundo Bita imagine-se</title>
   </programme>
-  <programme start="20261016054500 -0500" stop="20261016060000 -0500" channel="cartoonito.ec">
+  <programme start="20261016064500 -0500" stop="20261016070000 -0500" channel="cartoonito.ec">
     <title>Creciendo con la Gallina Pintadita ¡Fue sin querer!</title>
   </programme>
-  <programme start="20261016060000 -0500" stop="20261016070000 -0500" channel="cartoonito.ec">
+  <programme start="20261016070000 -0500" stop="20261016080000 -0500" channel="cartoonito.ec">
     <title>Hey, Duggee</title>
-  </programme>
-  <programme start="20261016070000 -0500" stop="20261016071000 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra Speedy</title>
-  </programme>
-  <programme start="20261016071000 -0500" stop="20261016072000 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra La casa de hielo</title>
-  </programme>
-  <programme start="20261016072000 -0500" stop="20261016073000 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra Carnaval</title>
-  </programme>
-  <programme start="20261016073000 -0500" stop="20261016074000 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra El catarro</title>
-  </programme>
-  <programme start="20261016074000 -0500" stop="20261016075000 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra Pan con queso</title>
-  </programme>
-  <programme start="20261016075000 -0500" stop="20261016080000 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra Batalla en la playa</title>
   </programme>
   <programme start="20261016080000 -0500" stop="20261016081000 -0500" channel="cartoonito.ec">
-    <title>Batwheels Neumáticos ligeros</title>
-  </programme>
-  <programme start="20261016081000 -0500" stop="20261016082000 -0500" channel="cartoonito.ec">
-    <title>Batwheels Bibi y la mala semilla</title>
-  </programme>
-  <programme start="20261016082000 -0500" stop="20261016083000 -0500" channel="cartoonito.ec">
-    <title>Batwheels El show aéreo</title>
-  </programme>
-  <programme start="20261016083000 -0500" stop="20261016084000 -0500" channel="cartoonito.ec">
-    <title>Batwheels ¿Me estás hablando a mí?</title>
-  </programme>
-  <programme start="20261016084000 -0500" stop="20261016085000 -0500" channel="cartoonito.ec">
-    <title>Batwheels Cueva dulce cueva</title>
-  </programme>
-  <programme start="20261016085000 -0500" stop="20261016090000 -0500" channel="cartoonito.ec">
-    <title>Batwheels La historia de las dos Bibis</title>
-  </programme>
-  <programme start="20261016090000 -0500" stop="20261016090600 -0500" channel="cartoonito.ec">
-    <title>Grizzy and the Lemmings Una galleta difícil de preparar</title>
-  </programme>
-  <programme start="20261016090600 -0500" stop="20261016091200 -0500" channel="cartoonito.ec">
-    <title>Grizzy and the Lemmings Juego de canicas</title>
-  </programme>
-  <programme start="20261016091200 -0500" stop="20261016091800 -0500" channel="cartoonito.ec">
-    <title>Grizzy and the Lemmings Oso malherido</title>
-  </programme>
-  <programme start="20261016091800 -0500" stop="20261016092400 -0500" channel="cartoonito.ec">
-    <title>Grizzy and the Lemmings Árbol de cacao</title>
-  </programme>
-  <programme start="20261016092400 -0500" stop="20261016093000 -0500" channel="cartoonito.ec">
-    <title>Grizzy and the Lemmings Choco-Fideos</title>
-  </programme>
-  <programme start="20261016093000 -0500" stop="20261016094500 -0500" channel="cartoonito.ec">
-    <title>Creciendo con la Gallina Pintadita El triatlón</title>
-  </programme>
-  <programme start="20261016094500 -0500" stop="20261016100000 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita imagine-se</title>
-  </programme>
-  <programme start="20261016100000 -0500" stop="20261016101500 -0500" channel="cartoonito.ec">
-    <title>La casa de muñecas de Gabby ¡Feliz cumpleaños, Gabby!</title>
-  </programme>
-  <programme start="20261016101500 -0500" stop="20261016103000 -0500" channel="cartoonito.ec">
-    <title>La casa de muñecas de Gabby ¡Superlistos!</title>
-  </programme>
-  <programme start="20261016103000 -0500" stop="20261016110000 -0500" channel="cartoonito.ec">
-    <title>Pocoyó</title>
-  </programme>
-  <programme start="20261016110000 -0500" stop="20261016110600 -0500" channel="cartoonito.ec">
-    <title>La araña Lucas El campamento fantasma</title>
-  </programme>
-  <programme start="20261016110600 -0500" stop="20261016111200 -0500" channel="cartoonito.ec">
-    <title>La araña Lucas Problemas en lo alto</title>
-  </programme>
-  <programme start="20261016111200 -0500" stop="20261016111800 -0500" channel="cartoonito.ec">
-    <title>La araña Lucas El perro durmiente</title>
-  </programme>
-  <programme start="20261016111800 -0500" stop="20261016112400 -0500" channel="cartoonito.ec">
-    <title>La araña Lucas Adiós, compañero</title>
-  </programme>
-  <programme start="20261016112400 -0500" stop="20261016113000 -0500" channel="cartoonito.ec">
-    <title>La araña Lucas Arlo y la serpiente</title>
-  </programme>
-  <programme start="20261016113000 -0500" stop="20261016113500 -0500" channel="cartoonito.ec">
-    <title>Cuquin Tableta</title>
-  </programme>
-  <programme start="20261016113500 -0500" stop="20261016114000 -0500" channel="cartoonito.ec">
-    <title>Cuquin Avión</title>
-  </programme>
-  <programme start="20261016114000 -0500" stop="20261016114500 -0500" channel="cartoonito.ec">
-    <title>Cuquin Huevos sorpresa</title>
-  </programme>
-  <programme start="20261016114500 -0500" stop="20261016115000 -0500" channel="cartoonito.ec">
-    <title>Cuquin Videojuego</title>
-  </programme>
-  <programme start="20261016115000 -0500" stop="20261016115500 -0500" channel="cartoonito.ec">
-    <title>Cuquin Ladrones</title>
-  </programme>
-  <programme start="20261016115500 -0500" stop="20261016120000 -0500" channel="cartoonito.ec">
-    <title>Cuquin Blandimundo</title>
-  </programme>
-  <programme start="20261016120000 -0500" stop="20261016120500 -0500" channel="cartoonito.ec">
-    <title>Numberblocks Misión espacial</title>
-  </programme>
-  <programme start="20261016120500 -0500" stop="20261016121000 -0500" channel="cartoonito.ec">
-    <title>Numberblocks Octo Travieso y el fraccionador</title>
-  </programme>
-  <programme start="20261016121000 -0500" stop="20261016121500 -0500" channel="cartoonito.ec">
-    <title>Numberblocks El taller de Uno</title>
-  </programme>
-  <programme start="20261016121500 -0500" stop="20261016122000 -0500" channel="cartoonito.ec">
-    <title>Numberblocks El festival frutal de Cinco</title>
-  </programme>
-  <programme start="20261016122000 -0500" stop="20261016122500 -0500" channel="cartoonito.ec">
-    <title>Numberblocks El botón perdido</title>
-  </programme>
-  <programme start="20261016122500 -0500" stop="20261016123000 -0500" channel="cartoonito.ec">
-    <title>Numberblocks Agentes dobles encubiertos</title>
-  </programme>
-  <programme start="20261016123000 -0500" stop="20261016123600 -0500" channel="cartoonito.ec">
-    <title>Booba Pizza</title>
-  </programme>
-  <programme start="20261016123600 -0500" stop="20261016124200 -0500" channel="cartoonito.ec">
-    <title>Booba El bromista invisible</title>
-  </programme>
-  <programme start="20261016124200 -0500" stop="20261016124800 -0500" channel="cartoonito.ec">
-    <title>Booba El huevo de oro</title>
-  </programme>
-  <programme start="20261016124800 -0500" stop="20261016125400 -0500" channel="cartoonito.ec">
-    <title>Booba Rueda de la fortuna</title>
-  </programme>
-  <programme start="20261016125400 -0500" stop="20261016130000 -0500" channel="cartoonito.ec">
-    <title>Booba El constructor</title>
-  </programme>
-  <programme start="20261016130000 -0500" stop="20261016131500 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita imagine-se</title>
-  </programme>
-  <programme start="20261016131500 -0500" stop="20261016132000 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita TV Shorts Nem tudo que sobra é lixo</title>
-  </programme>
-  <programme start="20261016132000 -0500" stop="20261016132500 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita TV Shorts A flora</title>
-  </programme>
-  <programme start="20261016132500 -0500" stop="20261016133000 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita TV Shorts Payasada</title>
-  </programme>
-  <programme start="20261016133000 -0500" stop="20261016134500 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra El Corre-Robot</title>
-  </programme>
-  <programme start="20261016134500 -0500" stop="20261016140000 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra El supermercado de la señorita Prissy</title>
-  </programme>
-  <programme start="20261016140000 -0500" stop="20261016141000 -0500" channel="cartoonito.ec">
-    <title>Batwheels Un as bajo la manga</title>
-  </programme>
-  <programme start="20261016141000 -0500" stop="20261016142000 -0500" channel="cartoonito.ec">
-    <title>Batwheels El camuflaje de Redbird</title>
-  </programme>
-  <programme start="20261016142000 -0500" stop="20261016143000 -0500" channel="cartoonito.ec">
-    <title>Batwheels Música sobre ruedas</title>
-  </programme>
-  <programme start="20261016143000 -0500" stop="20261016144000 -0500" channel="cartoonito.ec">
-    <title>Batwheels ¿Me estás hablando a mí?</title>
-  </programme>
-  <programme start="20261016144000 -0500" stop="20261016145000 -0500" channel="cartoonito.ec">
-    <title>Batwheels El caballero oscuro</title>
-  </programme>
-  <programme start="20261016145000 -0500" stop="20261016150000 -0500" channel="cartoonito.ec">
-    <title>Batwheels La bati-carrera</title>
-  </programme>
-  <programme start="20261016150000 -0500" stop="20261016160000 -0500" channel="cartoonito.ec">
-    <title>Grizzy y los lemmings</title>
-  </programme>
-  <programme start="20261016160000 -0500" stop="20261016160600 -0500" channel="cartoonito.ec">
-    <title>Lu y sus amigos Líneas de crecimiento</title>
-  </programme>
-  <programme start="20261016160600 -0500" stop="20261016161200 -0500" channel="cartoonito.ec">
-    <title>Lu y sus amigos Adiós botas de lluvia</title>
-  </programme>
-  <programme start="20261016161200 -0500" stop="20261016161800 -0500" channel="cartoonito.ec">
-    <title>Lu y sus amigos ¿Qué si no puedo?</title>
-  </programme>
-  <programme start="20261016161800 -0500" stop="20261016162400 -0500" channel="cartoonito.ec">
-    <title>Lu y sus amigos Aspisaurus</title>
-  </programme>
-  <programme start="20261016162400 -0500" stop="20261016163000 -0500" channel="cartoonito.ec">
-    <title>Lu y sus amigos Viaje en barco</title>
-  </programme>
-  <programme start="20261016163000 -0500" stop="20261016163600 -0500" channel="cartoonito.ec">
-    <title>Pocoyó Juegos de invierno</title>
-  </programme>
-  <programme start="20261016163600 -0500" stop="20261016164200 -0500" channel="cartoonito.ec">
-    <title>Pocoyó El supermercado de Pocoyó</title>
-  </programme>
-  <programme start="20261016164200 -0500" stop="20261016164800 -0500" channel="cartoonito.ec">
-    <title>Pocoyó Sígueme el ritmo</title>
-  </programme>
-  <programme start="20261016164800 -0500" stop="20261016165400 -0500" channel="cartoonito.ec">
-    <title>Pocoyó ¡Qué empiece la partida!</title>
-  </programme>
-  <programme start="20261016165400 -0500" stop="20261016170000 -0500" channel="cartoonito.ec">
-    <title>Pocoyó Pocoyo Recycles</title>
-  </programme>
-  <programme start="20261016170000 -0500" stop="20261016171500 -0500" channel="cartoonito.ec">
-    <title>La casa de muñecas de Gabby El robot de artes</title>
-  </programme>
-  <programme start="20261016171500 -0500" stop="20261016173000 -0500" channel="cartoonito.ec">
-    <title>La casa de muñecas de Gabby El mal día de Pandy</title>
-  </programme>
-  <programme start="20261016173000 -0500" stop="20261016174500 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita imagine-se</title>
-  </programme>
-  <programme start="20261016174500 -0500" stop="20261016180000 -0500" channel="cartoonito.ec">
-    <title>Creciendo con la Gallina Pintadita Salvando a la gatita</title>
-  </programme>
-  <programme start="20261016180000 -0500" stop="20261016190000 -0500" channel="cartoonito.ec">
-    <title>Hey, Duggee</title>
-  </programme>
-  <programme start="20261016190000 -0500" stop="20261016191000 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra Pan con queso</title>
-  </programme>
-  <programme start="20261016191000 -0500" stop="20261016192000 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra Batalla en la playa</title>
-  </programme>
-  <programme start="20261016192000 -0500" stop="20261016193000 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra Carnaval</title>
-  </programme>
-  <programme start="20261016193000 -0500" stop="20261016194000 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra La casa de hielo</title>
-  </programme>
-  <programme start="20261016194000 -0500" stop="20261016195000 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra El catarro</title>
-  </programme>
-  <programme start="20261016195000 -0500" stop="20261016200000 -0500" channel="cartoonito.ec">
     <title>Bugs y sus amigos a la obra Speedy</title>
   </programme>
-  <programme start="20261016200000 -0500" stop="20261016201000 -0500" channel="cartoonito.ec">
-    <title>Batwheels Cueva dulce cueva</title>
+  <programme start="20261016081000 -0500" stop="20261016082000 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra La casa de hielo</title>
   </programme>
-  <programme start="20261016201000 -0500" stop="20261016202000 -0500" channel="cartoonito.ec">
-    <title>Batwheels La historia de las dos Bibis</title>
+  <programme start="20261016082000 -0500" stop="20261016083000 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Carnaval</title>
   </programme>
-  <programme start="20261016202000 -0500" stop="20261016203000 -0500" channel="cartoonito.ec">
-    <title>Batwheels ¿Me estás hablando a mí?</title>
+  <programme start="20261016083000 -0500" stop="20261016084000 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra El catarro</title>
   </programme>
-  <programme start="20261016203000 -0500" stop="20261016204000 -0500" channel="cartoonito.ec">
-    <title>Batwheels Bibi y la mala semilla</title>
+  <programme start="20261016084000 -0500" stop="20261016085000 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Pan con queso</title>
   </programme>
-  <programme start="20261016204000 -0500" stop="20261016205000 -0500" channel="cartoonito.ec">
-    <title>Batwheels El show aéreo</title>
+  <programme start="20261016085000 -0500" stop="20261016090000 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Batalla en la playa</title>
   </programme>
-  <programme start="20261016205000 -0500" stop="20261016210000 -0500" channel="cartoonito.ec">
+  <programme start="20261016090000 -0500" stop="20261016091000 -0500" channel="cartoonito.ec">
     <title>Batwheels Neumáticos ligeros</title>
   </programme>
-  <programme start="20261016210000 -0500" stop="20261016210600 -0500" channel="cartoonito.ec">
-    <title>Grizzy and the Lemmings Árbol de cacao</title>
+  <programme start="20261016091000 -0500" stop="20261016092000 -0500" channel="cartoonito.ec">
+    <title>Batwheels Bibi y la mala semilla</title>
   </programme>
-  <programme start="20261016210600 -0500" stop="20261016211200 -0500" channel="cartoonito.ec">
-    <title>Grizzy and the Lemmings Choco-Fideos</title>
+  <programme start="20261016092000 -0500" stop="20261016093000 -0500" channel="cartoonito.ec">
+    <title>Batwheels El show aéreo</title>
   </programme>
-  <programme start="20261016211200 -0500" stop="20261016211800 -0500" channel="cartoonito.ec">
+  <programme start="20261016093000 -0500" stop="20261016094000 -0500" channel="cartoonito.ec">
+    <title>Batwheels ¿Me estás hablando a mí?</title>
+  </programme>
+  <programme start="20261016094000 -0500" stop="20261016095000 -0500" channel="cartoonito.ec">
+    <title>Batwheels Cueva dulce cueva</title>
+  </programme>
+  <programme start="20261016095000 -0500" stop="20261016100000 -0500" channel="cartoonito.ec">
+    <title>Batwheels La historia de las dos Bibis</title>
+  </programme>
+  <programme start="20261016100000 -0500" stop="20261016100600 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Una galleta difícil de preparar</title>
   </programme>
-  <programme start="20261016211800 -0500" stop="20261016212400 -0500" channel="cartoonito.ec">
+  <programme start="20261016100600 -0500" stop="20261016101200 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Juego de canicas</title>
   </programme>
-  <programme start="20261016212400 -0500" stop="20261016213000 -0500" channel="cartoonito.ec">
+  <programme start="20261016101200 -0500" stop="20261016101800 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Oso malherido</title>
   </programme>
-  <programme start="20261016213000 -0500" stop="20261016214500 -0500" channel="cartoonito.ec">
+  <programme start="20261016101800 -0500" stop="20261016102400 -0500" channel="cartoonito.ec">
+    <title>Grizzy and the Lemmings Árbol de cacao</title>
+  </programme>
+  <programme start="20261016102400 -0500" stop="20261016103000 -0500" channel="cartoonito.ec">
+    <title>Grizzy and the Lemmings Choco-Fideos</title>
+  </programme>
+  <programme start="20261016103000 -0500" stop="20261016104500 -0500" channel="cartoonito.ec">
     <title>Creciendo con la Gallina Pintadita El triatlón</title>
   </programme>
-  <programme start="20261016214500 -0500" stop="20261016220000 -0500" channel="cartoonito.ec">
+  <programme start="20261016104500 -0500" stop="20261016110000 -0500" channel="cartoonito.ec">
     <title>Mundo Bita imagine-se</title>
   </programme>
-  <programme start="20261016220000 -0500" stop="20261016221500 -0500" channel="cartoonito.ec">
+  <programme start="20261016110000 -0500" stop="20261016111500 -0500" channel="cartoonito.ec">
     <title>La casa de muñecas de Gabby ¡Feliz cumpleaños, Gabby!</title>
   </programme>
-  <programme start="20261016221500 -0500" stop="20261016223000 -0500" channel="cartoonito.ec">
+  <programme start="20261016111500 -0500" stop="20261016113000 -0500" channel="cartoonito.ec">
     <title>La casa de muñecas de Gabby ¡Superlistos!</title>
   </programme>
-  <programme start="20261016223000 -0500" stop="20261016230000 -0500" channel="cartoonito.ec">
+  <programme start="20261016113000 -0500" stop="20261016120000 -0500" channel="cartoonito.ec">
     <title>Pocoyó</title>
   </programme>
-  <programme start="20261016230000 -0500" stop="20261016230600 -0500" channel="cartoonito.ec">
-    <title>La araña Lucas Adiós, compañero</title>
-  </programme>
-  <programme start="20261016230600 -0500" stop="20261016231200 -0500" channel="cartoonito.ec">
-    <title>La araña Lucas El perro durmiente</title>
-  </programme>
-  <programme start="20261016231200 -0500" stop="20261016231800 -0500" channel="cartoonito.ec">
-    <title>La araña Lucas Problemas en lo alto</title>
-  </programme>
-  <programme start="20261016231800 -0500" stop="20261016232400 -0500" channel="cartoonito.ec">
+  <programme start="20261016120000 -0500" stop="20261016120600 -0500" channel="cartoonito.ec">
     <title>La araña Lucas El campamento fantasma</title>
   </programme>
-  <programme start="20261016232400 -0500" stop="20261016233000 -0500" channel="cartoonito.ec">
+  <programme start="20261016120600 -0500" stop="20261016121200 -0500" channel="cartoonito.ec">
+    <title>La araña Lucas Problemas en lo alto</title>
+  </programme>
+  <programme start="20261016121200 -0500" stop="20261016121800 -0500" channel="cartoonito.ec">
+    <title>La araña Lucas El perro durmiente</title>
+  </programme>
+  <programme start="20261016121800 -0500" stop="20261016122400 -0500" channel="cartoonito.ec">
+    <title>La araña Lucas Adiós, compañero</title>
+  </programme>
+  <programme start="20261016122400 -0500" stop="20261016123000 -0500" channel="cartoonito.ec">
     <title>La araña Lucas Arlo y la serpiente</title>
   </programme>
-  <programme start="20261016233000 -0500" stop="20261016233500 -0500" channel="cartoonito.ec">
+  <programme start="20261016123000 -0500" stop="20261016123500 -0500" channel="cartoonito.ec">
+    <title>Cuquin Tableta</title>
+  </programme>
+  <programme start="20261016123500 -0500" stop="20261016124000 -0500" channel="cartoonito.ec">
     <title>Cuquin Avión</title>
   </programme>
-  <programme start="20261016233500 -0500" stop="20261016234000 -0500" channel="cartoonito.ec">
-    <title>Cuquin Videojuego</title>
-  </programme>
-  <programme start="20261016234000 -0500" stop="20261016234500 -0500" channel="cartoonito.ec">
+  <programme start="20261016124000 -0500" stop="20261016124500 -0500" channel="cartoonito.ec">
     <title>Cuquin Huevos sorpresa</title>
   </programme>
-  <programme start="20261016234500 -0500" stop="20261016235000 -0500" channel="cartoonito.ec">
+  <programme start="20261016124500 -0500" stop="20261016125000 -0500" channel="cartoonito.ec">
+    <title>Cuquin Videojuego</title>
+  </programme>
+  <programme start="20261016125000 -0500" stop="20261016125500 -0500" channel="cartoonito.ec">
     <title>Cuquin Ladrones</title>
   </programme>
-  <programme start="20261016235000 -0500" stop="20261016235500 -0500" channel="cartoonito.ec">
+  <programme start="20261016125500 -0500" stop="20261016130000 -0500" channel="cartoonito.ec">
     <title>Cuquin Blandimundo</title>
   </programme>
-  <programme start="20261016235500 -0500" stop="20261017000000 -0500" channel="cartoonito.ec">
-    <title>Cuquin Tableta</title>
+  <programme start="20261016130000 -0500" stop="20261016130500 -0500" channel="cartoonito.ec">
+    <title>Numberblocks Misión espacial</title>
+  </programme>
+  <programme start="20261016130500 -0500" stop="20261016131000 -0500" channel="cartoonito.ec">
+    <title>Numberblocks Octo Travieso y el fraccionador</title>
+  </programme>
+  <programme start="20261016131000 -0500" stop="20261016131500 -0500" channel="cartoonito.ec">
+    <title>Numberblocks El taller de Uno</title>
+  </programme>
+  <programme start="20261016131500 -0500" stop="20261016132000 -0500" channel="cartoonito.ec">
+    <title>Numberblocks El festival frutal de Cinco</title>
+  </programme>
+  <programme start="20261016132000 -0500" stop="20261016132500 -0500" channel="cartoonito.ec">
+    <title>Numberblocks El botón perdido</title>
+  </programme>
+  <programme start="20261016132500 -0500" stop="20261016133000 -0500" channel="cartoonito.ec">
+    <title>Numberblocks Agentes dobles encubiertos</title>
+  </programme>
+  <programme start="20261016133000 -0500" stop="20261016133600 -0500" channel="cartoonito.ec">
+    <title>Booba Pizza</title>
+  </programme>
+  <programme start="20261016133600 -0500" stop="20261016134200 -0500" channel="cartoonito.ec">
+    <title>Booba El bromista invisible</title>
+  </programme>
+  <programme start="20261016134200 -0500" stop="20261016134800 -0500" channel="cartoonito.ec">
+    <title>Booba El huevo de oro</title>
+  </programme>
+  <programme start="20261016134800 -0500" stop="20261016135400 -0500" channel="cartoonito.ec">
+    <title>Booba Rueda de la fortuna</title>
+  </programme>
+  <programme start="20261016135400 -0500" stop="20261016140000 -0500" channel="cartoonito.ec">
+    <title>Booba El constructor</title>
+  </programme>
+  <programme start="20261016140000 -0500" stop="20261016141500 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita imagine-se</title>
+  </programme>
+  <programme start="20261016141500 -0500" stop="20261016142000 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita TV Shorts Nem tudo que sobra é lixo</title>
+  </programme>
+  <programme start="20261016142000 -0500" stop="20261016142500 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita TV Shorts A flora</title>
+  </programme>
+  <programme start="20261016142500 -0500" stop="20261016143000 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita TV Shorts Payasada</title>
+  </programme>
+  <programme start="20261016143000 -0500" stop="20261016144500 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra El Corre-Robot</title>
+  </programme>
+  <programme start="20261016144500 -0500" stop="20261016150000 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra El supermercado de la señorita Prissy</title>
+  </programme>
+  <programme start="20261016150000 -0500" stop="20261016151000 -0500" channel="cartoonito.ec">
+    <title>Batwheels Un as bajo la manga</title>
+  </programme>
+  <programme start="20261016151000 -0500" stop="20261016152000 -0500" channel="cartoonito.ec">
+    <title>Batwheels El camuflaje de Redbird</title>
+  </programme>
+  <programme start="20261016152000 -0500" stop="20261016153000 -0500" channel="cartoonito.ec">
+    <title>Batwheels Música sobre ruedas</title>
+  </programme>
+  <programme start="20261016153000 -0500" stop="20261016154000 -0500" channel="cartoonito.ec">
+    <title>Batwheels ¿Me estás hablando a mí?</title>
+  </programme>
+  <programme start="20261016154000 -0500" stop="20261016155000 -0500" channel="cartoonito.ec">
+    <title>Batwheels El caballero oscuro</title>
+  </programme>
+  <programme start="20261016155000 -0500" stop="20261016160000 -0500" channel="cartoonito.ec">
+    <title>Batwheels La bati-carrera</title>
+  </programme>
+  <programme start="20261016160000 -0500" stop="20261016170000 -0500" channel="cartoonito.ec">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+  <programme start="20261016170000 -0500" stop="20261016170600 -0500" channel="cartoonito.ec">
+    <title>Lu y sus amigos Líneas de crecimiento</title>
+  </programme>
+  <programme start="20261016170600 -0500" stop="20261016171200 -0500" channel="cartoonito.ec">
+    <title>Lu y sus amigos Adiós botas de lluvia</title>
+  </programme>
+  <programme start="20261016171200 -0500" stop="20261016171800 -0500" channel="cartoonito.ec">
+    <title>Lu y sus amigos ¿Qué si no puedo?</title>
+  </programme>
+  <programme start="20261016171800 -0500" stop="20261016172400 -0500" channel="cartoonito.ec">
+    <title>Lu y sus amigos Aspisaurus</title>
+  </programme>
+  <programme start="20261016172400 -0500" stop="20261016173000 -0500" channel="cartoonito.ec">
+    <title>Lu y sus amigos Viaje en barco</title>
+  </programme>
+  <programme start="20261016173000 -0500" stop="20261016173600 -0500" channel="cartoonito.ec">
+    <title>Pocoyó Juegos de invierno</title>
+  </programme>
+  <programme start="20261016173600 -0500" stop="20261016174200 -0500" channel="cartoonito.ec">
+    <title>Pocoyó El supermercado de Pocoyó</title>
+  </programme>
+  <programme start="20261016174200 -0500" stop="20261016174800 -0500" channel="cartoonito.ec">
+    <title>Pocoyó Sígueme el ritmo</title>
+  </programme>
+  <programme start="20261016174800 -0500" stop="20261016175400 -0500" channel="cartoonito.ec">
+    <title>Pocoyó ¡Qué empiece la partida!</title>
+  </programme>
+  <programme start="20261016175400 -0500" stop="20261016180000 -0500" channel="cartoonito.ec">
+    <title>Pocoyó Pocoyo Recycles</title>
+  </programme>
+  <programme start="20261016180000 -0500" stop="20261016181500 -0500" channel="cartoonito.ec">
+    <title>La casa de muñecas de Gabby El robot de artes</title>
+  </programme>
+  <programme start="20261016181500 -0500" stop="20261016183000 -0500" channel="cartoonito.ec">
+    <title>La casa de muñecas de Gabby El mal día de Pandy</title>
+  </programme>
+  <programme start="20261016183000 -0500" stop="20261016184500 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita imagine-se</title>
+  </programme>
+  <programme start="20261016184500 -0500" stop="20261016190000 -0500" channel="cartoonito.ec">
+    <title>Creciendo con la Gallina Pintadita Salvando a la gatita</title>
+  </programme>
+  <programme start="20261016190000 -0500" stop="20261016200000 -0500" channel="cartoonito.ec">
+    <title>Hey, Duggee</title>
+  </programme>
+  <programme start="20261016200000 -0500" stop="20261016201000 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Pan con queso</title>
+  </programme>
+  <programme start="20261016201000 -0500" stop="20261016202000 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Batalla en la playa</title>
+  </programme>
+  <programme start="20261016202000 -0500" stop="20261016203000 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Carnaval</title>
+  </programme>
+  <programme start="20261016203000 -0500" stop="20261016204000 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra La casa de hielo</title>
+  </programme>
+  <programme start="20261016204000 -0500" stop="20261016205000 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra El catarro</title>
+  </programme>
+  <programme start="20261016205000 -0500" stop="20261016210000 -0500" channel="cartoonito.ec">
+    <title>Bugs y sus amigos a la obra Speedy</title>
+  </programme>
+  <programme start="20261016210000 -0500" stop="20261016211000 -0500" channel="cartoonito.ec">
+    <title>Batwheels Cueva dulce cueva</title>
+  </programme>
+  <programme start="20261016211000 -0500" stop="20261016212000 -0500" channel="cartoonito.ec">
+    <title>Batwheels La historia de las dos Bibis</title>
+  </programme>
+  <programme start="20261016212000 -0500" stop="20261016213000 -0500" channel="cartoonito.ec">
+    <title>Batwheels ¿Me estás hablando a mí?</title>
+  </programme>
+  <programme start="20261016213000 -0500" stop="20261016214000 -0500" channel="cartoonito.ec">
+    <title>Batwheels Bibi y la mala semilla</title>
+  </programme>
+  <programme start="20261016214000 -0500" stop="20261016215000 -0500" channel="cartoonito.ec">
+    <title>Batwheels El show aéreo</title>
+  </programme>
+  <programme start="20261016215000 -0500" stop="20261016220000 -0500" channel="cartoonito.ec">
+    <title>Batwheels Neumáticos ligeros</title>
+  </programme>
+  <programme start="20261016220000 -0500" stop="20261016220600 -0500" channel="cartoonito.ec">
+    <title>Grizzy and the Lemmings Árbol de cacao</title>
+  </programme>
+  <programme start="20261016220600 -0500" stop="20261016221200 -0500" channel="cartoonito.ec">
+    <title>Grizzy and the Lemmings Choco-Fideos</title>
+  </programme>
+  <programme start="20261016221200 -0500" stop="20261016221800 -0500" channel="cartoonito.ec">
+    <title>Grizzy and the Lemmings Una galleta difícil de preparar</title>
+  </programme>
+  <programme start="20261016221800 -0500" stop="20261016222400 -0500" channel="cartoonito.ec">
+    <title>Grizzy and the Lemmings Juego de canicas</title>
+  </programme>
+  <programme start="20261016222400 -0500" stop="20261016223000 -0500" channel="cartoonito.ec">
+    <title>Grizzy and the Lemmings Oso malherido</title>
+  </programme>
+  <programme start="20261016223000 -0500" stop="20261016224500 -0500" channel="cartoonito.ec">
+    <title>Creciendo con la Gallina Pintadita El triatlón</title>
+  </programme>
+  <programme start="20261016224500 -0500" stop="20261016230000 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita imagine-se</title>
+  </programme>
+  <programme start="20261016230000 -0500" stop="20261016231500 -0500" channel="cartoonito.ec">
+    <title>La casa de muñecas de Gabby ¡Feliz cumpleaños, Gabby!</title>
+  </programme>
+  <programme start="20261016231500 -0500" stop="20261016233000 -0500" channel="cartoonito.ec">
+    <title>La casa de muñecas de Gabby ¡Superlistos!</title>
+  </programme>
+  <programme start="20261016233000 -0500" stop="20261017000000 -0500" channel="cartoonito.ec">
+    <title>Pocoyó</title>
   </programme>
   <channel id="teleamazonas">
     <display-name>Teleamazonas</display-name>
   </channel>
-  <programme start="20261016000000 -0500" stop="20261016004500 -0500" channel="teleamazonas">
+  <programme start="20261015233000 -0500" stop="20261016010000 -0500" channel="teleamazonas">
+    <title>Perdidos de Amor</title>
+  </programme>
+  <programme start="20261016010000 -0500" stop="20261016014500 -0500" channel="teleamazonas">
     <title>100 Ecuatorianos dicen</title>
   </programme>
-  <programme start="20261016004500 -0500" stop="20261016020000 -0500" channel="teleamazonas">
+  <programme start="20261016014500 -0500" stop="20261016030000 -0500" channel="teleamazonas">
     <title>Escape Perfecto</title>
   </programme>
-  <programme start="20261016020000 -0500" stop="20261016024500 -0500" channel="teleamazonas">
+  <programme start="20261016030000 -0500" stop="20261016034500 -0500" channel="teleamazonas">
     <title>C.S.I. Miami Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.</title>
   </programme>
-  <programme start="20261016024500 -0500" stop="20261016030000 -0500" channel="teleamazonas">
-    <title>24 horas - Nacional I</title>
-  </programme>
-  <programme start="20261016030000 -0500" stop="20261016031500 -0500" channel="teleamazonas">
-    <title>Entrevistas en 24 horas</title>
-  </programme>
-  <programme start="20261016031500 -0500" stop="20261016034500 -0500" channel="teleamazonas">
-    <title>Yo soy tu madre</title>
-  </programme>
   <programme start="20261016034500 -0500" stop="20261016040000 -0500" channel="teleamazonas">
-    <title>La Familia Peluche</title>
+    <title>24 horas - Nacional I</title>
   </programme>
   <programme start="20261016040000 -0500" stop="20261016041500 -0500" channel="teleamazonas">
-    <title>Derbez en cuando</title>
-  </programme>
-  <programme start="20261016041500 -0500" stop="20261016044500 -0500" channel="teleamazonas">
-    <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
-  </programme>
-  <programme start="20261016044500 -0500" stop="20261016050000 -0500" channel="teleamazonas">
-    <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
-  </programme>
-  <programme start="20261016050000 -0500" stop="20261016055500 -0500" channel="teleamazonas">
-    <title>24 horas - 3ra emisión</title>
-  </programme>
-  <programme start="20261016055500 -0500" stop="20261016070000 -0500" channel="teleamazonas">
-    <title>24 horas - 1ra emisión local</title>
-  </programme>
-  <programme start="20261016070000 -0500" stop="20261016073000 -0500" channel="teleamazonas">
-    <title>24 horas - Nacional I</title>
-  </programme>
-  <programme start="20261016073000 -0500" stop="20261016080000 -0500" channel="teleamazonas">
     <title>Entrevistas en 24 horas</title>
   </programme>
-  <programme start="20261016080000 -0500" stop="20261016093000 -0500" channel="teleamazonas">
-    <title>24 horas - 2da emisión local</title>
+  <programme start="20261016041500 -0500" stop="20261016044500 -0500" channel="teleamazonas">
+    <title>Yo soy tu madre</title>
   </programme>
-  <programme start="20261016093000 -0500" stop="20261016120000 -0500" channel="teleamazonas">
-    <title>EsTAmañana</title>
+  <programme start="20261016044500 -0500" stop="20261016050000 -0500" channel="teleamazonas">
+    <title>La Familia Peluche</title>
   </programme>
-  <programme start="20261016120000 -0500" stop="20261016130000 -0500" channel="teleamazonas">
-    <title>Por amar sin ley</title>
+  <programme start="20261016050000 -0500" stop="20261016051500 -0500" channel="teleamazonas">
+    <title>Derbez en cuando</title>
   </programme>
-  <programme start="20261016130000 -0500" stop="20261016140000 -0500" channel="teleamazonas">
-    <title>24 Horas</title>
-  </programme>
-  <programme start="20261016140000 -0500" stop="20261016144500 -0500" channel="teleamazonas">
-    <title>Comunidad</title>
-  </programme>
-  <programme start="20261016144500 -0500" stop="20261016150000 -0500" channel="teleamazonas">
-    <title>En Corto</title>
-  </programme>
-  <programme start="20261016150000 -0500" stop="20261016160000 -0500" channel="teleamazonas">
-    <title>Deporte Total</title>
-  </programme>
-  <programme start="20261016160000 -0500" stop="20261016173000 -0500" channel="teleamazonas">
-    <title>Mi corazón es tuyo</title>
-  </programme>
-  <programme start="20261016173000 -0500" stop="20261016180000 -0500" channel="teleamazonas">
-    <title>Los Simpson Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</title>
-  </programme>
-  <programme start="20261016180000 -0500" stop="20261016183000 -0500" channel="teleamazonas">
+  <programme start="20261016051500 -0500" stop="20261016054500 -0500" channel="teleamazonas">
     <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
   </programme>
-  <programme start="20261016183000 -0500" stop="20261016190000 -0500" channel="teleamazonas">
+  <programme start="20261016054500 -0500" stop="20261016060000 -0500" channel="teleamazonas">
     <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
   </programme>
-  <programme start="20261016190000 -0500" stop="20261016200000 -0500" channel="teleamazonas">
-    <title>100 Ecuatorianos dicen</title>
+  <programme start="20261016060000 -0500" stop="20261016065500 -0500" channel="teleamazonas">
+    <title>24 horas - 3ra emisión</title>
   </programme>
-  <programme start="20261016200000 -0500" stop="20261016210000 -0500" channel="teleamazonas">
+  <programme start="20261016065500 -0500" stop="20261016080000 -0500" channel="teleamazonas">
+    <title>24 horas - 1ra emisión local</title>
+  </programme>
+  <programme start="20261016080000 -0500" stop="20261016083000 -0500" channel="teleamazonas">
+    <title>24 horas - Nacional I</title>
+  </programme>
+  <programme start="20261016083000 -0500" stop="20261016090000 -0500" channel="teleamazonas">
+    <title>Entrevistas en 24 horas</title>
+  </programme>
+  <programme start="20261016090000 -0500" stop="20261016103000 -0500" channel="teleamazonas">
+    <title>24 horas - 2da emisión local</title>
+  </programme>
+  <programme start="20261016103000 -0500" stop="20261016130000 -0500" channel="teleamazonas">
+    <title>EsTAmañana</title>
+  </programme>
+  <programme start="20261016130000 -0500" stop="20261016140000 -0500" channel="teleamazonas">
+    <title>Por amar sin ley</title>
+  </programme>
+  <programme start="20261016140000 -0500" stop="20261016150000 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261016210000 -0500" stop="20261016223000 -0500" channel="teleamazonas">
+  <programme start="20261016150000 -0500" stop="20261016154500 -0500" channel="teleamazonas">
+    <title>Comunidad</title>
+  </programme>
+  <programme start="20261016154500 -0500" stop="20261016160000 -0500" channel="teleamazonas">
+    <title>En Corto</title>
+  </programme>
+  <programme start="20261016160000 -0500" stop="20261016170000 -0500" channel="teleamazonas">
+    <title>Deporte Total</title>
+  </programme>
+  <programme start="20261016170000 -0500" stop="20261016183000 -0500" channel="teleamazonas">
+    <title>Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20261016183000 -0500" stop="20261016190000 -0500" channel="teleamazonas">
+    <title>Los Simpson Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</title>
+  </programme>
+  <programme start="20261016190000 -0500" stop="20261016193000 -0500" channel="teleamazonas">
+    <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
+  </programme>
+  <programme start="20261016193000 -0500" stop="20261016200000 -0500" channel="teleamazonas">
+    <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
+  </programme>
+  <programme start="20261016200000 -0500" stop="20261016210000 -0500" channel="teleamazonas">
+    <title>100 Ecuatorianos dicen</title>
+  </programme>
+  <programme start="20261016210000 -0500" stop="20261016220000 -0500" channel="teleamazonas">
+    <title>24 Horas</title>
+  </programme>
+  <programme start="20261016220000 -0500" stop="20261016233000 -0500" channel="teleamazonas">
     <title>Escape Perfecto</title>
   </programme>
-  <programme start="20261016223000 -0500" stop="20261017000000 -0500" channel="teleamazonas">
+  <programme start="20261016233000 -0500" stop="20261017010000 -0500" channel="teleamazonas">
     <title>Perdidos de Amor</title>
   </programme>
   <channel id="espn.co">
@@ -840,38 +837,38 @@
   <programme start="20261016040000 -0500" stop="20261016050000 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261016050000 -0500" stop="20261016070000 -0500" channel="espn.co">
-    <title>Tenis ATP Rolex Shanghai Masters 2026</title>
-  </programme>
-  <programme start="20261016070000 -0500" stop="20261016090000 -0500" channel="espn.co">
-    <title>Tenis ATP Rolex Shanghai Masters 2026</title>
-  </programme>
-  <programme start="20261016090000 -0500" stop="20261016100000 -0500" channel="espn.co">
+  <programme start="20261016050000 -0500" stop="20261016060000 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261016060000 -0500" stop="20261016080000 -0500" channel="espn.co">
+    <title>Tenis ATP Rolex Shanghai Masters 2026</title>
+  </programme>
+  <programme start="20261016080000 -0500" stop="20261016100000 -0500" channel="espn.co">
+    <title>Tenis ATP Rolex Shanghai Masters 2026</title>
   </programme>
   <programme start="20261016100000 -0500" stop="20261016110000 -0500" channel="espn.co">
-    <title>UEFA Europa League Highlights</title>
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
   <programme start="20261016110000 -0500" stop="20261016120000 -0500" channel="espn.co">
+    <title>UEFA Europa League Highlights</title>
+  </programme>
+  <programme start="20261016120000 -0500" stop="20261016130000 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261016120000 -0500" stop="20261016150000 -0500" channel="espn.co">
+  <programme start="20261016130000 -0500" stop="20261016160000 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261016150000 -0500" stop="20261016170000 -0500" channel="espn.co">
+  <programme start="20261016160000 -0500" stop="20261016180000 -0500" channel="espn.co">
     <title>Balón dividido</title>
   </programme>
-  <programme start="20261016170000 -0500" stop="20261016191500 -0500" channel="espn.co">
+  <programme start="20261016180000 -0500" stop="20261016201500 -0500" channel="espn.co">
     <title>ESPN F360</title>
   </programme>
-  <programme start="20261016191500 -0500" stop="20261016212500 -0500" channel="espn.co">
+  <programme start="20261016201500 -0500" stop="20261016222500 -0500" channel="espn.co">
     <title>Fútbol argentino Primera División</title>
   </programme>
-  <programme start="20261016212500 -0500" stop="20261016230000 -0500" channel="espn.co">
+  <programme start="20261016222500 -0500" stop="20261017000000 -0500" channel="espn.co">
     <title>ESPN F90</title>
-  </programme>
-  <programme start="20261016230000 -0500" stop="20261017000000 -0500" channel="espn.co">
-    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
   <channel id="gamavision.ec">
     <display-name>Gamavisión</display-name>
@@ -897,38 +894,38 @@
   <programme start="20261016050000 -0500" stop="20261016060000 -0500" channel="tyc_sports.ar">
     <title>Sportia</title>
   </programme>
-  <programme start="20261016060000 -0500" stop="20261016080000 -0500" channel="tyc_sports.ar">
+  <programme start="20261016060000 -0500" stop="20261016070000 -0500" channel="tyc_sports.ar">
+    <title>Sportia</title>
+  </programme>
+  <programme start="20261016070000 -0500" stop="20261016090000 -0500" channel="tyc_sports.ar">
     <title>Racing Club vs. Belgrano</title>
   </programme>
-  <programme start="20261016080000 -0500" stop="20261016090000 -0500" channel="tyc_sports.ar">
+  <programme start="20261016090000 -0500" stop="20261016100000 -0500" channel="tyc_sports.ar">
     <title>Superfútbol</title>
   </programme>
-  <programme start="20261016090000 -0500" stop="20261016100000 -0500" channel="tyc_sports.ar">
+  <programme start="20261016100000 -0500" stop="20261016110000 -0500" channel="tyc_sports.ar">
     <title>Sportia</title>
   </programme>
-  <programme start="20261016100000 -0500" stop="20261016120000 -0500" channel="tyc_sports.ar">
+  <programme start="20261016110000 -0500" stop="20261016130000 -0500" channel="tyc_sports.ar">
     <title>Dale al medio</title>
   </programme>
-  <programme start="20261016120000 -0500" stop="20261016140000 -0500" channel="tyc_sports.ar">
+  <programme start="20261016130000 -0500" stop="20261016150000 -0500" channel="tyc_sports.ar">
     <title>Líbero</title>
   </programme>
-  <programme start="20261016140000 -0500" stop="20261016165500 -0500" channel="tyc_sports.ar">
+  <programme start="20261016150000 -0500" stop="20261016175500 -0500" channel="tyc_sports.ar">
     <title>Sportia</title>
   </programme>
-  <programme start="20261016165500 -0500" stop="20261016190000 -0500" channel="tyc_sports.ar">
+  <programme start="20261016175500 -0500" stop="20261016200000 -0500" channel="tyc_sports.ar">
     <title>Social y Deportivo Defensa y Justicia vs. Instituto Atlético Central Córdoba</title>
   </programme>
-  <programme start="20261016190000 -0500" stop="20261016192500 -0500" channel="tyc_sports.ar">
+  <programme start="20261016200000 -0500" stop="20261016202500 -0500" channel="tyc_sports.ar">
     <title>Líbero</title>
   </programme>
-  <programme start="20261016192500 -0500" stop="20261016213000 -0500" channel="tyc_sports.ar">
+  <programme start="20261016202500 -0500" stop="20261016223000 -0500" channel="tyc_sports.ar">
     <title>Boca Juniors vs. Talleres</title>
   </programme>
-  <programme start="20261016213000 -0500" stop="20261016220000 -0500" channel="tyc_sports.ar">
+  <programme start="20261016223000 -0500" stop="20261016230000 -0500" channel="tyc_sports.ar">
     <title>La noche de TyC Sports</title>
-  </programme>
-  <programme start="20261016220000 -0500" stop="20261016230000 -0500" channel="tyc_sports.ar">
-    <title>Sportia</title>
   </programme>
   <programme start="20261016230000 -0500" stop="20261017000000 -0500" channel="tyc_sports.ar">
     <title>Sportia</title>
