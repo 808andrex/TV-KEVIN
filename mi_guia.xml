@@ -3,122 +3,128 @@
   <channel id="espn.premium">
     <display-name>ESPN Premium</display-name>
   </channel>
-  <programme start="20261017000000 -0500" stop="20261017020000 -0500" channel="espn.premium">
-    <title>Eintracht Frankfurt vs. Colonia Fútbol: Bundesliga</title>
+  <programme start="20261017000000 -0500" stop="20261017003000 -0500" channel="espn.premium">
+    <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261017020000 -0500" stop="20261017030000 -0500" channel="espn.premium">
-    <title>UEFA Champions League Highlights</title>
+  <programme start="20261017003000 -0500" stop="20261017010000 -0500" channel="espn.premium">
+    <title>EFL Highlights</title>
+  </programme>
+  <programme start="20261017010000 -0500" stop="20261017030000 -0500" channel="espn.premium">
+    <title>Eintracht Frankfurt vs. Colonia Fútbol: Bundesliga</title>
   </programme>
   <programme start="20261017030000 -0500" stop="20261017040000 -0500" channel="espn.premium">
     <title>UEFA Champions League Highlights</title>
   </programme>
-  <programme start="20261017040000 -0500" stop="20261017090000 -0500" channel="espn.premium">
+  <programme start="20261017040000 -0500" stop="20261017050000 -0500" channel="espn.premium">
+    <title>UEFA Champions League Highlights</title>
+  </programme>
+  <programme start="20261017050000 -0500" stop="20261017100000 -0500" channel="espn.premium">
     <title>Fútbol argentino Primera División</title>
   </programme>
-  <programme start="20261017090000 -0500" stop="20261017103000 -0500" channel="espn.premium">
+  <programme start="20261017100000 -0500" stop="20261017113000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261017103000 -0500" stop="20261017110000 -0500" channel="espn.premium">
+  <programme start="20261017113000 -0500" stop="20261017120000 -0500" channel="espn.premium">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261017110000 -0500" stop="20261017111500 -0500" channel="espn.premium">
+  <programme start="20261017120000 -0500" stop="20261017121500 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261017111500 -0500" stop="20261017133000 -0500" channel="espn.premium">
+  <programme start="20261017121500 -0500" stop="20261017143000 -0500" channel="espn.premium">
     <title>Bayern de Múnich vs. RB Leipzig Fútbol: Bundesliga</title>
   </programme>
-  <programme start="20261017133000 -0500" stop="20261017170000 -0500" channel="espn.premium">
+  <programme start="20261017143000 -0500" stop="20261017180000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261017170000 -0500" stop="20261017183000 -0500" channel="espn.premium">
+  <programme start="20261017180000 -0500" stop="20261017193000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261017183000 -0500" stop="20261017190000 -0500" channel="espn.premium">
+  <programme start="20261017193000 -0500" stop="20261017200000 -0500" channel="espn.premium">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261017190000 -0500" stop="20261017210000 -0500" channel="espn.premium">
+  <programme start="20261017200000 -0500" stop="20261017220000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261017210000 -0500" stop="20261018010000 -0500" channel="espn.premium">
+  <programme start="20261017220000 -0500" stop="20261018020000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
   <channel id="teleamazonas">
     <display-name>Teleamazonas</display-name>
   </channel>
-  <programme start="20261017000000 -0500" stop="20261017004500 -0500" channel="teleamazonas">
+  <programme start="20261016233000 -0500" stop="20261017010000 -0500" channel="teleamazonas">
+    <title>Perdidos de Amor</title>
+  </programme>
+  <programme start="20261017010000 -0500" stop="20261017014500 -0500" channel="teleamazonas">
     <title>100 Ecuatorianos dicen</title>
   </programme>
-  <programme start="20261017004500 -0500" stop="20261017020000 -0500" channel="teleamazonas">
+  <programme start="20261017014500 -0500" stop="20261017030000 -0500" channel="teleamazonas">
     <title>Escape Perfecto</title>
   </programme>
-  <programme start="20261017020000 -0500" stop="20261017024500 -0500" channel="teleamazonas">
+  <programme start="20261017030000 -0500" stop="20261017034500 -0500" channel="teleamazonas">
     <title>C.S.I. Miami Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.</title>
   </programme>
-  <programme start="20261017024500 -0500" stop="20261017030000 -0500" channel="teleamazonas">
+  <programme start="20261017034500 -0500" stop="20261017040000 -0500" channel="teleamazonas">
     <title>24 horas - Nacional I</title>
   </programme>
-  <programme start="20261017030000 -0500" stop="20261017031500 -0500" channel="teleamazonas">
+  <programme start="20261017040000 -0500" stop="20261017041500 -0500" channel="teleamazonas">
     <title>Entrevistas en 24 horas</title>
   </programme>
-  <programme start="20261017031500 -0500" stop="20261017034500 -0500" channel="teleamazonas">
+  <programme start="20261017041500 -0500" stop="20261017044500 -0500" channel="teleamazonas">
     <title>Yo soy tu madre</title>
   </programme>
-  <programme start="20261017034500 -0500" stop="20261017043000 -0500" channel="teleamazonas">
+  <programme start="20261017044500 -0500" stop="20261017053000 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261017043000 -0500" stop="20261017050000 -0500" channel="teleamazonas">
+  <programme start="20261017053000 -0500" stop="20261017060000 -0500" channel="teleamazonas">
     <title>Geeks</title>
   </programme>
-  <programme start="20261017050000 -0500" stop="20261017060000 -0500" channel="teleamazonas">
+  <programme start="20261017060000 -0500" stop="20261017070000 -0500" channel="teleamazonas">
     <title>Tres Patines</title>
   </programme>
-  <programme start="20261017060000 -0500" stop="20261017063000 -0500" channel="teleamazonas">
+  <programme start="20261017070000 -0500" stop="20261017073000 -0500" channel="teleamazonas">
     <title>Game Shakers</title>
   </programme>
-  <programme start="20261017063000 -0500" stop="20261017070000 -0500" channel="teleamazonas">
+  <programme start="20261017073000 -0500" stop="20261017080000 -0500" channel="teleamazonas">
     <title>Victorious Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.</title>
   </programme>
-  <programme start="20261017070000 -0500" stop="20261017080000 -0500" channel="teleamazonas">
+  <programme start="20261017080000 -0500" stop="20261017090000 -0500" channel="teleamazonas">
     <title>Drake &amp; Josh</title>
   </programme>
-  <programme start="20261017080000 -0500" stop="20261017110000 -0500" channel="teleamazonas">
+  <programme start="20261017090000 -0500" stop="20261017120000 -0500" channel="teleamazonas">
     <title>Tventas</title>
   </programme>
-  <programme start="20261017110000 -0500" stop="20261017113000 -0500" channel="teleamazonas">
+  <programme start="20261017120000 -0500" stop="20261017123000 -0500" channel="teleamazonas">
     <title>Documentales de Animales</title>
   </programme>
-  <programme start="20261017113000 -0500" stop="20261017130000 -0500" channel="teleamazonas">
+  <programme start="20261017123000 -0500" stop="20261017140000 -0500" channel="teleamazonas">
     <title>Agente 00-Gato Una ingenua gatita junto con sus amigos emprende la aventura más grande de sus vidas, esta simpática felina demostrará que nadie es más astuto que ella.</title>
   </programme>
-  <programme start="20261017130000 -0500" stop="20261017135500 -0500" channel="teleamazonas">
+  <programme start="20261017140000 -0500" stop="20261017145500 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261017135500 -0500" stop="20261017140000 -0500" channel="teleamazonas">
+  <programme start="20261017145500 -0500" stop="20261017150000 -0500" channel="teleamazonas">
     <title>Previa Fútbol ecuatoriano Serie A</title>
   </programme>
-  <programme start="20261017140000 -0500" stop="20261017160000 -0500" channel="teleamazonas">
+  <programme start="20261017150000 -0500" stop="20261017170000 -0500" channel="teleamazonas">
     <title>Fútbol Ecuatoriano Serie A</title>
   </programme>
-  <programme start="20261017160000 -0500" stop="20261017180000 -0500" channel="teleamazonas">
+  <programme start="20261017170000 -0500" stop="20261017190000 -0500" channel="teleamazonas">
     <title>Mad Max Furia en el camino</title>
   </programme>
-  <programme start="20261017180000 -0500" stop="20261017183000 -0500" channel="teleamazonas">
+  <programme start="20261017190000 -0500" stop="20261017193000 -0500" channel="teleamazonas">
     <title>Los Simpson Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</title>
   </programme>
-  <programme start="20261017183000 -0500" stop="20261017200000 -0500" channel="teleamazonas">
+  <programme start="20261017193000 -0500" stop="20261017210000 -0500" channel="teleamazonas">
     <title>La era de hielo</title>
   </programme>
-  <programme start="20261017200000 -0500" stop="20261017210500 -0500" channel="teleamazonas">
+  <programme start="20261017210000 -0500" stop="20261017220500 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261017210500 -0500" stop="20261017220500 -0500" channel="teleamazonas">
+  <programme start="20261017220500 -0500" stop="20261017230500 -0500" channel="teleamazonas">
     <title>De año en año</title>
   </programme>
-  <programme start="20261017220500 -0500" stop="20261017230000 -0500" channel="teleamazonas">
+  <programme start="20261017230500 -0500" stop="20261018000000 -0500" channel="teleamazonas">
     <title>América Vive</title>
-  </programme>
-  <programme start="20261017230000 -0500" stop="20261018010000 -0500" channel="teleamazonas">
-    <title>Megalodón 2: El Gran Abismo Un equipo de investigación se ve obligado a una batalla por la supervivencia cuando una malevolente operación minera amenaza su misión de exploración.</title>
   </programme>
   <channel id="gamavision.ec">
     <display-name>Gamavisión</display-name>
