@@ -2,8 +2,7 @@ node_modules/
 *.log
 npm-debug.log*
 
-# Guía generada en local (la oficial la sube GitHub Actions)
-mi_guia.xml
+# mi_guia.xml NO se ignora: GitHub Actions lo genera y lo sube (git add mi_guia.xml)
 
 # Reporte que genera scrapers/epgshare/listar-canales.js
 canales_guia.txt
