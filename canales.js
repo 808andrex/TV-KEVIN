@@ -16,6 +16,7 @@ const canales = [
   { id: 'teleamazonas', nombre: 'Teleamazonas', url: 'https://www.gatotv.com/canal/teleamazonas' },
   { id: 'espn.co', nombre: 'ESPN co', url: 'https://www.gatotv.com/canal/espn_colombia' },
   { id: 'gamavision.ec', nombre: 'Gamavisión', url: 'https://www.gatotv.com/canal/gamavision' },
+  { id: 'tyc_sports.ar', nombre: 'TyC Sports', url: 'https://www.gatotv.com/canal/tyc_sports' },
 
   // ---- página oficial del canal (scrapers/web/scraper.js) ----
   { id: 'tvc', nombre: 'TVC', url: 'https://www.tvc.com.ec/programacion/' },
@@ -24,7 +25,8 @@ const canales = [
   // ---- mi.tv (funciona también en GitHub Actions) ----
   { id: 'fox.ar', nombre: 'FOX Sports', url: 'https://mi.tv/ar/canales/fox-sports-hd' },
   { id: 'fox2.ar', nombre: 'FOX Sports 2 ', url: 'https://mi.tv/ar/canales/fox-sports-2' },
-  { id: 'fox3.ar', nombre: 'FOX Sports 3 ', url: 'https://mi.tv/ar/canales/fox-sports-3' }
+  { id: 'fox3.ar', nombre: 'FOX Sports 3 ', url: 'https://mi.tv/ar/canales/fox-sports-3' },
+  { id: 'tnt_sports.ar', nombre: 'TNT Sports ', url: 'https://mi.tv/ar/canales/tnt-sports' }
 
   // Ahora salen de EC1 (canales-ec.js): ESPN 2, 3 y 4, Cartoon Network, Nickelodeon,
   // Disney Channel, Disney Junior, Discovery Kids, TC Televisión, Ecuavisa y RTS.

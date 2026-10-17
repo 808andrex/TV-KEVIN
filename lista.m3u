@@ -8,7 +8,7 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1111.m3u8
 #EXTINF:-1 tvg-id="espn.co" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes",ESPN CO
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1107.m3u8
 
-#EXTINF:-1 tvg-id="espn.co" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes",ESPN CO 1080
+#EXTINF:-1 tvg-id="espn.co" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes",ESPN CO FULL HD
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 
 #EXTINF:-1 tvg-id="espn2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes",ESPN 2
@@ -32,7 +32,7 @@ http://181.78.12.119:16123/play/ch20/index.m3u8
 
 #EXTINF:-1 tvg-id="espn.premium" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes",ESPN Premium
 #EXTVLCOPT:http-reconnect=true
-http://181.209.105.115:2525/play/espnpremium/index.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dsports1.ec" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes",DSports 1
 http://181.209.80.115:8000/play/dsports_hd
@@ -52,6 +52,12 @@ http://45.188.229.33:8000/play/a1ae/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="fox3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true" group-title="Deportes",Fox Sports 3
 http://138.59.227.20:8000/play/a06y/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="tyc_sports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TyCSports2026.svg/revision/latest?cb=20260601172151&path-prefix=es" group-title="Deportes",TyC Sports
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1143.m3u8
+
+#EXTINF:-1 tvg-id="tnt_sports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/TNT_Sports_%282023%29.svg/revision/latest?cb=20230407001905" group-title="Deportes",TNT  Sports
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/934.m3u8
 
 #EXTINF:-1 tvg-id="DAZN1.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-1-es.png?raw=true" group-title="Deportes",DAZN 1
 #EXTVLCOPT:network-caching=1000
@@ -77,7 +83,7 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/280.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/134.m3u8
 
-#EXTINF:-1 tvg-id="disney_junior.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" group-title="Infantil",Disney disney_junior
+#EXTINF:-1 tvg-id="disney_junior.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" group-title="Infantil",Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/284.m3u8
 
@@ -101,6 +107,7 @@ http://205.235.6.29:8000/play/a0yg/index.m3u8?hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://205.235.6.29:8000/play/a0yh/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="rts" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/RTSEcuador2007.svg/revision/latest?cb=20260206022553&path-prefix=es" group-title="Ecuador",RTS
+#EXTINF:-1 tvg-id="las_estrellas.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/RTSEcuador2007.svg/revision/latest?cb=20260206022553&path-prefix=es" group-title="Ecuador",Las Estrellas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://205.235.6.29:8000/play/a0yi/index.m3u8?hls
+http://205.235.6.29:8000/play/a0z0/index.m3u8?hls
+

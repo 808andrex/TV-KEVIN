@@ -28,6 +28,9 @@ const canales = [
     { id: 'espn.ec',         nombre: 'ESPN',            idFuente: 'Canal.ESPN.(Ecuador).ec' },
     // GolTV: EC1 viene vacío; se usa la señal Latin America de Uruguay (UY1).
     { id: 'goltv.ec',        nombre: 'GolTV',           tag: 'UY1', idFuente: '[GOLTVL].GolTV.Latin.America.uy' },
+    // DAZN: usa la guía española (ES1) y conserva los tvg-id de lista.m3u.
+    { id: 'DAZN1.Spain',     nombre: 'DAZN 1',           tag: 'ES1', idFuente: 'DAZN.1.es' },
+    { id: 'DAZNF1.Spain',    nombre: 'DAZN F1',          tag: 'ES1', idFuente: 'DAZN.F1.es' },
 
     // ---------- Noticias ----------
     { id: 'cnn_espanol.ec',      nombre: 'CNN en Español',      idFuente: 'Canal.CNN.en.Español.ec' },
