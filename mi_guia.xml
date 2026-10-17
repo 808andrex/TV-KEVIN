@@ -3,46 +3,49 @@
   <channel id="espn.ar">
     <display-name>ESPN Argentina</display-name>
   </channel>
-  <programme start="20261016233000 -0500" stop="20261017020000 -0500" channel="espn.ar">
-    <title>Australia vs. Nueva Zelanda Rugby Internacional</title>
-  </programme>
-  <programme start="20261017020000 -0500" stop="20261017030000 -0500" channel="espn.ar">
+  <programme start="20261017000000 -0500" stop="20261017010000 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261017030000 -0500" stop="20261017040000 -0500" channel="espn.ar">
+  <programme start="20261017010000 -0500" stop="20261017020000 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261017040000 -0500" stop="20261017043000 -0500" channel="espn.ar">
+  <programme start="20261017020000 -0500" stop="20261017023000 -0500" channel="espn.ar">
     <title>Premier League Preview Show</title>
   </programme>
-  <programme start="20261017043000 -0500" stop="20261017052500 -0500" channel="espn.ar">
+  <programme start="20261017023000 -0500" stop="20261017032500 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261017052500 -0500" stop="20261017062000 -0500" channel="espn.ar">
+  <programme start="20261017032500 -0500" stop="20261017042000 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261017062000 -0500" stop="20261017082500 -0500" channel="espn.ar">
+  <programme start="20261017042000 -0500" stop="20261017062500 -0500" channel="espn.ar">
     <title>Everton vs. Chelsea Fútbol: Premier League</title>
   </programme>
-  <programme start="20261017082500 -0500" stop="20261017085000 -0500" channel="espn.ar">
+  <programme start="20261017062500 -0500" stop="20261017065000 -0500" channel="espn.ar">
     <title>SportsCenter+</title>
   </programme>
-  <programme start="20261017085000 -0500" stop="20261017105500 -0500" channel="espn.ar">
+  <programme start="20261017065000 -0500" stop="20261017085500 -0500" channel="espn.ar">
     <title>Manchester City vs. Ipswich Town Fútbol: Premier League</title>
   </programme>
-  <programme start="20261017105500 -0500" stop="20261017111500 -0500" channel="espn.ar">
+  <programme start="20261017085500 -0500" stop="20261017091500 -0500" channel="espn.ar">
     <title>SportsCenter+</title>
   </programme>
-  <programme start="20261017111500 -0500" stop="20261017133000 -0500" channel="espn.ar">
+  <programme start="20261017091500 -0500" stop="20261017113000 -0500" channel="espn.ar">
     <title>Newcastle United vs. Aston Villa Fútbol: Premier League</title>
   </programme>
-  <programme start="20261017133000 -0500" stop="20261017151500 -0500" channel="espn.ar">
+  <programme start="20261017113000 -0500" stop="20261017131500 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261017151500 -0500" stop="20261017172500 -0500" channel="espn.ar">
+  <programme start="20261017131500 -0500" stop="20261017152500 -0500" channel="espn.ar">
     <title>Platense vs. Lanús Fútbol Argentino Primera División</title>
   </programme>
-  <programme start="20261017172500 -0500" stop="20261017220000 -0500" channel="espn.ar">
+  <programme start="20261017152500 -0500" stop="20261017200000 -0500" channel="espn.ar">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261017200000 -0500" stop="20261017210000 -0500" channel="espn.ar">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261017210000 -0500" stop="20261017220000 -0500" channel="espn.ar">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
   <programme start="20261017220000 -0500" stop="20261017230000 -0500" channel="espn.ar">
@@ -54,119 +57,116 @@
   <channel id="espn5.ec">
     <display-name>ESPN 5</display-name>
   </channel>
-  <programme start="20261017000000 -0500" stop="20261017010000 -0500" channel="espn5.ec">
-    <title>ESPN Knockout</title>
-  </programme>
-  <programme start="20261017010000 -0500" stop="20261017020000 -0500" channel="espn5.ec">
-    <title>El Show de la F1</title>
-  </programme>
-  <programme start="20261017020000 -0500" stop="20261017023000 -0500" channel="espn5.ec">
+  <programme start="20261017000000 -0500" stop="20261017003000 -0500" channel="espn5.ec">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261017023000 -0500" stop="20261017042500 -0500" channel="espn5.ec">
+  <programme start="20261017003000 -0500" stop="20261017022500 -0500" channel="espn5.ec">
     <title>Eintracht Frankfurt vs. Colonia Fútbol: Bundesliga</title>
   </programme>
-  <programme start="20261017042500 -0500" stop="20261017062000 -0500" channel="espn5.ec">
+  <programme start="20261017022500 -0500" stop="20261017042000 -0500" channel="espn5.ec">
     <title>Burnley vs. Wolverhampton Wanderers Fútbol EFL Championship</title>
   </programme>
-  <programme start="20261017062000 -0500" stop="20261017082500 -0500" channel="espn5.ec">
+  <programme start="20261017042000 -0500" stop="20261017062500 -0500" channel="espn5.ec">
     <title>Watford vs. Charlton Athletic Fútbol EFL Championship</title>
   </programme>
-  <programme start="20261017082500 -0500" stop="20261017085500 -0500" channel="espn5.ec">
+  <programme start="20261017062500 -0500" stop="20261017065500 -0500" channel="espn5.ec">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261017085500 -0500" stop="20261017095300 -0500" channel="espn5.ec">
+  <programme start="20261017065500 -0500" stop="20261017075300 -0500" channel="espn5.ec">
     <title>ESPN Knockout</title>
   </programme>
-  <programme start="20261017095300 -0500" stop="20261017105100 -0500" channel="espn5.ec">
+  <programme start="20261017075300 -0500" stop="20261017085100 -0500" channel="espn5.ec">
     <title>El Show de la F1</title>
   </programme>
-  <programme start="20261017105100 -0500" stop="20261017125000 -0500" channel="espn5.ec">
+  <programme start="20261017085100 -0500" stop="20261017105000 -0500" channel="espn5.ec">
     <title>Baloncesto NBA</title>
   </programme>
-  <programme start="20261017125000 -0500" stop="20261017150000 -0500" channel="espn5.ec">
+  <programme start="20261017105000 -0500" stop="20261017130000 -0500" channel="espn5.ec">
     <title>Fútbol Eredivisie</title>
   </programme>
-  <programme start="20261017150000 -0500" stop="20261017151500 -0500" channel="espn5.ec">
+  <programme start="20261017130000 -0500" stop="20261017131500 -0500" channel="espn5.ec">
     <title>Futbol Internacional</title>
   </programme>
-  <programme start="20261017151500 -0500" stop="20261017172500 -0500" channel="espn5.ec">
+  <programme start="20261017131500 -0500" stop="20261017152500 -0500" channel="espn5.ec">
     <title>Fútbol argentino Primera División</title>
   </programme>
-  <programme start="20261017172500 -0500" stop="20261017175600 -0500" channel="espn5.ec">
+  <programme start="20261017152500 -0500" stop="20261017155600 -0500" channel="espn5.ec">
     <title>El Show de la Copa Libertadores</title>
   </programme>
-  <programme start="20261017175600 -0500" stop="20261017185700 -0500" channel="espn5.ec">
+  <programme start="20261017155600 -0500" stop="20261017165700 -0500" channel="espn5.ec">
     <title>ESPN Knockout</title>
   </programme>
-  <programme start="20261017185700 -0500" stop="20261017195800 -0500" channel="espn5.ec">
+  <programme start="20261017165700 -0500" stop="20261017175800 -0500" channel="espn5.ec">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261017195800 -0500" stop="20261017205900 -0500" channel="espn5.ec">
+  <programme start="20261017175800 -0500" stop="20261017185900 -0500" channel="espn5.ec">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261017205900 -0500" stop="20261017213000 -0500" channel="espn5.ec">
+  <programme start="20261017185900 -0500" stop="20261017193000 -0500" channel="espn5.ec">
     <title>El Show de la Copa Libertadores</title>
   </programme>
-  <programme start="20261017213000 -0500" stop="20261017220000 -0500" channel="espn5.ec">
+  <programme start="20261017193000 -0500" stop="20261017200000 -0500" channel="espn5.ec">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261017220000 -0500" stop="20261018000000 -0500" channel="espn5.ec">
+  <programme start="20261017200000 -0500" stop="20261017220000 -0500" channel="espn5.ec">
     <title>Watford vs. Charlton Athletic Fútbol EFL Championship</title>
+  </programme>
+  <programme start="20261017220000 -0500" stop="20261018000000 -0500" channel="espn5.ec">
+    <title>Bayern de Múnich vs. RB Leipzig Fútbol: Bundesliga</title>
   </programme>
   <channel id="espn6.ec">
     <display-name>ESPN 6</display-name>
   </channel>
   <programme start="20261017000000 -0500" stop="20261017010000 -0500" channel="espn6.ec">
-    <title>UEFA Champions League Highlights</title>
-  </programme>
-  <programme start="20261017010000 -0500" stop="20261017020000 -0500" channel="espn6.ec">
-    <title>UEFA Champions League Highlights</title>
-  </programme>
-  <programme start="20261017020000 -0500" stop="20261017030000 -0500" channel="espn6.ec">
     <title>ESPN Knockout</title>
   </programme>
-  <programme start="20261017030000 -0500" stop="20261017033000 -0500" channel="espn6.ec">
+  <programme start="20261017010000 -0500" stop="20261017013000 -0500" channel="espn6.ec">
     <title>Aguas Arriba</title>
   </programme>
-  <programme start="20261017033000 -0500" stop="20261017043000 -0500" channel="espn6.ec">
+  <programme start="20261017013000 -0500" stop="20261017023000 -0500" channel="espn6.ec">
     <title>Goles de la Eredivisie</title>
   </programme>
-  <programme start="20261017043000 -0500" stop="20261017050000 -0500" channel="espn6.ec">
+  <programme start="20261017023000 -0500" stop="20261017030000 -0500" channel="espn6.ec">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261017050000 -0500" stop="20261017070000 -0500" channel="espn6.ec">
+  <programme start="20261017030000 -0500" stop="20261017050000 -0500" channel="espn6.ec">
     <title>Atlético de Madrid vs. Manchester United Fútbol UEFA Champions League</title>
   </programme>
-  <programme start="20261017070000 -0500" stop="20261017080000 -0500" channel="espn6.ec">
+  <programme start="20261017050000 -0500" stop="20261017060000 -0500" channel="espn6.ec">
     <title>UEFA Champions League Highlights</title>
   </programme>
-  <programme start="20261017080000 -0500" stop="20261017090000 -0500" channel="espn6.ec">
+  <programme start="20261017060000 -0500" stop="20261017070000 -0500" channel="espn6.ec">
     <title>UEFA Champions League Highlights</title>
   </programme>
-  <programme start="20261017090000 -0500" stop="20261017110000 -0500" channel="espn6.ec">
+  <programme start="20261017070000 -0500" stop="20261017090000 -0500" channel="espn6.ec">
     <title>Burnley vs. Wolverhampton Wanderers Fútbol EFL Championship</title>
   </programme>
-  <programme start="20261017110000 -0500" stop="20261017120000 -0500" channel="espn6.ec">
+  <programme start="20261017090000 -0500" stop="20261017100000 -0500" channel="espn6.ec">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261017120000 -0500" stop="20261017140000 -0500" channel="espn6.ec">
+  <programme start="20261017100000 -0500" stop="20261017120000 -0500" channel="espn6.ec">
     <title>Manchester City vs. Paris Saint-Germain Fútbol UEFA Champions League</title>
   </programme>
-  <programme start="20261017140000 -0500" stop="20261017160000 -0500" channel="espn6.ec">
+  <programme start="20261017120000 -0500" stop="20261017140000 -0500" channel="espn6.ec">
     <title>Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261017160000 -0500" stop="20261017180000 -0500" channel="espn6.ec">
+  <programme start="20261017140000 -0500" stop="20261017160000 -0500" channel="espn6.ec">
     <title>Estudiantes de La Plata vs. Flamengo Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261017180000 -0500" stop="20261017190000 -0500" channel="espn6.ec">
+  <programme start="20261017160000 -0500" stop="20261017170000 -0500" channel="espn6.ec">
     <title>UEFA Champions League Highlights</title>
   </programme>
-  <programme start="20261017190000 -0500" stop="20261017200000 -0500" channel="espn6.ec">
+  <programme start="20261017170000 -0500" stop="20261017180000 -0500" channel="espn6.ec">
     <title>UEFA Champions League Highlights</title>
   </programme>
-  <programme start="20261017200000 -0500" stop="20261017220000 -0500" channel="espn6.ec">
+  <programme start="20261017180000 -0500" stop="20261017200000 -0500" channel="espn6.ec">
     <title>Watford vs. Charlton Athletic Fútbol EFL Championship</title>
+  </programme>
+  <programme start="20261017200000 -0500" stop="20261017210000 -0500" channel="espn6.ec">
+    <title>ESPN Compact</title>
+  </programme>
+  <programme start="20261017210000 -0500" stop="20261017220000 -0500" channel="espn6.ec">
+    <title>ESPN Compact</title>
   </programme>
   <programme start="20261017220000 -0500" stop="20261017230000 -0500" channel="espn6.ec">
     <title>ESPN Compact</title>
@@ -177,758 +177,749 @@
   <channel id="espn7.ec">
     <display-name>ESPN 7</display-name>
   </channel>
-  <programme start="20261017000000 -0500" stop="20261017020000 -0500" channel="espn7.ec">
-    <title>ESPN 7 Sur</title>
-  </programme>
-  <programme start="20261017020000 -0500" stop="20261017030000 -0500" channel="espn7.ec">
+  <programme start="20261017000000 -0500" stop="20261017010000 -0500" channel="espn7.ec">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261017030000 -0500" stop="20261017040000 -0500" channel="espn7.ec">
+  <programme start="20261017010000 -0500" stop="20261017020000 -0500" channel="espn7.ec">
     <title>UEFA Champions League Highlights</title>
   </programme>
-  <programme start="20261017040000 -0500" stop="20261017060000 -0500" channel="espn7.ec">
+  <programme start="20261017020000 -0500" stop="20261017040000 -0500" channel="espn7.ec">
     <title>ESPN 7 Sur</title>
   </programme>
-  <programme start="20261017060000 -0500" stop="20261017075000 -0500" channel="espn7.ec">
+  <programme start="20261017040000 -0500" stop="20261017055000 -0500" channel="espn7.ec">
     <title>Fútbol argentino Primera División</title>
   </programme>
-  <programme start="20261017075000 -0500" stop="20261017075500 -0500" channel="espn7.ec">
+  <programme start="20261017055000 -0500" stop="20261017055500 -0500" channel="espn7.ec">
     <title>Premier Padel Tennis</title>
   </programme>
-  <programme start="20261017075500 -0500" stop="20261017080000 -0500" channel="espn7.ec">
+  <programme start="20261017055500 -0500" stop="20261017060000 -0500" channel="espn7.ec">
     <title>ESPN Knockout</title>
   </programme>
-  <programme start="20261017080000 -0500" stop="20261017085500 -0500" channel="espn7.ec">
+  <programme start="20261017060000 -0500" stop="20261017065500 -0500" channel="espn7.ec">
     <title>ESPN 7 Sur</title>
   </programme>
-  <programme start="20261017085500 -0500" stop="20261017095500 -0500" channel="espn7.ec">
+  <programme start="20261017065500 -0500" stop="20261017075500 -0500" channel="espn7.ec">
     <title>Goles de la Eredivisie</title>
   </programme>
-  <programme start="20261017095500 -0500" stop="20261017105500 -0500" channel="espn7.ec">
+  <programme start="20261017075500 -0500" stop="20261017085500 -0500" channel="espn7.ec">
     <title>UEFA Europa League Highlights</title>
   </programme>
-  <programme start="20261017105500 -0500" stop="20261017120000 -0500" channel="espn7.ec">
+  <programme start="20261017085500 -0500" stop="20261017100000 -0500" channel="espn7.ec">
     <title>Fútbol Turco Superliga</title>
   </programme>
-  <programme start="20261017120000 -0500" stop="20261017131500 -0500" channel="espn7.ec">
+  <programme start="20261017100000 -0500" stop="20261017111500 -0500" channel="espn7.ec">
     <title>ESPN 7 Sur</title>
   </programme>
-  <programme start="20261017131500 -0500" stop="20261017133000 -0500" channel="espn7.ec">
+  <programme start="20261017111500 -0500" stop="20261017113000 -0500" channel="espn7.ec">
     <title>Futbol Internacional</title>
   </programme>
-  <programme start="20261017133000 -0500" stop="20261017140000 -0500" channel="espn7.ec">
+  <programme start="20261017113000 -0500" stop="20261017120000 -0500" channel="espn7.ec">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261017140000 -0500" stop="20261017150000 -0500" channel="espn7.ec">
+  <programme start="20261017120000 -0500" stop="20261017130000 -0500" channel="espn7.ec">
     <title>UEFA Champions League Highlights</title>
   </programme>
-  <programme start="20261017150000 -0500" stop="20261017160000 -0500" channel="espn7.ec">
+  <programme start="20261017130000 -0500" stop="20261017140000 -0500" channel="espn7.ec">
     <title>UEFA Champions League Highlights</title>
+  </programme>
+  <programme start="20261017140000 -0500" stop="20261017160000 -0500" channel="espn7.ec">
+    <title>ESPN 7 Sur</title>
   </programme>
   <programme start="20261017160000 -0500" stop="20261017180000 -0500" channel="espn7.ec">
-    <title>ESPN 7 Sur</title>
-  </programme>
-  <programme start="20261017180000 -0500" stop="20261017200000 -0500" channel="espn7.ec">
     <title>Fútbol Americano Universitario</title>
   </programme>
-  <programme start="20261017200000 -0500" stop="20261017210000 -0500" channel="espn7.ec">
+  <programme start="20261017180000 -0500" stop="20261017190000 -0500" channel="espn7.ec">
     <title>ESPN 7 Sur</title>
+  </programme>
+  <programme start="20261017190000 -0500" stop="20261017200000 -0500" channel="espn7.ec">
+    <title>ESPN Compact</title>
+  </programme>
+  <programme start="20261017200000 -0500" stop="20261017210000 -0500" channel="espn7.ec">
+    <title>ESPN Compact</title>
   </programme>
   <programme start="20261017210000 -0500" stop="20261017220000 -0500" channel="espn7.ec">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261017220000 -0500" stop="20261017230000 -0500" channel="espn7.ec">
-    <title>ESPN Compact</title>
-  </programme>
-  <programme start="20261017230000 -0500" stop="20261018000000 -0500" channel="espn7.ec">
-    <title>ESPN Compact</title>
+  <programme start="20261017220000 -0500" stop="20261018000000 -0500" channel="espn7.ec">
+    <title>ESPN 7 Sur</title>
   </programme>
   <channel id="espn.premium">
     <display-name>ESPN Premium</display-name>
   </channel>
-  <programme start="20261017000000 -0500" stop="20261017020000 -0500" channel="espn.premium">
-    <title>Eintracht Frankfurt vs. Colonia Fútbol: Bundesliga</title>
-  </programme>
-  <programme start="20261017020000 -0500" stop="20261017030000 -0500" channel="espn.premium">
+  <programme start="20261017000000 -0500" stop="20261017010000 -0500" channel="espn.premium">
     <title>UEFA Champions League Highlights</title>
   </programme>
-  <programme start="20261017030000 -0500" stop="20261017040000 -0500" channel="espn.premium">
+  <programme start="20261017010000 -0500" stop="20261017020000 -0500" channel="espn.premium">
     <title>UEFA Champions League Highlights</title>
   </programme>
-  <programme start="20261017040000 -0500" stop="20261017090000 -0500" channel="espn.premium">
+  <programme start="20261017020000 -0500" stop="20261017070000 -0500" channel="espn.premium">
     <title>Fútbol argentino Primera División</title>
   </programme>
-  <programme start="20261017090000 -0500" stop="20261017103000 -0500" channel="espn.premium">
+  <programme start="20261017070000 -0500" stop="20261017083000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261017103000 -0500" stop="20261017110000 -0500" channel="espn.premium">
+  <programme start="20261017083000 -0500" stop="20261017090000 -0500" channel="espn.premium">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261017110000 -0500" stop="20261017111500 -0500" channel="espn.premium">
+  <programme start="20261017090000 -0500" stop="20261017091500 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261017111500 -0500" stop="20261017133000 -0500" channel="espn.premium">
+  <programme start="20261017091500 -0500" stop="20261017113000 -0500" channel="espn.premium">
     <title>Bayern de Múnich vs. RB Leipzig Fútbol: Bundesliga</title>
   </programme>
-  <programme start="20261017133000 -0500" stop="20261017170000 -0500" channel="espn.premium">
+  <programme start="20261017113000 -0500" stop="20261017150000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261017170000 -0500" stop="20261017183000 -0500" channel="espn.premium">
+  <programme start="20261017150000 -0500" stop="20261017163000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261017183000 -0500" stop="20261017190000 -0500" channel="espn.premium">
+  <programme start="20261017163000 -0500" stop="20261017170000 -0500" channel="espn.premium">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261017190000 -0500" stop="20261017210000 -0500" channel="espn.premium">
+  <programme start="20261017170000 -0500" stop="20261017190000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261017210000 -0500" stop="20261018010000 -0500" channel="espn.premium">
+  <programme start="20261017190000 -0500" stop="20261017230000 -0500" channel="espn.premium">
+    <title>ESPN Premium Chile</title>
+  </programme>
+  <programme start="20261017230000 -0500" stop="20261018030000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
   <channel id="cartoonito.ec">
     <display-name>Cartoonito</display-name>
   </channel>
-  <programme start="20261016235800 -0500" stop="20261017000500 -0500" channel="cartoonito.ec">
-    <title>Cuquin Ladrones</title>
-  </programme>
-  <programme start="20261017000500 -0500" stop="20261017001000 -0500" channel="cartoonito.ec">
-    <title>Numberblocks Space Repair</title>
-  </programme>
-  <programme start="20261017001000 -0500" stop="20261017001500 -0500" channel="cartoonito.ec">
-    <title>Numberblocks Octonaughty and the Fractionator</title>
-  </programme>
-  <programme start="20261017001500 -0500" stop="20261017002000 -0500" channel="cartoonito.ec">
-    <title>Numberblocks One's Fix-It Shop</title>
-  </programme>
-  <programme start="20261017002000 -0500" stop="20261017002500 -0500" channel="cartoonito.ec">
-    <title>Numberblocks Five's Fruit Festival</title>
-  </programme>
-  <programme start="20261017002500 -0500" stop="20261017003100 -0500" channel="cartoonito.ec">
-    <title>Numberblocks The Third Button</title>
-  </programme>
-  <programme start="20261017003100 -0500" stop="20261017003600 -0500" channel="cartoonito.ec">
-    <title>Numberblocks Double Doors, Double Locked</title>
-  </programme>
-  <programme start="20261017003600 -0500" stop="20261017004300 -0500" channel="cartoonito.ec">
-    <title>Booba Pizza</title>
-  </programme>
-  <programme start="20261017004300 -0500" stop="20261017005000 -0500" channel="cartoonito.ec">
-    <title>Booba The Ghostly Joker</title>
-  </programme>
-  <programme start="20261017005000 -0500" stop="20261017005700 -0500" channel="cartoonito.ec">
-    <title>Booba The Golden Egg</title>
-  </programme>
-  <programme start="20261017005700 -0500" stop="20261017010400 -0500" channel="cartoonito.ec">
-    <title>Booba Wheel of fortune</title>
-  </programme>
-  <programme start="20261017010400 -0500" stop="20261017011100 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita ¡Imagínate! ¿De dónde viene la lluvia?</title>
-  </programme>
-  <programme start="20261017011100 -0500" stop="20261017011800 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita ¡Imagínate! Cuida de esa boca</title>
-  </programme>
-  <programme start="20261017011800 -0500" stop="20261017012100 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita TV Shorts Nem tudo que sobra é lixo</title>
-  </programme>
-  <programme start="20261017012100 -0500" stop="20261017012400 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita TV Shorts Smiling and Laughing</title>
-  </programme>
-  <programme start="20261017012400 -0500" stop="20261017012700 -0500" channel="cartoonito.ec">
-    <title>Mundo Bita TV Shorts A flora</title>
-  </programme>
-  <programme start="20261017012700 -0500" stop="20261017013800 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra Robo-Runner</title>
-  </programme>
-  <programme start="20261017013800 -0500" stop="20261017014200 -0500" channel="cartoonito.ec">
-    <title>Bugs Bunny y sus amigos a la obra Hora de trabajar Haunted Garage</title>
-  </programme>
-  <programme start="20261017014200 -0500" stop="20261017015400 -0500" channel="cartoonito.ec">
-    <title>Bugs y sus amigos a la obra Miss Prissy's Market</title>
-  </programme>
-  <programme start="20261017015400 -0500" stop="20261017020500 -0500" channel="cartoonito.ec">
+  <programme start="20261016235400 -0500" stop="20261017000500 -0500" channel="cartoonito.ec">
     <title>Batwheels Ace in the Hole</title>
   </programme>
-  <programme start="20261017020500 -0500" stop="20261017021700 -0500" channel="cartoonito.ec">
+  <programme start="20261017000500 -0500" stop="20261017001700 -0500" channel="cartoonito.ec">
     <title>Batwheels Redbird-O-Flage</title>
   </programme>
-  <programme start="20261017021700 -0500" stop="20261017022900 -0500" channel="cartoonito.ec">
+  <programme start="20261017001700 -0500" stop="20261017002900 -0500" channel="cartoonito.ec">
     <title>Batwheels Batty Race</title>
   </programme>
-  <programme start="20261017022900 -0500" stop="20261017024000 -0500" channel="cartoonito.ec">
+  <programme start="20261017002900 -0500" stop="20261017004000 -0500" channel="cartoonito.ec">
     <title>Batwheels You Talkin' to Me?</title>
   </programme>
-  <programme start="20261017024000 -0500" stop="20261017025100 -0500" channel="cartoonito.ec">
+  <programme start="20261017004000 -0500" stop="20261017005100 -0500" channel="cartoonito.ec">
     <title>Batwheels The Dark Night</title>
   </programme>
-  <programme start="20261017025100 -0500" stop="20261017030300 -0500" channel="cartoonito.ec">
+  <programme start="20261017005100 -0500" stop="20261017010300 -0500" channel="cartoonito.ec">
     <title>Batwheels Wheel Side Story</title>
   </programme>
-  <programme start="20261017030300 -0500" stop="20261017031000 -0500" channel="cartoonito.ec">
+  <programme start="20261017010300 -0500" stop="20261017011000 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Diabolical Labyrinth</title>
   </programme>
-  <programme start="20261017031000 -0500" stop="20261017031700 -0500" channel="cartoonito.ec">
+  <programme start="20261017011000 -0500" stop="20261017011700 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Choco-Noodles</title>
   </programme>
-  <programme start="20261017031700 -0500" stop="20261017032400 -0500" channel="cartoonito.ec">
+  <programme start="20261017011700 -0500" stop="20261017012400 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Illuminated Lemmings</title>
   </programme>
-  <programme start="20261017032400 -0500" stop="20261017033100 -0500" channel="cartoonito.ec">
+  <programme start="20261017012400 -0500" stop="20261017013100 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Iced Grizzy</title>
   </programme>
-  <programme start="20261017033100 -0500" stop="20261017033900 -0500" channel="cartoonito.ec">
+  <programme start="20261017013100 -0500" stop="20261017013900 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Keyring Cabin</title>
   </programme>
-  <programme start="20261017033900 -0500" stop="20261017034600 -0500" channel="cartoonito.ec">
+  <programme start="20261017013900 -0500" stop="20261017014600 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Yeti Cabin</title>
   </programme>
-  <programme start="20261017034600 -0500" stop="20261017035300 -0500" channel="cartoonito.ec">
+  <programme start="20261017014600 -0500" stop="20261017015300 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Sound and Light</title>
   </programme>
-  <programme start="20261017035300 -0500" stop="20261017040000 -0500" channel="cartoonito.ec">
+  <programme start="20261017015300 -0500" stop="20261017020000 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Cocoa Tree Spread</title>
   </programme>
-  <programme start="20261017040000 -0500" stop="20261017040700 -0500" channel="cartoonito.ec">
+  <programme start="20261017020000 -0500" stop="20261017020700 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Ready, Set, Bam!</title>
   </programme>
-  <programme start="20261017040700 -0500" stop="20261017041500 -0500" channel="cartoonito.ec">
+  <programme start="20261017020700 -0500" stop="20261017021500 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Goodbye Rain Boots</title>
   </programme>
-  <programme start="20261017041500 -0500" stop="20261017042300 -0500" channel="cartoonito.ec">
+  <programme start="20261017021500 -0500" stop="20261017022300 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Grow Lines</title>
   </programme>
-  <programme start="20261017042300 -0500" stop="20261017043200 -0500" channel="cartoonito.ec">
+  <programme start="20261017022300 -0500" stop="20261017023200 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Boat Trip</title>
   </programme>
-  <programme start="20261017043200 -0500" stop="20261017043900 -0500" channel="cartoonito.ec">
+  <programme start="20261017023200 -0500" stop="20261017023900 -0500" channel="cartoonito.ec">
     <title>Pocoyó Pocoyo Recycles</title>
   </programme>
-  <programme start="20261017043900 -0500" stop="20261017044600 -0500" channel="cartoonito.ec">
+  <programme start="20261017023900 -0500" stop="20261017024600 -0500" channel="cartoonito.ec">
     <title>Pocoyó Juegos de invierno</title>
   </programme>
-  <programme start="20261017044600 -0500" stop="20261017045000 -0500" channel="cartoonito.ec">
+  <programme start="20261017024600 -0500" stop="20261017025000 -0500" channel="cartoonito.ec">
     <title>Bugs Bunny y sus amigos a la obra Hora de trabajar Hide N' Seek</title>
   </programme>
-  <programme start="20261017045000 -0500" stop="20261017045700 -0500" channel="cartoonito.ec">
+  <programme start="20261017025000 -0500" stop="20261017025700 -0500" channel="cartoonito.ec">
     <title>Pocoyó Insert Coin</title>
   </programme>
-  <programme start="20261017045700 -0500" stop="20261017050500 -0500" channel="cartoonito.ec">
+  <programme start="20261017025700 -0500" stop="20261017030500 -0500" channel="cartoonito.ec">
     <title>Pocoyó Sígueme el ritmo</title>
   </programme>
-  <programme start="20261017050500 -0500" stop="20261017052900 -0500" channel="cartoonito.ec">
+  <programme start="20261017030500 -0500" stop="20261017032900 -0500" channel="cartoonito.ec">
     <title>La casa de muñecas de Gabby El robot de artes</title>
   </programme>
-  <programme start="20261017052900 -0500" stop="20261017053600 -0500" channel="cartoonito.ec">
+  <programme start="20261017032900 -0500" stop="20261017033600 -0500" channel="cartoonito.ec">
     <title>Mundo Bita ¡Imagínate! Todo mundo es diferente</title>
   </programme>
-  <programme start="20261017053600 -0500" stop="20261017054300 -0500" channel="cartoonito.ec">
+  <programme start="20261017033600 -0500" stop="20261017034300 -0500" channel="cartoonito.ec">
     <title>Mundo Bita ¡Imagínate! Adiós, querido chupón</title>
   </programme>
-  <programme start="20261017054300 -0500" stop="20261017055500 -0500" channel="cartoonito.ec">
+  <programme start="20261017034300 -0500" stop="20261017035500 -0500" channel="cartoonito.ec">
     <title>Creciendo con la Gallina Pintadita Save the Kitten</title>
   </programme>
-  <programme start="20261017055500 -0500" stop="20261017060000 -0500" channel="cartoonito.ec">
+  <programme start="20261017035500 -0500" stop="20261017040000 -0500" channel="cartoonito.ec">
     <title>Bugs Bunny y sus amigos a la obra Hora de trabajar Haunted Garage</title>
   </programme>
-  <programme start="20261017060000 -0500" stop="20261017060300 -0500" channel="cartoonito.ec">
+  <programme start="20261017040000 -0500" stop="20261017040300 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Ice Cream Thief</title>
   </programme>
-  <programme start="20261017060300 -0500" stop="20261017060700 -0500" channel="cartoonito.ec">
+  <programme start="20261017040300 -0500" stop="20261017040700 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Magic House</title>
   </programme>
-  <programme start="20261017060700 -0500" stop="20261017061000 -0500" channel="cartoonito.ec">
+  <programme start="20261017040700 -0500" stop="20261017041000 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Morphle Is Mila</title>
   </programme>
-  <programme start="20261017061000 -0500" stop="20261017061400 -0500" channel="cartoonito.ec">
+  <programme start="20261017041000 -0500" stop="20261017041400 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Magic Mirror</title>
   </programme>
-  <programme start="20261017061400 -0500" stop="20261017061800 -0500" channel="cartoonito.ec">
+  <programme start="20261017041400 -0500" stop="20261017041800 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Remote Control Mayhem</title>
   </programme>
-  <programme start="20261017061800 -0500" stop="20261017062100 -0500" channel="cartoonito.ec">
+  <programme start="20261017041800 -0500" stop="20261017042100 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Dinosaur Hide &amp; Seek</title>
   </programme>
-  <programme start="20261017062100 -0500" stop="20261017062500 -0500" channel="cartoonito.ec">
+  <programme start="20261017042100 -0500" stop="20261017042500 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Morphle Family Hide and Seek</title>
   </programme>
-  <programme start="20261017062500 -0500" stop="20261017062800 -0500" channel="cartoonito.ec">
+  <programme start="20261017042500 -0500" stop="20261017042800 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Morphle The Ghost</title>
   </programme>
-  <programme start="20261017062800 -0500" stop="20261017063300 -0500" channel="cartoonito.ec">
+  <programme start="20261017042800 -0500" stop="20261017043300 -0500" channel="cartoonito.ec">
     <title>Numberblocks The All-Knowing Nine</title>
   </programme>
-  <programme start="20261017063300 -0500" stop="20261017063800 -0500" channel="cartoonito.ec">
+  <programme start="20261017043300 -0500" stop="20261017043800 -0500" channel="cartoonito.ec">
     <title>Numberblocks Back in the Box!</title>
   </programme>
-  <programme start="20261017063800 -0500" stop="20261017064500 -0500" channel="cartoonito.ec">
+  <programme start="20261017043800 -0500" stop="20261017044500 -0500" channel="cartoonito.ec">
     <title>Numberblocks How Many Smoothies?</title>
   </programme>
-  <programme start="20261017064500 -0500" stop="20261017065000 -0500" channel="cartoonito.ec">
+  <programme start="20261017044500 -0500" stop="20261017045000 -0500" channel="cartoonito.ec">
     <title>Numberblocks You're Five Ones and I'm Five Tens</title>
   </programme>
-  <programme start="20261017065000 -0500" stop="20261017065500 -0500" channel="cartoonito.ec">
+  <programme start="20261017045000 -0500" stop="20261017045500 -0500" channel="cartoonito.ec">
     <title>Numberblocks The Third Button</title>
   </programme>
-  <programme start="20261017065500 -0500" stop="20261017070000 -0500" channel="cartoonito.ec">
+  <programme start="20261017045500 -0500" stop="20261017050000 -0500" channel="cartoonito.ec">
     <title>Numberblocks Odd Block Club</title>
   </programme>
-  <programme start="20261017070000 -0500" stop="20261017070700 -0500" channel="cartoonito.ec">
+  <programme start="20261017050000 -0500" stop="20261017050700 -0500" channel="cartoonito.ec">
     <title>La araña Lucas Adiós, compañero</title>
   </programme>
-  <programme start="20261017070700 -0500" stop="20261017071500 -0500" channel="cartoonito.ec">
+  <programme start="20261017050700 -0500" stop="20261017051500 -0500" channel="cartoonito.ec">
     <title>La araña Lucas El castillo bota</title>
   </programme>
-  <programme start="20261017071500 -0500" stop="20261017072300 -0500" channel="cartoonito.ec">
+  <programme start="20261017051500 -0500" stop="20261017052300 -0500" channel="cartoonito.ec">
     <title>La araña Lucas ¡Quiero a mi bebé bellota de regreso!</title>
   </programme>
-  <programme start="20261017072300 -0500" stop="20261017073000 -0500" channel="cartoonito.ec">
+  <programme start="20261017052300 -0500" stop="20261017053000 -0500" channel="cartoonito.ec">
     <title>La araña Lucas La necesidad por semillas</title>
   </programme>
-  <programme start="20261017073000 -0500" stop="20261017073600 -0500" channel="cartoonito.ec">
+  <programme start="20261017053000 -0500" stop="20261017053600 -0500" channel="cartoonito.ec">
     <title>Cuquin Balloons</title>
   </programme>
-  <programme start="20261017073600 -0500" stop="20261017074400 -0500" channel="cartoonito.ec">
+  <programme start="20261017053600 -0500" stop="20261017054400 -0500" channel="cartoonito.ec">
     <title>Cuquin Lupa</title>
   </programme>
-  <programme start="20261017074400 -0500" stop="20261017075000 -0500" channel="cartoonito.ec">
+  <programme start="20261017054400 -0500" stop="20261017055000 -0500" channel="cartoonito.ec">
     <title>Cuquin Regalo</title>
   </programme>
-  <programme start="20261017075000 -0500" stop="20261017075600 -0500" channel="cartoonito.ec">
+  <programme start="20261017055000 -0500" stop="20261017055600 -0500" channel="cartoonito.ec">
     <title>Cuquin Videojuego</title>
   </programme>
-  <programme start="20261017075600 -0500" stop="20261017080300 -0500" channel="cartoonito.ec">
+  <programme start="20261017055600 -0500" stop="20261017060300 -0500" channel="cartoonito.ec">
     <title>Cuquin Farm</title>
   </programme>
-  <programme start="20261017080300 -0500" stop="20261017082600 -0500" channel="cartoonito.ec">
+  <programme start="20261017060300 -0500" stop="20261017062600 -0500" channel="cartoonito.ec">
     <title>La casa de muñecas de Gabby The Magical Mermaid-Lantis</title>
   </programme>
-  <programme start="20261017082600 -0500" stop="20261017082900 -0500" channel="cartoonito.ec">
+  <programme start="20261017062600 -0500" stop="20261017062900 -0500" channel="cartoonito.ec">
     <title>Bugs Bunny y sus amigos a la obra Hora de trabajar Car Wash</title>
   </programme>
-  <programme start="20261017082900 -0500" stop="20261017085300 -0500" channel="cartoonito.ec">
+  <programme start="20261017062900 -0500" stop="20261017065300 -0500" channel="cartoonito.ec">
     <title>La casa de muñecas de Gabby Catrat's Kittyfish</title>
   </programme>
-  <programme start="20261017085300 -0500" stop="20261017100500 -0500" channel="cartoonito.ec">
+  <programme start="20261017065300 -0500" stop="20261017080500 -0500" channel="cartoonito.ec">
     <title>Tom y Jerry en una aventura con Jonny Quest</title>
   </programme>
-  <programme start="20261017100500 -0500" stop="20261017101300 -0500" channel="cartoonito.ec">
+  <programme start="20261017080500 -0500" stop="20261017081300 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Margo Mayfly</title>
   </programme>
-  <programme start="20261017101300 -0500" stop="20261017102200 -0500" channel="cartoonito.ec">
+  <programme start="20261017081300 -0500" stop="20261017082200 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Toy Hospital</title>
   </programme>
-  <programme start="20261017102200 -0500" stop="20261017103000 -0500" channel="cartoonito.ec">
+  <programme start="20261017082200 -0500" stop="20261017083000 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Rocky Day</title>
   </programme>
-  <programme start="20261017103000 -0500" stop="20261017103900 -0500" channel="cartoonito.ec">
+  <programme start="20261017083000 -0500" stop="20261017083900 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos The Big Laugh</title>
   </programme>
-  <programme start="20261017103900 -0500" stop="20261017104700 -0500" channel="cartoonito.ec">
+  <programme start="20261017083900 -0500" stop="20261017084700 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Scary Tara</title>
   </programme>
-  <programme start="20261017104700 -0500" stop="20261017105500 -0500" channel="cartoonito.ec">
+  <programme start="20261017084700 -0500" stop="20261017085500 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Find the Blueberries</title>
   </programme>
-  <programme start="20261017105500 -0500" stop="20261017110300 -0500" channel="cartoonito.ec">
+  <programme start="20261017085500 -0500" stop="20261017090300 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Green-Eyed Birthday Monster</title>
   </programme>
-  <programme start="20261017110300 -0500" stop="20261017111000 -0500" channel="cartoonito.ec">
+  <programme start="20261017090300 -0500" stop="20261017091000 -0500" channel="cartoonito.ec">
     <title>La araña Lucas Las moscas no bailan</title>
   </programme>
-  <programme start="20261017111000 -0500" stop="20261017111900 -0500" channel="cartoonito.ec">
+  <programme start="20261017091000 -0500" stop="20261017091900 -0500" channel="cartoonito.ec">
     <title>La araña Lucas ¡Parpadeaste!</title>
   </programme>
-  <programme start="20261017111900 -0500" stop="20261017112600 -0500" channel="cartoonito.ec">
+  <programme start="20261017091900 -0500" stop="20261017092600 -0500" channel="cartoonito.ec">
     <title>La araña Lucas Reparando el árbol</title>
   </programme>
-  <programme start="20261017112600 -0500" stop="20261017113400 -0500" channel="cartoonito.ec">
+  <programme start="20261017092600 -0500" stop="20261017093400 -0500" channel="cartoonito.ec">
     <title>La araña Lucas Esperando a Maizie</title>
   </programme>
-  <programme start="20261017113400 -0500" stop="20261017114100 -0500" channel="cartoonito.ec">
+  <programme start="20261017093400 -0500" stop="20261017094100 -0500" channel="cartoonito.ec">
     <title>Mundo Bita ¡Imagínate! Cuando pinta la armonía</title>
   </programme>
-  <programme start="20261017114100 -0500" stop="20261017114900 -0500" channel="cartoonito.ec">
+  <programme start="20261017094100 -0500" stop="20261017094900 -0500" channel="cartoonito.ec">
     <title>Mundo Bita ¡Imagínate! Pedir perdón</title>
   </programme>
-  <programme start="20261017114900 -0500" stop="20261017115600 -0500" channel="cartoonito.ec">
+  <programme start="20261017094900 -0500" stop="20261017095600 -0500" channel="cartoonito.ec">
     <title>Mundo Bita ¡Imagínate! El tiempo de las cosas</title>
   </programme>
-  <programme start="20261017115600 -0500" stop="20261017120300 -0500" channel="cartoonito.ec">
+  <programme start="20261017095600 -0500" stop="20261017100300 -0500" channel="cartoonito.ec">
     <title>Mundo Bita ¡Imagínate! Todo mundo es diferente</title>
   </programme>
-  <programme start="20261017120300 -0500" stop="20261017121500 -0500" channel="cartoonito.ec">
+  <programme start="20261017100300 -0500" stop="20261017101500 -0500" channel="cartoonito.ec">
     <title>Creciendo con la Gallina Pintadita I Didn't Mean To</title>
   </programme>
-  <programme start="20261017121500 -0500" stop="20261017121800 -0500" channel="cartoonito.ec">
+  <programme start="20261017101500 -0500" stop="20261017101800 -0500" channel="cartoonito.ec">
     <title>Mundo Bita TV Shorts Quanto cabelo que há</title>
   </programme>
-  <programme start="20261017121800 -0500" stop="20261017122100 -0500" channel="cartoonito.ec">
+  <programme start="20261017101800 -0500" stop="20261017102100 -0500" channel="cartoonito.ec">
     <title>Mundo Bita TV Shorts O sol já vem</title>
   </programme>
-  <programme start="20261017122100 -0500" stop="20261017122500 -0500" channel="cartoonito.ec">
+  <programme start="20261017102100 -0500" stop="20261017102500 -0500" channel="cartoonito.ec">
     <title>Mundo Bita TV Shorts Along the Way</title>
   </programme>
-  <programme start="20261017122500 -0500" stop="20261017123200 -0500" channel="cartoonito.ec">
+  <programme start="20261017102500 -0500" stop="20261017103200 -0500" channel="cartoonito.ec">
     <title>Pocoyó La casita de Pocoyo</title>
   </programme>
-  <programme start="20261017123200 -0500" stop="20261017123900 -0500" channel="cartoonito.ec">
+  <programme start="20261017103200 -0500" stop="20261017103900 -0500" channel="cartoonito.ec">
     <title>Pocoyó La cámara de Pocoyó</title>
   </programme>
-  <programme start="20261017123900 -0500" stop="20261017124600 -0500" channel="cartoonito.ec">
+  <programme start="20261017103900 -0500" stop="20261017104600 -0500" channel="cartoonito.ec">
     <title>Pocoyó Robot Pocoyo</title>
   </programme>
-  <programme start="20261017124600 -0500" stop="20261017125400 -0500" channel="cartoonito.ec">
+  <programme start="20261017104600 -0500" stop="20261017105400 -0500" channel="cartoonito.ec">
     <title>Pocoyó Classic Pocoyo</title>
   </programme>
-  <programme start="20261017125400 -0500" stop="20261017130200 -0500" channel="cartoonito.ec">
+  <programme start="20261017105400 -0500" stop="20261017110200 -0500" channel="cartoonito.ec">
     <title>Pocoyó Pocoyo's Restaurant</title>
   </programme>
-  <programme start="20261017130200 -0500" stop="20261017130900 -0500" channel="cartoonito.ec">
+  <programme start="20261017110200 -0500" stop="20261017110900 -0500" channel="cartoonito.ec">
     <title>Pocoyó Sticky Giggles</title>
   </programme>
-  <programme start="20261017130900 -0500" stop="20261017131600 -0500" channel="cartoonito.ec">
+  <programme start="20261017110900 -0500" stop="20261017111600 -0500" channel="cartoonito.ec">
     <title>Pocoyó Space Mission</title>
   </programme>
-  <programme start="20261017131600 -0500" stop="20261017132300 -0500" channel="cartoonito.ec">
+  <programme start="20261017111600 -0500" stop="20261017112300 -0500" channel="cartoonito.ec">
     <title>Pocoyó Vinyl Love - Part 1</title>
   </programme>
-  <programme start="20261017132300 -0500" stop="20261017133100 -0500" channel="cartoonito.ec">
+  <programme start="20261017112300 -0500" stop="20261017113100 -0500" channel="cartoonito.ec">
     <title>Pocoyó Vinyl Love - Part 2</title>
   </programme>
-  <programme start="20261017133100 -0500" stop="20261017134200 -0500" channel="cartoonito.ec">
+  <programme start="20261017113100 -0500" stop="20261017114200 -0500" channel="cartoonito.ec">
     <title>Hey Fuzzy Yellow</title>
   </programme>
-  <programme start="20261017134200 -0500" stop="20261017135400 -0500" channel="cartoonito.ec">
+  <programme start="20261017114200 -0500" stop="20261017115400 -0500" channel="cartoonito.ec">
     <title>Hey Fuzzy Yellow</title>
   </programme>
-  <programme start="20261017135400 -0500" stop="20261017140500 -0500" channel="cartoonito.ec">
+  <programme start="20261017115400 -0500" stop="20261017120500 -0500" channel="cartoonito.ec">
     <title>Hey Fuzzy Yellow</title>
   </programme>
-  <programme start="20261017140500 -0500" stop="20261017141600 -0500" channel="cartoonito.ec">
+  <programme start="20261017120500 -0500" stop="20261017121600 -0500" channel="cartoonito.ec">
     <title>Hey Fuzzy Yellow</title>
   </programme>
-  <programme start="20261017141600 -0500" stop="20261017142700 -0500" channel="cartoonito.ec">
+  <programme start="20261017121600 -0500" stop="20261017122700 -0500" channel="cartoonito.ec">
     <title>Hey Fuzzy Yellow</title>
   </programme>
-  <programme start="20261017142700 -0500" stop="20261017143400 -0500" channel="cartoonito.ec">
+  <programme start="20261017122700 -0500" stop="20261017123400 -0500" channel="cartoonito.ec">
     <title>Booba The Great Swap</title>
   </programme>
-  <programme start="20261017143400 -0500" stop="20261017144100 -0500" channel="cartoonito.ec">
+  <programme start="20261017123400 -0500" stop="20261017124100 -0500" channel="cartoonito.ec">
     <title>Booba The Elf</title>
   </programme>
-  <programme start="20261017144100 -0500" stop="20261017144900 -0500" channel="cartoonito.ec">
+  <programme start="20261017124100 -0500" stop="20261017124900 -0500" channel="cartoonito.ec">
     <title>Booba Climbing Games</title>
   </programme>
-  <programme start="20261017144900 -0500" stop="20261017145600 -0500" channel="cartoonito.ec">
+  <programme start="20261017124900 -0500" stop="20261017125600 -0500" channel="cartoonito.ec">
     <title>Booba Round Worlds</title>
   </programme>
-  <programme start="20261017145600 -0500" stop="20261017150300 -0500" channel="cartoonito.ec">
+  <programme start="20261017125600 -0500" stop="20261017130300 -0500" channel="cartoonito.ec">
     <title>Booba The director</title>
   </programme>
-  <programme start="20261017150300 -0500" stop="20261017151400 -0500" channel="cartoonito.ec">
+  <programme start="20261017130300 -0500" stop="20261017131400 -0500" channel="cartoonito.ec">
     <title>Bugs y sus amigos a la obra Prizeworthy Birdie</title>
   </programme>
-  <programme start="20261017151400 -0500" stop="20261017152500 -0500" channel="cartoonito.ec">
+  <programme start="20261017131400 -0500" stop="20261017132500 -0500" channel="cartoonito.ec">
     <title>Bugs y sus amigos a la obra This Sand Is Your Sand</title>
   </programme>
-  <programme start="20261017152500 -0500" stop="20261017153000 -0500" channel="cartoonito.ec">
+  <programme start="20261017132500 -0500" stop="20261017133000 -0500" channel="cartoonito.ec">
     <title>Bugs Bunny y sus amigos a la obra Hora de trabajar Lunar New Year</title>
   </programme>
-  <programme start="20261017153000 -0500" stop="20261017154100 -0500" channel="cartoonito.ec">
+  <programme start="20261017133000 -0500" stop="20261017134100 -0500" channel="cartoonito.ec">
     <title>Bugs y sus amigos a la obra Squeaky Clean</title>
   </programme>
-  <programme start="20261017154100 -0500" stop="20261017155200 -0500" channel="cartoonito.ec">
+  <programme start="20261017134100 -0500" stop="20261017135200 -0500" channel="cartoonito.ec">
     <title>Bugs y sus amigos a la obra Pauleen's Pins</title>
   </programme>
-  <programme start="20261017155200 -0500" stop="20261017160400 -0500" channel="cartoonito.ec">
+  <programme start="20261017135200 -0500" stop="20261017140400 -0500" channel="cartoonito.ec">
     <title>Batwheels La historia de las dos Bibis</title>
   </programme>
-  <programme start="20261017160400 -0500" stop="20261017161500 -0500" channel="cartoonito.ec">
+  <programme start="20261017140400 -0500" stop="20261017141500 -0500" channel="cartoonito.ec">
     <title>Batwheels Sidekicked to the Curb</title>
   </programme>
-  <programme start="20261017161500 -0500" stop="20261017162700 -0500" channel="cartoonito.ec">
+  <programme start="20261017141500 -0500" stop="20261017142700 -0500" channel="cartoonito.ec">
     <title>Batwheels Stop That Ducky!</title>
   </programme>
-  <programme start="20261017162700 -0500" stop="20261017163800 -0500" channel="cartoonito.ec">
+  <programme start="20261017142700 -0500" stop="20261017143800 -0500" channel="cartoonito.ec">
     <title>Batwheels El mayordomo lo hizo</title>
   </programme>
-  <programme start="20261017163800 -0500" stop="20261017165000 -0500" channel="cartoonito.ec">
+  <programme start="20261017143800 -0500" stop="20261017145000 -0500" channel="cartoonito.ec">
     <title>Batwheels Kitty Kong</title>
   </programme>
-  <programme start="20261017165000 -0500" stop="20261017170100 -0500" channel="cartoonito.ec">
+  <programme start="20261017145000 -0500" stop="20261017150100 -0500" channel="cartoonito.ec">
     <title>Batwheels El error de Bam</title>
   </programme>
-  <programme start="20261017170100 -0500" stop="20261017170800 -0500" channel="cartoonito.ec">
+  <programme start="20261017150100 -0500" stop="20261017150800 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Five-Star Bowl</title>
   </programme>
-  <programme start="20261017170800 -0500" stop="20261017171500 -0500" channel="cartoonito.ec">
+  <programme start="20261017150800 -0500" stop="20261017151500 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Were-Lemming</title>
   </programme>
-  <programme start="20261017171500 -0500" stop="20261017172200 -0500" channel="cartoonito.ec">
+  <programme start="20261017151500 -0500" stop="20261017152200 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Cabin in the Moon</title>
   </programme>
-  <programme start="20261017172200 -0500" stop="20261017172900 -0500" channel="cartoonito.ec">
+  <programme start="20261017152200 -0500" stop="20261017152900 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings The Ten Plagues of Grizzy</title>
   </programme>
-  <programme start="20261017172900 -0500" stop="20261017173700 -0500" channel="cartoonito.ec">
+  <programme start="20261017152900 -0500" stop="20261017153700 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Game of Marbles</title>
   </programme>
-  <programme start="20261017173700 -0500" stop="20261017174400 -0500" channel="cartoonito.ec">
+  <programme start="20261017153700 -0500" stop="20261017154400 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Choco Granito</title>
   </programme>
-  <programme start="20261017174400 -0500" stop="20261017175100 -0500" channel="cartoonito.ec">
+  <programme start="20261017154400 -0500" stop="20261017155100 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Badly Sprained Bear</title>
   </programme>
-  <programme start="20261017175100 -0500" stop="20261017175800 -0500" channel="cartoonito.ec">
+  <programme start="20261017155100 -0500" stop="20261017155800 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Yummy Indigestion</title>
   </programme>
-  <programme start="20261017175800 -0500" stop="20261017180500 -0500" channel="cartoonito.ec">
+  <programme start="20261017155800 -0500" stop="20261017160500 -0500" channel="cartoonito.ec">
     <title>Grizzy and the Lemmings Cozy Nest</title>
   </programme>
-  <programme start="20261017180500 -0500" stop="20261017180900 -0500" channel="cartoonito.ec">
+  <programme start="20261017160500 -0500" stop="20261017160900 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Ice Cream Thief</title>
   </programme>
-  <programme start="20261017180900 -0500" stop="20261017181200 -0500" channel="cartoonito.ec">
+  <programme start="20261017160900 -0500" stop="20261017161200 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Magic House</title>
   </programme>
-  <programme start="20261017181200 -0500" stop="20261017181600 -0500" channel="cartoonito.ec">
+  <programme start="20261017161200 -0500" stop="20261017161600 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Morphle Is Mila</title>
   </programme>
-  <programme start="20261017181600 -0500" stop="20261017182000 -0500" channel="cartoonito.ec">
+  <programme start="20261017161600 -0500" stop="20261017162000 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Magic Mirror</title>
   </programme>
-  <programme start="20261017182000 -0500" stop="20261017182300 -0500" channel="cartoonito.ec">
+  <programme start="20261017162000 -0500" stop="20261017162300 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Remote Control Mayhem</title>
   </programme>
-  <programme start="20261017182300 -0500" stop="20261017182700 -0500" channel="cartoonito.ec">
+  <programme start="20261017162300 -0500" stop="20261017162700 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Dinosaur Hide &amp; Seek</title>
   </programme>
-  <programme start="20261017182700 -0500" stop="20261017183000 -0500" channel="cartoonito.ec">
+  <programme start="20261017162700 -0500" stop="20261017163000 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Morphle Family Hide and Seek</title>
   </programme>
-  <programme start="20261017183000 -0500" stop="20261017183400 -0500" channel="cartoonito.ec">
+  <programme start="20261017163000 -0500" stop="20261017163400 -0500" channel="cartoonito.ec">
     <title>Morphle 3D Morphle The Ghost</title>
   </programme>
-  <programme start="20261017183400 -0500" stop="20261017183900 -0500" channel="cartoonito.ec">
+  <programme start="20261017163400 -0500" stop="20261017163900 -0500" channel="cartoonito.ec">
     <title>Numberblocks The All-Knowing Nine</title>
   </programme>
-  <programme start="20261017183900 -0500" stop="20261017184400 -0500" channel="cartoonito.ec">
+  <programme start="20261017163900 -0500" stop="20261017164400 -0500" channel="cartoonito.ec">
     <title>Numberblocks Back in the Box!</title>
   </programme>
-  <programme start="20261017184400 -0500" stop="20261017185000 -0500" channel="cartoonito.ec">
+  <programme start="20261017164400 -0500" stop="20261017165000 -0500" channel="cartoonito.ec">
     <title>Numberblocks How Many Smoothies?</title>
   </programme>
-  <programme start="20261017185000 -0500" stop="20261017185500 -0500" channel="cartoonito.ec">
+  <programme start="20261017165000 -0500" stop="20261017165500 -0500" channel="cartoonito.ec">
     <title>Numberblocks You're Five Ones and I'm Five Tens</title>
   </programme>
-  <programme start="20261017185500 -0500" stop="20261017190000 -0500" channel="cartoonito.ec">
+  <programme start="20261017165500 -0500" stop="20261017170000 -0500" channel="cartoonito.ec">
     <title>Numberblocks The Third Button</title>
   </programme>
-  <programme start="20261017190000 -0500" stop="20261017190500 -0500" channel="cartoonito.ec">
+  <programme start="20261017170000 -0500" stop="20261017170500 -0500" channel="cartoonito.ec">
     <title>Numberblocks Odd Block Club</title>
   </programme>
-  <programme start="20261017190500 -0500" stop="20261017191300 -0500" channel="cartoonito.ec">
+  <programme start="20261017170500 -0500" stop="20261017171300 -0500" channel="cartoonito.ec">
     <title>La araña Lucas Adiós, compañero</title>
   </programme>
-  <programme start="20261017191300 -0500" stop="20261017192100 -0500" channel="cartoonito.ec">
+  <programme start="20261017171300 -0500" stop="20261017172100 -0500" channel="cartoonito.ec">
     <title>La araña Lucas El castillo bota</title>
   </programme>
-  <programme start="20261017192100 -0500" stop="20261017192800 -0500" channel="cartoonito.ec">
+  <programme start="20261017172100 -0500" stop="20261017172800 -0500" channel="cartoonito.ec">
     <title>La araña Lucas ¡Quiero a mi bebé bellota de regreso!</title>
   </programme>
-  <programme start="20261017192800 -0500" stop="20261017193600 -0500" channel="cartoonito.ec">
+  <programme start="20261017172800 -0500" stop="20261017173600 -0500" channel="cartoonito.ec">
     <title>La araña Lucas La necesidad por semillas</title>
   </programme>
-  <programme start="20261017193600 -0500" stop="20261017194300 -0500" channel="cartoonito.ec">
+  <programme start="20261017173600 -0500" stop="20261017174300 -0500" channel="cartoonito.ec">
     <title>Cuquin Balloons</title>
   </programme>
-  <programme start="20261017194300 -0500" stop="20261017194900 -0500" channel="cartoonito.ec">
+  <programme start="20261017174300 -0500" stop="20261017174900 -0500" channel="cartoonito.ec">
     <title>Cuquin Videojuego</title>
   </programme>
-  <programme start="20261017194900 -0500" stop="20261017195600 -0500" channel="cartoonito.ec">
+  <programme start="20261017174900 -0500" stop="20261017175600 -0500" channel="cartoonito.ec">
     <title>Cuquin Farm</title>
   </programme>
-  <programme start="20261017195600 -0500" stop="20261017201900 -0500" channel="cartoonito.ec">
+  <programme start="20261017175600 -0500" stop="20261017181900 -0500" channel="cartoonito.ec">
     <title>La casa de muñecas de Gabby The Magical Mermaid-Lantis</title>
   </programme>
-  <programme start="20261017201900 -0500" stop="20261017204300 -0500" channel="cartoonito.ec">
+  <programme start="20261017181900 -0500" stop="20261017184300 -0500" channel="cartoonito.ec">
     <title>La casa de muñecas de Gabby Gabby, I Shrunk the Kitties!</title>
   </programme>
-  <programme start="20261017204300 -0500" stop="20261017210600 -0500" channel="cartoonito.ec">
+  <programme start="20261017184300 -0500" stop="20261017190600 -0500" channel="cartoonito.ec">
     <title>La casa de muñecas de Gabby Catrat's Kittyfish</title>
   </programme>
-  <programme start="20261017210600 -0500" stop="20261017221900 -0500" channel="cartoonito.ec">
+  <programme start="20261017190600 -0500" stop="20261017201900 -0500" channel="cartoonito.ec">
     <title>Tom y Jerry en una aventura con Jonny Quest</title>
   </programme>
-  <programme start="20261017221900 -0500" stop="20261017222700 -0500" channel="cartoonito.ec">
+  <programme start="20261017201900 -0500" stop="20261017202700 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Margo Mayfly</title>
   </programme>
-  <programme start="20261017222700 -0500" stop="20261017223500 -0500" channel="cartoonito.ec">
+  <programme start="20261017202700 -0500" stop="20261017203500 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Toy Hospital</title>
   </programme>
-  <programme start="20261017223500 -0500" stop="20261017224300 -0500" channel="cartoonito.ec">
+  <programme start="20261017203500 -0500" stop="20261017204300 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Rocky Day</title>
   </programme>
-  <programme start="20261017224300 -0500" stop="20261017225100 -0500" channel="cartoonito.ec">
+  <programme start="20261017204300 -0500" stop="20261017205100 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos The Big Laugh</title>
   </programme>
-  <programme start="20261017225100 -0500" stop="20261017225900 -0500" channel="cartoonito.ec">
+  <programme start="20261017205100 -0500" stop="20261017205900 -0500" channel="cartoonito.ec">
     <title>Lu y sus amigos Scary Tara</title>
   </programme>
-  <programme start="20261017225900 -0500" stop="20261017230700 -0500" channel="cartoonito.ec">
+  <programme start="20261017205900 -0500" stop="20261017210700 -0500" channel="cartoonito.ec">
     <title>La araña Lucas Las moscas no bailan</title>
   </programme>
-  <programme start="20261017230700 -0500" stop="20261017231400 -0500" channel="cartoonito.ec">
+  <programme start="20261017210700 -0500" stop="20261017211400 -0500" channel="cartoonito.ec">
     <title>La araña Lucas ¡Parpadeaste!</title>
   </programme>
-  <programme start="20261017231400 -0500" stop="20261017232200 -0500" channel="cartoonito.ec">
+  <programme start="20261017211400 -0500" stop="20261017212200 -0500" channel="cartoonito.ec">
     <title>La araña Lucas Reparando el árbol</title>
   </programme>
-  <programme start="20261017232200 -0500" stop="20261017232900 -0500" channel="cartoonito.ec">
+  <programme start="20261017212200 -0500" stop="20261017212900 -0500" channel="cartoonito.ec">
     <title>La araña Lucas Demasiado caliente</title>
   </programme>
-  <programme start="20261017232900 -0500" stop="20261017233600 -0500" channel="cartoonito.ec">
+  <programme start="20261017212900 -0500" stop="20261017213600 -0500" channel="cartoonito.ec">
     <title>La araña Lucas Esperando a Maizie</title>
   </programme>
-  <programme start="20261017233600 -0500" stop="20261017234400 -0500" channel="cartoonito.ec">
+  <programme start="20261017213600 -0500" stop="20261017214400 -0500" channel="cartoonito.ec">
     <title>Mundo Bita ¡Imagínate! Pedir perdón</title>
   </programme>
-  <programme start="20261017234400 -0500" stop="20261017235100 -0500" channel="cartoonito.ec">
+  <programme start="20261017214400 -0500" stop="20261017215100 -0500" channel="cartoonito.ec">
     <title>Mundo Bita ¡Imagínate! Todo mundo es diferente</title>
   </programme>
-  <programme start="20261017235100 -0500" stop="20261017235800 -0500" channel="cartoonito.ec">
+  <programme start="20261017215100 -0500" stop="20261017215800 -0500" channel="cartoonito.ec">
     <title>Mundo Bita ¡Imagínate! Hay tiempo para todo</title>
   </programme>
-  <programme start="20261017235800 -0500" stop="20261018001100 -0500" channel="cartoonito.ec">
+  <programme start="20261017215800 -0500" stop="20261017221100 -0500" channel="cartoonito.ec">
     <title>Creciendo con la Gallina Pintadita I Didn't Mean To</title>
+  </programme>
+  <programme start="20261017221100 -0500" stop="20261017221400 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita TV Shorts Quanto cabelo que há</title>
+  </programme>
+  <programme start="20261017221400 -0500" stop="20261017221600 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita TV Shorts O sol já vem</title>
+  </programme>
+  <programme start="20261017221600 -0500" stop="20261017222000 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita TV Shorts Along the Way</title>
+  </programme>
+  <programme start="20261017222000 -0500" stop="20261017222300 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita TV Shorts En realidad no existen.</title>
+  </programme>
+  <programme start="20261017222300 -0500" stop="20261017222600 -0500" channel="cartoonito.ec">
+    <title>Mundo Bita TV Shorts O parquinho</title>
+  </programme>
+  <programme start="20261017222600 -0500" stop="20261017223400 -0500" channel="cartoonito.ec">
+    <title>Pocoyó La casita de Pocoyo</title>
+  </programme>
+  <programme start="20261017223400 -0500" stop="20261017224100 -0500" channel="cartoonito.ec">
+    <title>Pocoyó La cámara de Pocoyó</title>
+  </programme>
+  <programme start="20261017224100 -0500" stop="20261017224800 -0500" channel="cartoonito.ec">
+    <title>Pocoyó Robot Pocoyo</title>
+  </programme>
+  <programme start="20261017224800 -0500" stop="20261017225600 -0500" channel="cartoonito.ec">
+    <title>Pocoyó Classic Pocoyo</title>
+  </programme>
+  <programme start="20261017225600 -0500" stop="20261017230400 -0500" channel="cartoonito.ec">
+    <title>Pocoyó Pocoyo's Restaurant</title>
+  </programme>
+  <programme start="20261017230400 -0500" stop="20261017231100 -0500" channel="cartoonito.ec">
+    <title>Pocoyó Sticky Giggles</title>
+  </programme>
+  <programme start="20261017231100 -0500" stop="20261017231800 -0500" channel="cartoonito.ec">
+    <title>Pocoyó Space Mission</title>
+  </programme>
+  <programme start="20261017231800 -0500" stop="20261017232500 -0500" channel="cartoonito.ec">
+    <title>Pocoyó Vinyl Love - Part 1</title>
+  </programme>
+  <programme start="20261017232500 -0500" stop="20261017233200 -0500" channel="cartoonito.ec">
+    <title>Pocoyó Vinyl Love - Part 2</title>
+  </programme>
+  <programme start="20261017233200 -0500" stop="20261017234400 -0500" channel="cartoonito.ec">
+    <title>Hey Fuzzy Yellow</title>
+  </programme>
+  <programme start="20261017234400 -0500" stop="20261017235500 -0500" channel="cartoonito.ec">
+    <title>Hey Fuzzy Yellow</title>
+  </programme>
+  <programme start="20261017235500 -0500" stop="20261018000700 -0500" channel="cartoonito.ec">
+    <title>Hey Fuzzy Yellow</title>
   </programme>
   <channel id="teleamazonas">
     <display-name>Teleamazonas</display-name>
   </channel>
   <programme start="20261017000000 -0500" stop="20261017004500 -0500" channel="teleamazonas">
-    <title>100 Ecuatorianos dicen</title>
-  </programme>
-  <programme start="20261017004500 -0500" stop="20261017020000 -0500" channel="teleamazonas">
-    <title>Escape Perfecto</title>
-  </programme>
-  <programme start="20261017020000 -0500" stop="20261017024500 -0500" channel="teleamazonas">
     <title>C.S.I. Miami Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.</title>
   </programme>
-  <programme start="20261017024500 -0500" stop="20261017030000 -0500" channel="teleamazonas">
+  <programme start="20261017004500 -0500" stop="20261017010000 -0500" channel="teleamazonas">
     <title>24 horas - Nacional I</title>
   </programme>
-  <programme start="20261017030000 -0500" stop="20261017031500 -0500" channel="teleamazonas">
+  <programme start="20261017010000 -0500" stop="20261017011500 -0500" channel="teleamazonas">
     <title>Entrevistas en 24 horas</title>
   </programme>
-  <programme start="20261017031500 -0500" stop="20261017034500 -0500" channel="teleamazonas">
+  <programme start="20261017011500 -0500" stop="20261017014500 -0500" channel="teleamazonas">
     <title>Yo soy tu madre</title>
   </programme>
-  <programme start="20261017034500 -0500" stop="20261017043000 -0500" channel="teleamazonas">
+  <programme start="20261017014500 -0500" stop="20261017023000 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261017043000 -0500" stop="20261017050000 -0500" channel="teleamazonas">
+  <programme start="20261017023000 -0500" stop="20261017030000 -0500" channel="teleamazonas">
     <title>Geeks</title>
   </programme>
-  <programme start="20261017050000 -0500" stop="20261017060000 -0500" channel="teleamazonas">
+  <programme start="20261017030000 -0500" stop="20261017040000 -0500" channel="teleamazonas">
     <title>Tres Patines</title>
   </programme>
-  <programme start="20261017060000 -0500" stop="20261017063000 -0500" channel="teleamazonas">
+  <programme start="20261017040000 -0500" stop="20261017043000 -0500" channel="teleamazonas">
     <title>Game Shakers</title>
   </programme>
-  <programme start="20261017063000 -0500" stop="20261017070000 -0500" channel="teleamazonas">
+  <programme start="20261017043000 -0500" stop="20261017050000 -0500" channel="teleamazonas">
     <title>Victorious Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.</title>
   </programme>
-  <programme start="20261017070000 -0500" stop="20261017080000 -0500" channel="teleamazonas">
+  <programme start="20261017050000 -0500" stop="20261017060000 -0500" channel="teleamazonas">
     <title>Drake &amp; Josh</title>
   </programme>
-  <programme start="20261017080000 -0500" stop="20261017110000 -0500" channel="teleamazonas">
+  <programme start="20261017060000 -0500" stop="20261017090000 -0500" channel="teleamazonas">
     <title>Tventas</title>
   </programme>
-  <programme start="20261017110000 -0500" stop="20261017113000 -0500" channel="teleamazonas">
+  <programme start="20261017090000 -0500" stop="20261017093000 -0500" channel="teleamazonas">
     <title>Documentales de Animales</title>
   </programme>
-  <programme start="20261017113000 -0500" stop="20261017130000 -0500" channel="teleamazonas">
+  <programme start="20261017093000 -0500" stop="20261017110000 -0500" channel="teleamazonas">
     <title>Agente 00-Gato Una ingenua gatita junto con sus amigos emprende la aventura más grande de sus vidas, esta simpática felina demostrará que nadie es más astuto que ella.</title>
   </programme>
-  <programme start="20261017130000 -0500" stop="20261017135500 -0500" channel="teleamazonas">
+  <programme start="20261017110000 -0500" stop="20261017115500 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261017135500 -0500" stop="20261017140000 -0500" channel="teleamazonas">
+  <programme start="20261017115500 -0500" stop="20261017120000 -0500" channel="teleamazonas">
     <title>Previa Fútbol ecuatoriano Serie A</title>
   </programme>
-  <programme start="20261017140000 -0500" stop="20261017160000 -0500" channel="teleamazonas">
+  <programme start="20261017120000 -0500" stop="20261017140000 -0500" channel="teleamazonas">
     <title>Fútbol Ecuatoriano Serie A</title>
   </programme>
-  <programme start="20261017160000 -0500" stop="20261017180000 -0500" channel="teleamazonas">
+  <programme start="20261017140000 -0500" stop="20261017160000 -0500" channel="teleamazonas">
     <title>Mad Max Furia en el camino</title>
   </programme>
-  <programme start="20261017180000 -0500" stop="20261017183000 -0500" channel="teleamazonas">
+  <programme start="20261017160000 -0500" stop="20261017163000 -0500" channel="teleamazonas">
     <title>Los Simpson Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</title>
   </programme>
-  <programme start="20261017183000 -0500" stop="20261017200000 -0500" channel="teleamazonas">
+  <programme start="20261017163000 -0500" stop="20261017180000 -0500" channel="teleamazonas">
     <title>La era de hielo</title>
   </programme>
-  <programme start="20261017200000 -0500" stop="20261017210500 -0500" channel="teleamazonas">
+  <programme start="20261017180000 -0500" stop="20261017190500 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261017210500 -0500" stop="20261017220500 -0500" channel="teleamazonas">
+  <programme start="20261017190500 -0500" stop="20261017200500 -0500" channel="teleamazonas">
     <title>De año en año</title>
   </programme>
-  <programme start="20261017220500 -0500" stop="20261017230000 -0500" channel="teleamazonas">
+  <programme start="20261017200500 -0500" stop="20261017210000 -0500" channel="teleamazonas">
     <title>América Vive</title>
   </programme>
-  <programme start="20261017230000 -0500" stop="20261018010000 -0500" channel="teleamazonas">
+  <programme start="20261017210000 -0500" stop="20261017230000 -0500" channel="teleamazonas">
     <title>Megalodón 2: El Gran Abismo Un equipo de investigación se ve obligado a una batalla por la supervivencia cuando una malevolente operación minera amenaza su misión de exploración.</title>
+  </programme>
+  <programme start="20261017230000 -0500" stop="20261018001500 -0500" channel="teleamazonas">
+    <title>Aída</title>
   </programme>
   <channel id="espn.co">
     <display-name>ESPN co</display-name>
   </channel>
-  <programme start="20261017000000 -0500" stop="20261017005800 -0500" channel="espn.co">
+  <programme start="20261016235500 -0500" stop="20261017005300 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261017005800 -0500" stop="20261017015500 -0500" channel="espn.co">
+  <programme start="20261017005300 -0500" stop="20261017015000 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261017015500 -0500" stop="20261017025300 -0500" channel="espn.co">
-    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
-  </programme>
-  <programme start="20261017025300 -0500" stop="20261017035000 -0500" channel="espn.co">
-    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
-  </programme>
-  <programme start="20261017035000 -0500" stop="20261017042000 -0500" channel="espn.co">
+  <programme start="20261017015000 -0500" stop="20261017022000 -0500" channel="espn.co">
     <title>Premier League Preview Show</title>
   </programme>
-  <programme start="20261017042000 -0500" stop="20261017052000 -0500" channel="espn.co">
+  <programme start="20261017022000 -0500" stop="20261017032000 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261017052000 -0500" stop="20261017062000 -0500" channel="espn.co">
+  <programme start="20261017032000 -0500" stop="20261017042000 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261017062000 -0500" stop="20261017082500 -0500" channel="espn.co">
+  <programme start="20261017042000 -0500" stop="20261017062500 -0500" channel="espn.co">
     <title>Tit. Original Fútbol Premier League. Soccer Jornada 7 de la temporada 2026-27 de la Premier League Fútbol: Premier League</title>
   </programme>
-  <programme start="20261017082500 -0500" stop="20261017085000 -0500" channel="espn.co">
+  <programme start="20261017062500 -0500" stop="20261017065000 -0500" channel="espn.co">
     <title>SportsCenter+</title>
   </programme>
-  <programme start="20261017085000 -0500" stop="20261017105500 -0500" channel="espn.co">
+  <programme start="20261017065000 -0500" stop="20261017085500 -0500" channel="espn.co">
     <title>Tit. Original Fútbol Premier League. Soccer Jornada 7 de la temporada 2026-27 de la Premier League Fútbol: Premier League</title>
   </programme>
-  <programme start="20261017105500 -0500" stop="20261017111500 -0500" channel="espn.co">
+  <programme start="20261017085500 -0500" stop="20261017091500 -0500" channel="espn.co">
     <title>SportsCenter+</title>
   </programme>
-  <programme start="20261017111500 -0500" stop="20261017133000 -0500" channel="espn.co">
+  <programme start="20261017091500 -0500" stop="20261017113000 -0500" channel="espn.co">
     <title>Bayern de Múnich vs. RB Leipzig Fútbol: Bundesliga</title>
   </programme>
-  <programme start="20261017133000 -0500" stop="20261017154500 -0500" channel="espn.co">
+  <programme start="20261017113000 -0500" stop="20261017134500 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261017154500 -0500" stop="20261017172500 -0500" channel="espn.co">
+  <programme start="20261017134500 -0500" stop="20261017152500 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261017172500 -0500" stop="20261017190000 -0500" channel="espn.co">
+  <programme start="20261017152500 -0500" stop="20261017170000 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
-  <programme start="20261017190000 -0500" stop="20261017220000 -0500" channel="espn.co">
+  <programme start="20261017170000 -0500" stop="20261017200000 -0500" channel="espn.co">
     <title>ESPN Knockout</title>
+  </programme>
+  <programme start="20261017200000 -0500" stop="20261017210000 -0500" channel="espn.co">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+  <programme start="20261017210000 -0500" stop="20261017220000 -0500" channel="espn.co">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
   </programme>
   <programme start="20261017220000 -0500" stop="20261017230000 -0500" channel="espn.co">
     <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
@@ -955,46 +946,43 @@
     <title>Sportia</title>
   </programme>
   <programme start="20261017040000 -0500" stop="20261017050000 -0500" channel="tyc_sports.ar">
-    <title>Sportia</title>
+    <title>Uno Contra Uno</title>
   </programme>
   <programme start="20261017050000 -0500" stop="20261017060000 -0500" channel="tyc_sports.ar">
     <title>Sportia</title>
   </programme>
-  <programme start="20261017060000 -0500" stop="20261017070000 -0500" channel="tyc_sports.ar">
-    <title>Uno Contra Uno</title>
-  </programme>
-  <programme start="20261017070000 -0500" stop="20261017080000 -0500" channel="tyc_sports.ar">
-    <title>Sportia</title>
-  </programme>
-  <programme start="20261017080000 -0500" stop="20261017093000 -0500" channel="tyc_sports.ar">
+  <programme start="20261017060000 -0500" stop="20261017073000 -0500" channel="tyc_sports.ar">
     <title>#Bonadeo</title>
   </programme>
-  <programme start="20261017093000 -0500" stop="20261017125500 -0500" channel="tyc_sports.ar">
+  <programme start="20261017073000 -0500" stop="20261017105500 -0500" channel="tyc_sports.ar">
     <title>Sportia</title>
   </programme>
-  <programme start="20261017125500 -0500" stop="20261017150000 -0500" channel="tyc_sports.ar">
+  <programme start="20261017105500 -0500" stop="20261017130000 -0500" channel="tyc_sports.ar">
     <title>Banfield vs. Argentinos Juniors</title>
   </programme>
-  <programme start="20261017150000 -0500" stop="20261017152500 -0500" channel="tyc_sports.ar">
+  <programme start="20261017130000 -0500" stop="20261017132500 -0500" channel="tyc_sports.ar">
     <title>Líbero</title>
   </programme>
-  <programme start="20261017152500 -0500" stop="20261017173000 -0500" channel="tyc_sports.ar">
+  <programme start="20261017132500 -0500" stop="20261017153000 -0500" channel="tyc_sports.ar">
     <title>Platense vs. Lanús</title>
   </programme>
-  <programme start="20261017173000 -0500" stop="20261017175500 -0500" channel="tyc_sports.ar">
+  <programme start="20261017153000 -0500" stop="20261017155500 -0500" channel="tyc_sports.ar">
     <title>Líbero</title>
   </programme>
-  <programme start="20261017175500 -0500" stop="20261017200000 -0500" channel="tyc_sports.ar">
+  <programme start="20261017155500 -0500" stop="20261017180000 -0500" channel="tyc_sports.ar">
     <title>Tucumán vs. Barracas Central</title>
   </programme>
-  <programme start="20261017200000 -0500" stop="20261017210000 -0500" channel="tyc_sports.ar">
+  <programme start="20261017180000 -0500" stop="20261017190000 -0500" channel="tyc_sports.ar">
     <title>Club Miami</title>
   </programme>
-  <programme start="20261017210000 -0500" stop="20261017233000 -0500" channel="tyc_sports.ar">
+  <programme start="20261017190000 -0500" stop="20261017213000 -0500" channel="tyc_sports.ar">
     <title>Walter Karim Crücce vs. Ariel Bracamonte; Pablo Corzo vs. Luciano Falcao Boxeo de primera</title>
   </programme>
-  <programme start="20261017233000 -0500" stop="20261018013000 -0500" channel="tyc_sports.ar">
+  <programme start="20261017213000 -0500" stop="20261017233000 -0500" channel="tyc_sports.ar">
     <title>Tucumán vs. Rosario Central</title>
+  </programme>
+  <programme start="20261017233000 -0500" stop="20261018013000 -0500" channel="tyc_sports.ar">
+    <title>Vélez Sarsfield vs. Gimnasia y Esgrima</title>
   </programme>
   <channel id="tvc">
     <display-name>TVC</display-name>
@@ -1134,72 +1122,82 @@
   <channel id="fox.ar">
     <display-name>FOX Sports</display-name>
   </channel>
-  <programme start="20261017050000 -0500" stop="20261017070000 -0500" channel="fox.ar">
-    <title>Galatasaray (Tur) vs. Barcelona (Esp)</title>
-    <sub-title>Fecha 2, Rams Park</sub-title>
-    <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
+  <programme start="20261017060000 -0500" stop="20261017080000 -0500" channel="fox.ar">
+    <title>Wolfsburgo vs. Heidenheim</title>
+    <sub-title>Fecha 8, Volkswagen Arena</sub-title>
+    <desc>Vive los partidos de la 53º edición de la Segunda División de Fútbol de Alemania. Un total de 18 equipos participan en la competición que reúne a miles de aficionados en encuentros únicos y apasionantes.</desc>
   </programme>
-  <programme start="20261017070000 -0500" stop="20261017080000 -0500" channel="fox.ar">
+  <programme start="20261017080000 -0500" stop="20261017083000 -0500" channel="fox.ar">
+    <title>Fernando Ferrara</title>
+    <sub-title>Línea de 3</sub-title>
+    <desc>Dos horas de actualidad deportiva con un tono fresco y dinámico. Conducido por un trío nuevo en pantalla que combina información, opinión y entretenimiento con un formato ágil y lenguaje de streaming.</desc>
+  </programme>
+  <programme start="20261017083000 -0500" stop="20261017090000 -0500" channel="fox.ar">
+    <title>Semifinales - Ida</title>
+    <sub-title>El show de la Copa Libertadores</sub-title>
+    <desc>El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente.</desc>
+  </programme>
+  <programme start="20261017090000 -0500" stop="20261017110000 -0500" channel="fox.ar">
+    <title>Norwich City vs. Portsmouth</title>
+    <sub-title>Fecha 11, Carrow Road</sub-title>
+    <desc>Vive los partidos de la 25º edición de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división.</desc>
+  </programme>
+  <programme start="20261017110000 -0500" stop="20261017130000 -0500" channel="fox.ar">
+    <title>Fenerbahce vs. Alanyaspor</title>
+    <sub-title>Fecha 8, Chobani Stadium Fenerbahce Sukru Saracoglu</sub-title>
+    <desc>Vive las emociones de los partidos de la 69º temporada de la Superliga de Turquía, la máxima categoría del fútbol profesional en Turquía.</desc>
+  </programme>
+  <programme start="20261017130000 -0500" stop="20261017153000 -0500" channel="fox.ar">
+    <title>Hannover 96 vs. St. Pauli</title>
+    <sub-title>Fecha 8, Heinz-von-Heiden-Arena</sub-title>
+    <desc>Vive los partidos de la 53º edición de la Segunda División de Fútbol de Alemania. Un total de 18 equipos participan en la competición que reúne a miles de aficionados en encuentros únicos y apasionantes.</desc>
+  </programme>
+  <programme start="20261017153000 -0500" stop="20261017180000 -0500" channel="fox.ar">
+    <title>El show de la UEFA Champions League</title>
+    <sub-title>El show de la UEFA Champions League</sub-title>
+    <desc>No te puedes perder el resumen más completo de toda la jornada de la UEFA Champions League con las mejores jugadas y goles del certamen continental.</desc>
+  </programme>
+  <programme start="20261017180000 -0500" stop="20261017210000 -0500" channel="fox.ar">
+    <title>Marketing registrado</title>
+    <sub-title>Marketing registrado</sub-title>
+    <desc>Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
+  </programme>
+  <programme start="20261017210000 -0500" stop="20261017220000 -0500" channel="fox.ar">
     <title>Telemétrico</title>
     <sub-title>Telemétrico</sub-title>
     <desc>Un formato pensado para la audiencia que quiere entender todo lo relacionado con la Fórmula 1: estrategias de carrera, decisiones de equipo, rendimiento, técnica de los autos, reglas y más.</desc>
   </programme>
-  <programme start="20261017080000 -0500" stop="20261017090000 -0500" channel="fox.ar">
-    <title>Manos arriba</title>
-    <sub-title>Manos arriba</sub-title>
-    <desc>Toda la actualidad del vóley argentino. Viví partidos, entrevistas, highlights y lo mejor de las competencias de vóley, analizados por una dupla que aporta pasión y profesionalismo.</desc>
+  <programme start="20261017220000 -0500" stop="20261018000000 -0500" channel="fox.ar">
+    <title>Norwich City vs. Portsmouth</title>
+    <sub-title>Fecha 11, Carrow Road</sub-title>
+    <desc>Vive los partidos de la 25º edición de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división.</desc>
   </programme>
-  <programme start="20261017090000 -0500" stop="20261017110000 -0500" channel="fox.ar">
-    <title>Estudiantes (LP) (Arg) vs. Flamengo (Bra)</title>
-    <sub-title>Semifinal - Ida, Estadio Jorge Luis Hirschi</sub-title>
-    <desc>Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur.</desc>
+  <programme start="20261018000000 -0500" stop="20261018020000 -0500" channel="fox.ar">
+    <title>Hannover 96 vs. St. Pauli</title>
+    <sub-title>Fecha 8, Heinz-von-Heiden-Arena</sub-title>
+    <desc>Vive los partidos de la 53º edición de la Segunda División de Fútbol de Alemania. Un total de 18 equipos participan en la competición que reúne a miles de aficionados en encuentros únicos y apasionantes.</desc>
   </programme>
-  <programme start="20261017110000 -0500" stop="20261017130000 -0500" channel="fox.ar">
-    <title>Línea de 3</title>
-    <sub-title>Línea de 3</sub-title>
-    <desc>Dos horas de actualidad deportiva con un tono fresco y dinámico. Conducido por un trío nuevo en pantalla que combina información, opinión y entretenimiento con un formato ágil y lenguaje de streaming.</desc>
+  <programme start="20261018020000 -0500" stop="20261018040000 -0500" channel="fox.ar">
+    <title>Burnley vs. Wolverhampton Wanderers</title>
+    <sub-title>Fecha 11, Turf Moor</sub-title>
+    <desc>Vive los partidos de la 25º edición de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división.</desc>
   </programme>
-  <programme start="20261017130000 -0500" stop="20261017150000 -0500" channel="fox.ar">
-    <title>Siga, siga</title>
-    <sub-title>Siga, siga</sub-title>
-    <desc>El pulso del deporte, en formato ranking y entretenimiento. Un programa diario con una estructura ágil y multimedial. Una mirada fresca con rankings icónicos de Fox Sports.</desc>
+  <programme start="20261018040000 -0500" stop="20261018043000 -0500" channel="fox.ar">
+    <title>El show de la UEFA Champions League</title>
+    <sub-title>El show de la UEFA Champions League</sub-title>
+    <desc>No te puedes perder el resumen más completo de toda la jornada de la UEFA Champions League con las mejores jugadas y goles del certamen continental.</desc>
   </programme>
-  <programme start="20261017150000 -0500" stop="20261017170000 -0500" channel="fox.ar">
+  <programme start="20261018043000 -0500" stop="20261018050000 -0500" channel="fox.ar">
+    <title>Semifinales - Ida</title>
+    <sub-title>El show de la Copa Libertadores</sub-title>
+    <desc>El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente.</desc>
+  </programme>
+  <programme start="20261018050000 -0500" stop="20261018053000 -0500" channel="fox.ar">
     <title>La vuelta</title>
     <sub-title>La vuelta</sub-title>
     <desc>Propone una mirada descontracturada y entretenida de todo lo que pasa en el mundo del deporte. Un trío con química, humor y timing, que combina información deportiva e invitados destacados.</desc>
   </programme>
-  <programme start="20261017170000 -0500" stop="20261017190000 -0500" channel="fox.ar">
-    <title>Todo pelota</title>
-    <sub-title>Todo pelota</sub-title>
-    <desc>Actualidad y análisis de las principales competencias del mundo, con foco en la UEFA Champions League y en CONMEBOL Libertadores como solo Fox Sports te lo puede mostrar.</desc>
-  </programme>
-  <programme start="20261017190000 -0500" stop="20261017210000 -0500" channel="fox.ar">
-    <title>UPCN vs. Boca Jrs.</title>
-    <sub-title>Semifinal</sub-title>
-    <desc>Vive lo más destacado de los partidos de la Supercopa ACLAVen su edición 2026. Los amantes del deporte podrán disfrutar de una competencia nacional de vóley en la que participan Boca Jrs., Ciudad Vóley, Monteros, UPCN.</desc>
-  </programme>
-  <programme start="20261017210000 -0500" stop="20261017230000 -0500" channel="fox.ar">
-    <title>Estudiantes (LP) (Arg) vs. Flamengo (Bra)</title>
-    <sub-title>Semifinal - Ida, Estadio Jorge Luis Hirschi</sub-title>
-    <desc>Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur.</desc>
-  </programme>
-  <programme start="20261017230000 -0500" stop="20261018010000 -0500" channel="fox.ar">
-    <title>Fluminense (Bra) vs. Palmeiras (Bra)</title>
-    <sub-title>Semifinal - Ida, Estádio Maracanã</sub-title>
-    <desc>Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur.</desc>
-  </programme>
-  <programme start="20261018010000 -0500" stop="20261018030000 -0500" channel="fox.ar">
-    <title>La vuelta</title>
-    <sub-title>La vuelta</sub-title>
-    <desc>Propone una mirada descontracturada y entretenida de todo lo que pasa en el mundo del deporte. Un trío con química, humor y timing, que combina información deportiva e invitados destacados.</desc>
-  </programme>
-  <programme start="20261018030000 -0500" stop="20261018050000 -0500" channel="fox.ar">
-    <title>Todo pelota</title>
-    <sub-title>Todo pelota</sub-title>
-    <desc>Actualidad y análisis de las principales competencias del mundo, con foco en la UEFA Champions League y en CONMEBOL Libertadores como solo Fox Sports te lo puede mostrar.</desc>
-  </programme>
-  <programme start="20261018050000 -0500" stop="20261018060000 -0500" channel="fox.ar">
+  <programme start="20261018053000 -0500" stop="20261018063000 -0500" channel="fox.ar">
     <title>Marketing registrado</title>
     <sub-title>Marketing registrado</sub-title>
     <desc>Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
@@ -1207,283 +1205,320 @@
   <channel id="fox2.ar">
     <display-name>FOX Sports 2 </display-name>
   </channel>
-  <programme start="20261017073000 -0500" stop="20261017080000 -0500" channel="fox2.ar">
-    <title>Fernando Ferrara</title>
-    <sub-title>Fernando Ferrara</sub-title>
+  <programme start="20261017060000 -0500" stop="20261017080000 -0500" channel="fox2.ar">
+    <title>Santarem vs. Gil Vicente</title>
+    <sub-title>Tercera ronda</sub-title>
+    <desc>Vive las emociones de los partidos de la 86º edición de la Copa de Portugal, en la que participan equipos de las distintas categorías del fútbol portugués.</desc>
   </programme>
-  <programme start="20261017080000 -0500" stop="20261017090000 -0500" channel="fox2.ar">
-    <title>Show Turf</title>
-    <sub-title>Show Turf</sub-title>
-    <desc>Mira las jornadas de turf y vive toda la emoción de la competencia.</desc>
+  <programme start="20261017080000 -0500" stop="20261017100000 -0500" channel="fox2.ar">
+    <title>Ciudad Voley vs. Monteros</title>
+    <sub-title>Semifinal</sub-title>
+    <desc>Vive lo más destacado de los partidos de la Supercopa ACLAVen su edición 2026. Los amantes del deporte podrán disfrutar de una competencia nacional de vóley en la que participan Boca Jrs., Ciudad Vóley, Monteros, UPCN.</desc>
   </programme>
-  <programme start="20261017090000 -0500" stop="20261017100000 -0500" channel="fox2.ar">
-    <title>Sale por 3</title>
-    <sub-title>Sale por 3</sub-title>
-    <desc>Entrevistas a figuras del padel, actualidad del circuito profesional y amateur.</desc>
+  <programme start="20261017100000 -0500" stop="20261017120000 -0500" channel="fox2.ar">
+    <title>UPCN vs. Boca Jrs.</title>
+    <sub-title>Semifinal</sub-title>
+    <desc>Vive lo más destacado de los partidos de la Supercopa ACLAVen su edición 2026. Los amantes del deporte podrán disfrutar de una competencia nacional de vóley en la que participan Boca Jrs., Ciudad Vóley, Monteros, UPCN.</desc>
   </programme>
-  <programme start="20261017100000 -0500" stop="20261017110000 -0500" channel="fox2.ar">
+  <programme start="20261017120000 -0500" stop="20261017130000 -0500" channel="fox2.ar">
     <title>Ojo el caño</title>
     <sub-title>Ojo el caño</sub-title>
     <desc>Un programa que repasa lo más destacado del fútbol femenino y su actualidad. A través de las charlas y debates que se producen en el espacio, el público podrá informarse al completo sobre competencias, partidos, jugadas y mucho más.</desc>
   </programme>
-  <programme start="20261017110000 -0500" stop="20261017112000 -0500" channel="fox2.ar">
-    <title>Sergio Hernandez</title>
-    <sub-title>La vuelta</sub-title>
-    <desc>Propone una mirada descontracturada y entretenida de todo lo que pasa en el mundo del deporte. Un trío con química, humor y timing, que combina información deportiva e invitados destacados.</desc>
-  </programme>
-  <programme start="20261017112000 -0500" stop="20261017133000 -0500" channel="fox2.ar">
-    <title>Holstein Kiel vs. Hertha Berlin</title>
-    <sub-title>Fecha 8, Holstein-Stadion</sub-title>
-    <desc>Vive los partidos de la 53º edición de la Segunda División de Fútbol de Alemania. Un total de 18 equipos participan en la competición que reúne a miles de aficionados en encuentros únicos y apasionantes.</desc>
-  </programme>
-  <programme start="20261017133000 -0500" stop="20261017160000 -0500" channel="fox2.ar">
-    <title>Burnley vs. Wolverhampton Wanderers</title>
-    <sub-title>Fecha 11, Turf Moor</sub-title>
-    <desc>Vive los partidos de la 25º edición de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división.</desc>
-  </programme>
-  <programme start="20261017160000 -0500" stop="20261017180000 -0500" channel="fox2.ar">
-    <title>Ciudad Voley vs. Monteros</title>
-    <sub-title>Semifinal</sub-title>
-    <desc>Vive lo más destacado de los partidos de la Supercopa ACLAVen su edición 2026. Los amantes del deporte podrán disfrutar de una competencia nacional de vóley en la que participan Boca Jrs., Ciudad Vóley, Monteros, UPCN.</desc>
-  </programme>
-  <programme start="20261017180000 -0500" stop="20261017183000 -0500" channel="fox2.ar">
+  <programme start="20261017130000 -0500" stop="20261017133000 -0500" channel="fox2.ar">
     <title>Rally argentino</title>
     <sub-title>Rally argentino</sub-title>
     <desc>La emoción y la adrenalina lideran esta edición en la que se presentarán a los mejores corredores de automóviles, quienes desafiarán los obstáculos de la vía para alcanzar el primer lugar del podio.</desc>
   </programme>
-  <programme start="20261017183000 -0500" stop="20261017190000 -0500" channel="fox2.ar">
-    <title>Co - Piloto</title>
-    <sub-title>Co - Piloto</sub-title>
-    <desc>Juan Pablo Rossotti conduce un programa que acerca nuevas aristas del automovilismo.</desc>
-  </programme>
-  <programme start="20261017190000 -0500" stop="20261017213000 -0500" channel="fox2.ar">
-    <title>Boca Jrs. vs. Talleres (Cba.)</title>
-    <sub-title>Fecha 13 - Grupo A, Estadio Alberto J. Armando</sub-title>
-    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
-  </programme>
-  <programme start="20261017213000 -0500" stop="20261017220000 -0500" channel="fox2.ar">
-    <title>Leyendas del rugby</title>
-    <sub-title>Leyendas del rugby</sub-title>
-    <desc>Un programa sobre la historia y la trayectoria de los Pumas, la selección nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atravesó el equipo.</desc>
-  </programme>
-  <programme start="20261017220000 -0500" stop="20261017230000 -0500" channel="fox2.ar">
-    <title>Moving</title>
-    <sub-title>Moving</sub-title>
-    <desc>Magazine dedicado a la industria automotriz, productos, movilidad, nuevas tecnologías, industria global y gaming automotriz.</desc>
-  </programme>
-  <programme start="20261017230000 -0500" stop="20261017233000 -0500" channel="fox2.ar">
+  <programme start="20261017133000 -0500" stop="20261017160000 -0500" channel="fox2.ar">
     <title>Surf &amp; Rock</title>
     <sub-title>Surf &amp; Rock</sub-title>
     <desc>Lo mejor del surf, compartiendo una pasión a puro rock.</desc>
   </programme>
-  <programme start="20261017233000 -0500" stop="20261018013000 -0500" channel="fox2.ar">
-    <title>Ciudad Voley vs. Monteros</title>
-    <sub-title>Semifinal</sub-title>
-    <desc>Vive lo más destacado de los partidos de la Supercopa ACLAVen su edición 2026. Los amantes del deporte podrán disfrutar de una competencia nacional de vóley en la que participan Boca Jrs., Ciudad Vóley, Monteros, UPCN.</desc>
+  <programme start="20261017160000 -0500" stop="20261017163000 -0500" channel="fox2.ar">
+    <title>La vuelta</title>
+    <sub-title>La vuelta</sub-title>
+    <desc>Propone una mirada descontracturada y entretenida de todo lo que pasa en el mundo del deporte. Un trío con química, humor y timing, que combina información deportiva e invitados destacados.</desc>
   </programme>
-  <programme start="20261018013000 -0500" stop="20261018020000 -0500" channel="fox2.ar">
-    <title>Fernando Ferrara</title>
-    <sub-title>Fernando Ferrara</sub-title>
+  <programme start="20261017163000 -0500" stop="20261017170000 -0500" channel="fox2.ar">
+    <title>Paradise Extreme</title>
+    <sub-title>Paradise Extreme</sub-title>
+    <desc>Un espacio dedicado a los deportes extremos y lifestyle. El refugio de los amantes del deporte alternativo en todo el planeta. Los mejores eventos, los atletas más arriesgados y todas las novedades,</desc>
   </programme>
-  <programme start="20261018020000 -0500" stop="20261018050000 -0500" channel="fox2.ar">
-    <title>Finales masculina y femenina</title>
-    <sub-title>WTT Zagreb</sub-title>
-    <desc>Vive lo más emocionante de los partidos disputados en la parada de Croacia del torneo WTT Contender. Los mejores deportistas del mundo se enfrentan la Arena Zagreb para una competición que ofrece un premio de USD 100,000.</desc>
+  <programme start="20261017170000 -0500" stop="20261017180000 -0500" channel="fox2.ar">
+    <title>Ricardo Gareca</title>
+    <sub-title>Los elegidos</sub-title>
+    <desc>Javier Tabares conduce un espacio de entrevistas íntimas con los que hacen grande al deporte.</desc>
+  </programme>
+  <programme start="20261017180000 -0500" stop="20261017200000 -0500" channel="fox2.ar">
+    <title>Mitre vs. Boca Unidos</title>
+    <sub-title>Torneo Federal A</sub-title>
+    <desc>Vive los partidos de la decimotercera edición del certamen, perteneciente a la tercera categoría para los clubes indirectamente afiliados a la AFA, en el que participarán treinta y ocho equipos.</desc>
+  </programme>
+  <programme start="20261017200000 -0500" stop="20261017203000 -0500" channel="fox2.ar">
+    <title>Co - Piloto</title>
+    <sub-title>Co - Piloto</sub-title>
+    <desc>Juan Pablo Rossotti conduce un programa que acerca nuevas aristas del automovilismo.</desc>
+  </programme>
+  <programme start="20261017203000 -0500" stop="20261017223000 -0500" channel="fox2.ar">
+    <title>Finales Singles Femenino y Masculino</title>
+    <sub-title>WTT China Smash</sub-title>
+    <desc>Disfruta lo mejor delChina Smash 2026, un torneo de tenis de mesa que forma parte de la Serie WTT 2026. La competencia se llevó a cabo en el Parque Shougang en Beijing y tuvo un premio total de US$2,050,000.</desc>
+  </programme>
+  <programme start="20261017223000 -0500" stop="20261017230000 -0500" channel="fox2.ar">
+    <title>Leyendas del rugby</title>
+    <sub-title>Leyendas del rugby</sub-title>
+    <desc>Un programa sobre la historia y la trayectoria de los Pumas, la selección nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atravesó el equipo.</desc>
+  </programme>
+  <programme start="20261017230000 -0500" stop="20261018000000 -0500" channel="fox2.ar">
+    <title>Moving</title>
+    <sub-title>Moving</sub-title>
+    <desc>Magazine dedicado a la industria automotriz, productos, movilidad, nuevas tecnologías, industria global y gaming automotriz.</desc>
+  </programme>
+  <programme start="20261018000000 -0500" stop="20261018010000 -0500" channel="fox2.ar">
+    <title>Solo Hockey</title>
+    <sub-title>Solo Hockey</sub-title>
+    <desc>Un programa dedicado al hockey con información, análisis, invitados especiales y toda la actualidad de este deporte. Junto a Sofi Coviella, Pablo Gerosa y Luciano Cuevas, los fanáticos podrán informarse al completo sobre la actualidad.</desc>
+  </programme>
+  <programme start="20261018010000 -0500" stop="20261018020000 -0500" channel="fox2.ar">
+    <title>Sale por 3</title>
+    <sub-title>Sale por 3</sub-title>
+    <desc>Entrevistas a figuras del padel, actualidad del circuito profesional y amateur.</desc>
+  </programme>
+  <programme start="20261018020000 -0500" stop="20261018023000 -0500" channel="fox2.ar">
+    <title>Leyendas del rugby</title>
+    <sub-title>Leyendas del rugby</sub-title>
+    <desc>Un programa sobre la historia y la trayectoria de los Pumas, la selección nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atravesó el equipo.</desc>
+  </programme>
+  <programme start="20261018023000 -0500" stop="20261018030000 -0500" channel="fox2.ar">
+    <title>Leyendas del rugby</title>
+    <sub-title>Leyendas del rugby</sub-title>
+    <desc>Un programa sobre la historia y la trayectoria de los Pumas, la selección nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atravesó el equipo.</desc>
+  </programme>
+  <programme start="20261018030000 -0500" stop="20261018040000 -0500" channel="fox2.ar">
+    <title>6 horas de Imola, Fecha 1</title>
+    <sub-title>WEC</sub-title>
+    <desc>Vive lo más emocionante del Campeonato Mundial de Resistencia de la FIA edición 2026. Los amantes del deporte podrán disfrutar de una serie de carreras de autos deportivos que combina Hypercars, Le Mans Daytona h y autos LMGT3.</desc>
+  </programme>
+  <programme start="20261018040000 -0500" stop="20261018050000 -0500" channel="fox2.ar">
+    <title>Rally Pagos del Tuyú - Madariaga, Fecha 1</title>
+    <sub-title>Rally argentino</sub-title>
+    <desc>La emoción y la adrenalina lideran esta edición en la que se presentarán a los mejores corredores de automóviles, quienes desafiarán los obstáculos de la vía para alcanzar el primer lugar del podio.</desc>
   </programme>
   <programme start="20261018050000 -0500" stop="20261018060000 -0500" channel="fox2.ar">
-    <title>Show Turf</title>
-    <sub-title>Show Turf</sub-title>
-    <desc>Mira las jornadas de turf y vive toda la emoción de la competencia.</desc>
+    <title>Sale por 3</title>
+    <sub-title>Sale por 3</sub-title>
+    <desc>Entrevistas a figuras del padel, actualidad del circuito profesional y amateur.</desc>
   </programme>
   <channel id="fox3.ar">
     <display-name>FOX Sports 3 </display-name>
   </channel>
-  <programme start="20261017053000 -0500" stop="20261017070000 -0500" channel="fox3.ar">
-    <title>Marketing registrado</title>
-    <sub-title>Marketing registrado</sub-title>
-    <desc>Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
+  <programme start="20261017060000 -0500" stop="20261017063000 -0500" channel="fox3.ar">
+    <title>Red Bull Moto Spy</title>
+    <sub-title>Temporada 4 Episodio 3</sub-title>
+    <desc>La batalla por el campeonato 450 se reduce a una pelea de tres: Ken Roczen, Cooper Webb y Eli Tomac.</desc>
+  </programme>
+  <programme start="20261017063000 -0500" stop="20261017070000 -0500" channel="fox3.ar">
+    <title>Red Bull Moto Spy</title>
+    <sub-title>Temporada 4 Episodio 4</sub-title>
+    <desc>Los tres mejores competidores quieren la victoria para ellos, pero la temporada aún no ha terminado.</desc>
   </programme>
   <programme start="20261017070000 -0500" stop="20261017073000 -0500" channel="fox3.ar">
+    <title>Red Bull Moto Spy</title>
+    <sub-title>Temporada 4 Episodio 5</sub-title>
+    <desc>Un vistazo tras bambalinas a todo lo que viven los pilotos de la AMA Supercross.</desc>
+  </programme>
+  <programme start="20261017073000 -0500" stop="20261017080000 -0500" channel="fox3.ar">
+    <title>Red Bull Moto Spy</title>
+    <sub-title>Temporada 4 Episodio 6</sub-title>
+    <desc>Un vistazo tras bambalinas a todo lo que viven los pilotos de la AMA Supercross.</desc>
+  </programme>
+  <programme start="20261017080000 -0500" stop="20261017083000 -0500" channel="fox3.ar">
+    <title>Red Bull Moto Spy</title>
+    <sub-title>Temporada 4 Episodio 7</sub-title>
+    <desc>Un vistazo tras bambalinas a todo lo que viven los pilotos de la AMA Supercross.</desc>
+  </programme>
+  <programme start="20261017083000 -0500" stop="20261017093000 -0500" channel="fox3.ar">
+    <title>Lady fierros</title>
+    <sub-title>Lady fierros</sub-title>
+    <desc>Un programa que promueve el empoderamiento femenino alrededor del vehículo y la mecánica. En esta clínica de autos es una comunidad que capacita y educa, a mujeres y todos los interesados, en todo lo relacionado a la industria automotriz.</desc>
+  </programme>
+  <programme start="20261017093000 -0500" stop="20261017103000 -0500" channel="fox3.ar">
+    <title>Media cancha</title>
+    <sub-title>Media cancha</sub-title>
+    <desc>Un espacio dedicado al básquet, donde compartiremos historias, invitados de lujo, curiosidades, virales y juegos.</desc>
+  </programme>
+  <programme start="20261017103000 -0500" stop="20261017110000 -0500" channel="fox3.ar">
+    <title>Encouraged</title>
+    <sub-title>Biográfico</sub-title>
+    <desc>Courage Adams nació en Nigeria y se mudó a España de niño junto a su familia. Con tan solo 16 años se convirtió en profesional de BMX. Ya reconocido en el deporte, viaja de regreso para descubrir sus orígenes y la escena local deportiva.</desc>
+  </programme>
+  <programme start="20261017110000 -0500" stop="20261017130000 -0500" channel="fox3.ar">
+    <title>Fecha 16</title>
+    <sub-title>Sim Racer</sub-title>
+    <desc>Simracer League es la principal liga de automovilismo virtual de Latinoamérica. Pilotos y equipos compiten con realismo extremo en tres categorías: Copa YOMEL, Rookies Cup y PROCUP.</desc>
+  </programme>
+  <programme start="20261017130000 -0500" stop="20261017140000 -0500" channel="fox3.ar">
+    <title>Santiago de Chile, Chile</title>
+    <sub-title>Red Bull Soapbox Series</sub-title>
+    <desc>Disfruta de las emociones de esta competencia en la que equipos de corredores transitan difíciles circuitos lenos de obstáculos en automóviles de carreras sin motor.</desc>
+  </programme>
+  <programme start="20261017140000 -0500" stop="20261017163000 -0500" channel="fox3.ar">
+    <title>Red Bull Batalla</title>
+    <sub-title>Red Bull Batalla</sub-title>
+    <desc>Disfruta de la competencia anual de freestyle que se lleva a cabo en países de habla hispana en todo el mundo.</desc>
+  </programme>
+  <programme start="20261017163000 -0500" stop="20261017170000 -0500" channel="fox3.ar">
     <title>RB Documentary - YT Dirty Valparaiso 20th Anniversary</title>
     <sub-title>RB Documentary - YT Dirty Valparaiso 20th Anniversary</sub-title>
     <desc>Una producción que refleja refleja la importancia de la carrera de descenso urbano en Valparaíso y cómo se transformó en un ícono nacional e internacional para la bicicleta.</desc>
   </programme>
-  <programme start="20261017073000 -0500" stop="20261017083000 -0500" channel="fox3.ar">
-    <title>Media cancha</title>
-    <sub-title>Media cancha</sub-title>
-    <desc>Un espacio dedicado al básquet, donde compartiremos historias, invitados de lujo, curiosidades, virales y juegos.</desc>
-  </programme>
-  <programme start="20261017083000 -0500" stop="20261017113000 -0500" channel="fox3.ar">
-    <title>Juego 4 - Series de Campeonato</title>
-    <sub-title>MLB</sub-title>
-    <desc>Vive los partidos de la temporada 2026 de la MLB, con las emociones de la liga de béisbol más importante del mundo.</desc>
-  </programme>
-  <programme start="20261017113000 -0500" stop="20261017150000 -0500" channel="fox3.ar">
-    <title>Seattle Seahawks vs. Denver Broncos</title>
-    <sub-title>Fecha 6, Empower Field at Mile High</sub-title>
-    <desc>Vive los partidos de la edición 107º de la NFL. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos.</desc>
-  </programme>
-  <programme start="20261017150000 -0500" stop="20261017160000 -0500" channel="fox3.ar">
-    <title>Marketing registrado</title>
-    <sub-title>Marketing registrado</sub-title>
-    <desc>Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
-  </programme>
-  <programme start="20261017160000 -0500" stop="20261017170000 -0500" channel="fox3.ar">
+  <programme start="20261017170000 -0500" stop="20261017180000 -0500" channel="fox3.ar">
     <title>Circuito ROTAX</title>
     <sub-title>Circuito ROTAX</sub-title>
     <desc>Disfruta de la adrenalina de la carrera del Circuito Rotax.</desc>
   </programme>
-  <programme start="20261017170000 -0500" stop="20261017173000 -0500" channel="fox3.ar">
-    <title>Red Bull Ride to the Roots</title>
-    <sub-title>Temporada 1 Episodio 5 - Gisela Pulido</sub-title>
-    <desc>Gisela Pulido viaja por el mundo como competidora de Kite Surf a base de muchos sacrificios. Tras ganar su décimo título mundial, ha llegado el momento de volver a sus raíces.</desc>
-  </programme>
-  <programme start="20261017173000 -0500" stop="20261017193000 -0500" channel="fox3.ar">
-    <title>Boca vs. San Gregorio</title>
-    <sub-title>Fecha 10</sub-title>
-    <desc>Disfruta de los partidos disputados en el marco de la Copa Rio Uruguay Seguros 2026.</desc>
-  </programme>
-  <programme start="20261017193000 -0500" stop="20261017213000 -0500" channel="fox3.ar">
-    <title>Velez vs. River</title>
-    <sub-title>Fecha 10</sub-title>
-    <desc>Disfruta de los partidos disputados en el marco de la Copa Rio Uruguay Seguros 2026.</desc>
-  </programme>
-  <programme start="20261017213000 -0500" stop="20261017223000 -0500" channel="fox3.ar">
-    <title>Media cancha</title>
-    <sub-title>Media cancha</sub-title>
-    <desc>Un espacio dedicado al básquet, donde compartiremos historias, invitados de lujo, curiosidades, virales y juegos.</desc>
-  </programme>
-  <programme start="20261017223000 -0500" stop="20261017233000 -0500" channel="fox3.ar">
+  <programme start="20261017180000 -0500" stop="20261017190000 -0500" channel="fox3.ar">
     <title>Marketing registrado</title>
     <sub-title>Marketing registrado</sub-title>
     <desc>Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
   </programme>
-  <programme start="20261017233000 -0500" stop="20261018030000 -0500" channel="fox3.ar">
-    <title>Juego 5 - Series de Campeonato</title>
-    <sub-title>MLB</sub-title>
-    <desc>Vive los partidos de la temporada 2026 de la MLB, con las emociones de la liga de béisbol más importante del mundo.</desc>
+  <programme start="20261017190000 -0500" stop="20261017210000 -0500" channel="fox3.ar">
+    <title>Red Bull: Stratos - Mission to the Edge of Space</title>
+    <sub-title>Documental</sub-title>
+    <desc>Felix Baumgartner se convirtió en el primer hombre en romper la barrera del sonido al caer desde el borde del espacio a una increíble velocidad máxima de 1300 km/h</desc>
   </programme>
-  <programme start="20261018030000 -0500" stop="20261018040000 -0500" channel="fox3.ar">
-    <title>Media cancha</title>
-    <sub-title>Media cancha</sub-title>
-    <desc>Un espacio dedicado al básquet, donde compartiremos historias, invitados de lujo, curiosidades, virales y juegos.</desc>
+  <programme start="20261017210000 -0500" stop="20261017220000 -0500" channel="fox3.ar">
+    <title>Riding the Tatshenshini</title>
+    <sub-title>Riding the Tatshenshini</sub-title>
+    <desc>Darren Berrecloth y sus compañeros ciclistas exploraron el terreno sin explotar cerca del río Tatshenshini del Yukón, Canadá. Haciendo rafting durante 260 kilómetros con bicicletas a cuestas.</desc>
   </programme>
-  <programme start="20261018040000 -0500" stop="20261018050000 -0500" channel="fox3.ar">
-    <title>Circuito ROTAX</title>
-    <sub-title>Circuito ROTAX</sub-title>
-    <desc>Disfruta de la adrenalina de la carrera del Circuito Rotax.</desc>
+  <programme start="20261017220000 -0500" stop="20261017230000 -0500" channel="fox3.ar">
+    <title>North of Nightfall</title>
+    <sub-title>Documental</sub-title>
+    <desc>Un grupo de ciclistas de montaña de freeride emprenden una expedición a la isla Axel Heiberg del Ártico, donde descienden por las grandes líneas montañosas más largas y desafiantes jamás recorridas en este entorno que cambia rápidamente.</desc>
   </programme>
-  <programme start="20261018050000 -0500" stop="20261018053000 -0500" channel="fox3.ar">
+  <programme start="20261017230000 -0500" stop="20261017233000 -0500" channel="fox3.ar">
+    <title>RB Documentary - YT Dirty Valparaiso 20th Anniversary</title>
+    <sub-title>RB Documentary - YT Dirty Valparaiso 20th Anniversary</sub-title>
+    <desc>Una producción que refleja refleja la importancia de la carrera de descenso urbano en Valparaíso y cómo se transformó en un ícono nacional e internacional para la bicicleta.</desc>
+  </programme>
+  <programme start="20261017233000 -0500" stop="20261018020000 -0500" channel="fox3.ar">
+    <title>Red Bull Batalla</title>
+    <sub-title>Red Bull Batalla</sub-title>
+    <desc>Disfruta de la competencia anual de freestyle que se lleva a cabo en países de habla hispana en todo el mundo.</desc>
+  </programme>
+  <programme start="20261018020000 -0500" stop="20261018030000 -0500" channel="fox3.ar">
+    <title>Red Bull K2: The Impossible Descent</title>
+    <sub-title>Red Bull K2: The Impossible Descent</sub-title>
+    <desc>Nadie había demostrado todavía que fuera posible, pero un esquiador de montaña se calzó las fijaciones a una altitud de 8.611 m para hacer historia. De Polonia a Pakistán, Andrzej Bargiel desciende el K2 con esquís.</desc>
+  </programme>
+  <programme start="20261018030000 -0500" stop="20261018033000 -0500" channel="fox3.ar">
     <title>Red Bull Moto Spy</title>
     <sub-title>Temporada 4 Episodio 1</sub-title>
     <desc>Se presentan algunos talentosos pilotos de renombre, como Cooper Webb, Ken Roczen.</desc>
   </programme>
-  <programme start="20261018053000 -0500" stop="20261018063000 -0500" channel="fox3.ar">
+  <programme start="20261018033000 -0500" stop="20261018040000 -0500" channel="fox3.ar">
     <title>Red Bull Moto Spy</title>
     <sub-title>Temporada 4 Episodio 2</sub-title>
     <desc>Cooper Webb tiene una vieja rivalidad y se presenta a los pilotos emergentes de Supercross.</desc>
   </programme>
+  <programme start="20261018040000 -0500" stop="20261018050000 -0500" channel="fox3.ar">
+    <title>Red Bull Moto Spy</title>
+    <sub-title>Temporada 4 Episodio 3</sub-title>
+    <desc>La batalla por el campeonato 450 se reduce a una pelea de tres: Ken Roczen, Cooper Webb y Eli Tomac.</desc>
+  </programme>
+  <programme start="20261018050000 -0500" stop="20261018060000 -0500" channel="fox3.ar">
+    <title>Santiago de Chile, Chile</title>
+    <sub-title>Red Bull Soapbox Series</sub-title>
+    <desc>Disfruta de las emociones de esta competencia en la que equipos de corredores transitan difíciles circuitos lenos de obstáculos en automóviles de carreras sin motor.</desc>
+  </programme>
   <channel id="tnt_sports.ar">
     <display-name>TNT Sports </display-name>
   </channel>
-  <programme start="20261017043000 -0500" stop="20261017062000 -0500" channel="tnt_sports.ar">
-    <title>Lanús vs. Vélez Sarsfield</title>
-    <sub-title>Fecha 12 - Grupo A, Estadio Ciudad de Lanús – Néstor Díaz Pérez</sub-title>
-    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
-  </programme>
-  <programme start="20261017062000 -0500" stop="20261017081000 -0500" channel="tnt_sports.ar">
-    <title>Racing Club vs. Belgrano</title>
-    <sub-title>Fecha 12 - Grupo B, Estadio Juan Domingo Perón</sub-title>
-    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
-  </programme>
-  <programme start="20261017081000 -0500" stop="20261017100000 -0500" channel="tnt_sports.ar">
+  <programme start="20261017055000 -0500" stop="20261017074000 -0500" channel="tnt_sports.ar">
     <title>Huracán vs. Gimnasia (LP)</title>
     <sub-title>Fecha 13 - Grupo B, Estadio Tomás Adolfo Duco</sub-title>
     <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
   </programme>
-  <programme start="20261017100000 -0500" stop="20261017120000 -0500" channel="tnt_sports.ar">
-    <title>Pelota parada</title>
-    <sub-title>Pelota parada</sub-title>
-    <desc>Somos un equipo que sale a la cancha todos los mediodías para acercarte el análisis de cada fecha del fútbol argentino. Paramos la pelota y opinamos con criterio. Con entrevistas, móviles y columnistas.</desc>
-  </programme>
-  <programme start="20261017120000 -0500" stop="20261017133000 -0500" channel="tnt_sports.ar">
-    <title>TNT Data Sports - Primera edición</title>
-    <sub-title>TNT Data Sports - Primera edición</sub-title>
-    <desc>La mejor información del fútbol argentino, las ligas internacionales, todas los disciplinas y las primicias del mundo del deporte.</desc>
-  </programme>
-  <programme start="20261017133000 -0500" stop="20261017150000 -0500" channel="tnt_sports.ar">
-    <title>TNT Data Sports - Primera edición</title>
-    <sub-title>TNT Data Sports - Primera edición</sub-title>
-    <desc>La mejor información del fútbol argentino, las ligas internacionales, todas los disciplinas y las primicias del mundo del deporte.</desc>
-  </programme>
-  <programme start="20261017150000 -0500" stop="20261017170000 -0500" channel="tnt_sports.ar">
-    <title>TNT Fútbol</title>
-    <sub-title>TNT Fútbol</sub-title>
-    <desc>Un espacio ideal para los amantes del fútbol. Análisis detallados, entrevistas exclusivas, debate apasionado y la mejor cobertura de los partidos.</desc>
-  </programme>
-  <programme start="20261017170000 -0500" stop="20261017173000 -0500" channel="tnt_sports.ar">
-    <title>Agustina Vargas</title>
-    <sub-title>TNT Gol fem</sub-title>
-    <desc>Ángela conversa con futbolistas de diversos clubes, explorando sus trayectorias, desafíos y sueños. Estas entrevistas ofrecen una visión íntima del recorrido de las jugadoras, desde sus inicios hasta su consolidación en el profesionalismo.</desc>
-  </programme>
-  <programme start="20261017173000 -0500" stop="20261017180000 -0500" channel="tnt_sports.ar">
-    <title>Semifinal - Ida</title>
-    <sub-title>El show de la Copa Libertadores</sub-title>
-    <desc>El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente.</desc>
-  </programme>
-  <programme start="20261017180000 -0500" stop="20261017183000 -0500" channel="tnt_sports.ar">
-    <title>Talleres</title>
-    <sub-title>Pensiones</sub-title>
-    <desc>Ángela Lerena revela la vida de los jugadores y jugadoras de fútbol en las pensiones, mostrando sus desafíos diarios, convivencia, y las historias detrás del fútbol profesional.</desc>
-  </programme>
-  <programme start="20261017183000 -0500" stop="20261017190000 -0500" channel="tnt_sports.ar">
-    <title>Semifinal - Ida</title>
-    <sub-title>Magazine CONMEBOL Sudamericana</sub-title>
-    <desc>Mira todos los detalles sobre los partidos de fútbol que son parte de la CONMEBOL Sudamericana 2026.</desc>
-  </programme>
-  <programme start="20261017190000 -0500" stop="20261017191500 -0500" channel="tnt_sports.ar">
-    <title>Match Day: Previa</title>
-    <sub-title>Match Day: Previa</sub-title>
-    <desc>Cada fin de semana TNT Sports pone en pantalla al mejor equipo periodístico. para realizar una cobertura multiplataforma desde los estadios y las concentraciones bajo el formato Matchday, a lo largo de la previa y el post partido.</desc>
-  </programme>
-  <programme start="20261017191500 -0500" stop="20261017213000 -0500" channel="tnt_sports.ar">
-    <title>Boca Jrs. vs. Talleres (Cba.)</title>
-    <sub-title>Fecha 13 - Grupo A, Estadio Alberto J. Armando</sub-title>
-    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
-  </programme>
-  <programme start="20261017213000 -0500" stop="20261017220000 -0500" channel="tnt_sports.ar">
-    <title>Match Day: Post partido</title>
-    <sub-title>Match Day: Post partido</sub-title>
-    <desc>Cada fin de semana TNT Sports pone en pantalla al mejor equipo periodístico. para realizar una cobertura multiplataforma desde los estadios y las concentraciones bajo el formato Matchday, a lo largo de la previa y el post partido.</desc>
-  </programme>
-  <programme start="20261017220000 -0500" stop="20261017230000 -0500" channel="tnt_sports.ar">
-    <title>TNT Data Sports - Segunda edición</title>
-    <sub-title>TNT Data Sports - Segunda edición</sub-title>
-    <desc>El más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo, con el foco puesto en las estadísticas y con datos que permiten comprender los hechos.</desc>
-  </programme>
-  <programme start="20261017230000 -0500" stop="20261018013000 -0500" channel="tnt_sports.ar">
-    <title>Oklahoma City Thunder vs. San Antonio Spurs</title>
-    <sub-title>Temporada regular, Frost Bank Center</sub-title>
-    <desc>Vive los partidos de la 81º temporada de la NBA, la competición norteamericana de baloncesto que reúne a los basquetbolistas más talentosos del mundo.</desc>
-  </programme>
-  <programme start="20261018013000 -0500" stop="20261018033000 -0500" channel="tnt_sports.ar">
+  <programme start="20261017074000 -0500" stop="20261017093000 -0500" channel="tnt_sports.ar">
     <title>Def. y Justicia vs. Instituto</title>
     <sub-title>Fecha 13 - Grupo A, Estadio Norberto "Tito" Tomaghello</sub-title>
     <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
   </programme>
-  <programme start="20261018033000 -0500" stop="20261018040000 -0500" channel="tnt_sports.ar">
-    <title>FIFA World Cup Unseen</title>
-    <sub-title>FIFA World Cup Unseen</sub-title>
-    <desc>Una mirada inédita al Mundial 2026, con imágenes exclusivas, momentos detrás de escena y todo lo que no se vio durante la competencia.</desc>
-  </programme>
-  <programme start="20261018040000 -0500" stop="20261018055000 -0500" channel="tnt_sports.ar">
+  <programme start="20261017093000 -0500" stop="20261017112000 -0500" channel="tnt_sports.ar">
     <title>Boca Jrs. vs. Talleres (Cba.)</title>
     <sub-title>Fecha 13 - Grupo A, Estadio Alberto J. Armando</sub-title>
     <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
   </programme>
-  <programme start="20261018055000 -0500" stop="20261018065000 -0500" channel="tnt_sports.ar">
-    <title>Huracán vs. Gimnasia (LP)</title>
-    <sub-title>Fecha 13 - Grupo B, Estadio Tomás Adolfo Duco</sub-title>
+  <programme start="20261017112000 -0500" stop="20261017121500 -0500" channel="tnt_sports.ar">
+    <title>Nicolás Diez</title>
+    <sub-title>Pasó por TNT Sports</sub-title>
+    <desc>Un espacio donde revivimos las entrevistas más destacadas con los protagonistas del deporte y donde repasamos momentos emblemáticos de esta pasión.</desc>
+  </programme>
+  <programme start="20261017121500 -0500" stop="20261017124500 -0500" channel="tnt_sports.ar">
+    <title>Match Day: Previa</title>
+    <sub-title>Match Day: Previa</sub-title>
+    <desc>Cada fin de semana TNT Sports pone en pantalla al mejor equipo periodístico. para realizar una cobertura multiplataforma desde los estadios y las concentraciones bajo el formato Matchday, a lo largo de la previa y el post partido.</desc>
+  </programme>
+  <programme start="20261017124500 -0500" stop="20261017150000 -0500" channel="tnt_sports.ar">
+    <title>Banfield vs. Argentinos Jrs.</title>
+    <sub-title>Fecha 13 - Grupo B, Estadio Florencio Sola</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261017150000 -0500" stop="20261017151500 -0500" channel="tnt_sports.ar">
+    <title>Match Day: Previa</title>
+    <sub-title>Match Day: Previa</sub-title>
+    <desc>Cada fin de semana TNT Sports pone en pantalla al mejor equipo periodístico. para realizar una cobertura multiplataforma desde los estadios y las concentraciones bajo el formato Matchday, a lo largo de la previa y el post partido.</desc>
+  </programme>
+  <programme start="20261017151500 -0500" stop="20261017173000 -0500" channel="tnt_sports.ar">
+    <title>Ind. Rivadavia vs. Tigre</title>
+    <sub-title>Fecha 13 - Grupo B, Estadio Juan Bautista Gargantini</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261017173000 -0500" stop="20261017174500 -0500" channel="tnt_sports.ar">
+    <title>Match Day: Previa</title>
+    <sub-title>Match Day: Previa</sub-title>
+    <desc>Cada fin de semana TNT Sports pone en pantalla al mejor equipo periodístico. para realizar una cobertura multiplataforma desde los estadios y las concentraciones bajo el formato Matchday, a lo largo de la previa y el post partido.</desc>
+  </programme>
+  <programme start="20261017174500 -0500" stop="20261017200000 -0500" channel="tnt_sports.ar">
+    <title>Vélez Sarsfield vs. Gimnasia y Esgrima (M)</title>
+    <sub-title>Fecha 13 - Grupo A, Estadio José Amalfitani</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261017200000 -0500" stop="20261017203000 -0500" channel="tnt_sports.ar">
+    <title>Match Day: Post partido</title>
+    <sub-title>Match Day: Post partido</sub-title>
+    <desc>Cada fin de semana TNT Sports pone en pantalla al mejor equipo periodístico. para realizar una cobertura multiplataforma desde los estadios y las concentraciones bajo el formato Matchday, a lo largo de la previa y el post partido.</desc>
+  </programme>
+  <programme start="20261017203000 -0500" stop="20261017222000 -0500" channel="tnt_sports.ar">
+    <title>Boca Jrs. vs. Talleres (Cba.)</title>
+    <sub-title>Fecha 13 - Grupo A, Estadio Alberto J. Armando</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261017222000 -0500" stop="20261018001000 -0500" channel="tnt_sports.ar">
+    <title>Atl. Tucumán vs. Rosario Central</title>
+    <sub-title>Fecha 13 - Grupo B, Estadio Monumental Jose Fierro</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261018001000 -0500" stop="20261018020000 -0500" channel="tnt_sports.ar">
+    <title>Platense vs. Lanús</title>
+    <sub-title>Fecha 13 - Grupo A, Estadio Ciudad de Vicente López</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261018020000 -0500" stop="20261018040000 -0500" channel="tnt_sports.ar">
+    <title>Banfield vs. Argentinos Jrs.</title>
+    <sub-title>Fecha 13 - Grupo B, Estadio Florencio Sola</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261018040000 -0500" stop="20261018043000 -0500" channel="tnt_sports.ar">
+    <title>Banfield</title>
+    <sub-title>Pensiones</sub-title>
+    <desc>Ángela Lerena revela la vida de los jugadores y jugadoras de fútbol en las pensiones, mostrando sus desafíos diarios, convivencia, y las historias detrás del fútbol profesional.</desc>
+  </programme>
+  <programme start="20261018043000 -0500" stop="20261018053000 -0500" channel="tnt_sports.ar">
+    <title>Ind. Rivadavia vs. Tigre</title>
+    <sub-title>Fecha 13 - Grupo B, Estadio Juan Bautista Gargantini</sub-title>
     <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
   </programme>
   <channel id="dsports1.ec">
