@@ -32,7 +32,7 @@ http://181.78.12.119:16123/play/ch20/index.m3u8
 
 #EXTINF:-1 tvg-id="espn.premium" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes",ESPN Premium
 #EXTVLCOPT:http-reconnect=true
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/408.m3u8
 
 #EXTINF:-1 tvg-id="dsports1.ec" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes",DSports 1
 http://181.209.80.115:8000/play/dsports_hd
@@ -58,14 +58,6 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1143.m3u8
 
 #EXTINF:-1 tvg-id="tnt_sports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/TNT_Sports_%282023%29.svg/revision/latest?cb=20230407001905" group-title="Deportes",TNT  Sports
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/934.m3u8
-
-#EXTINF:-1 tvg-id="DAZN1.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-1-es.png?raw=true" group-title="Deportes",DAZN 1
-#EXTVLCOPT:network-caching=1000
-http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="DAZNF1.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true" group-title="Deportes",DAZN F1
-#EXTVLCOPT:network-caching=1000
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/408.m3u8
 
 #EXTINF:-1 tvg-id="cartoon-network.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Infantil",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -107,7 +99,11 @@ http://205.235.6.29:8000/play/a0yg/index.m3u8?hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://205.235.6.29:8000/play/a0yh/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="las_estrellas.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/RTSEcuador2007.svg/revision/latest?cb=20260206022553&path-prefix=es" group-title="Ecuador",Las Estrellas
+#EXTINF:-1 tvg-id="rts" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/RTSEcuador2007.svg/revision/latest?cb=20260206022553&path-prefix=es" group-title="Ecuador",RTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://205.235.6.29:8000/play/a0z0/index.m3u8?hls
+http://205.235.6.29:8000/play/a0yi/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="las_estrellas.ec" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/las-estrellas-mx.png" group-title="Novelas",Las Estrellas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/118.m3u8
 
