@@ -132,7 +132,17 @@ const canales = [
     { id: 'disney_channel.ec',  nombre: 'Disney Channel',  idFuente: 'Canal.Disney.Channel.(Ecuador).ec' },
     { id: 'disney_junior.ec',   nombre: 'Disney Junior',   idFuente: 'Canal.Disney.Junior.(Ecuador).ec' },
     { id: 'discovery_kids.ec',  nombre: 'Discovery Kids',  idFuente: 'Canal.Discovery.Kids.(Ecuador).ec' },
-    { id: 'tc_television',      nombre: 'TC Television',   idFuente: 'Canal.TC.Televisión.ec' }
+    { id: 'tc_television',      nombre: 'TC Television',   idFuente: 'Canal.TC.Televisión.ec' },
+
+    // ---------- Antes venían de gatotv con la hora corrida en GitHub Actions ----------
+    // CO1 está en UTC-5 (igual que Ecuador); AR1 trae su propio offset y el scraper lo convierte.
+    { id: 'espn.ar',        nombre: 'ESPN Argentina', tag: 'AR1', idFuente: 'Canal.ESPN.(Argentina).ar' },
+    { id: 'espn5.ec',       nombre: 'ESPN 5',         tag: 'CO1', idFuente: 'ESPN.5.co' },
+    { id: 'espn6.ec',       nombre: 'ESPN 6',         tag: 'CO1', idFuente: 'ESPN.6.HD.co' },
+    { id: 'espn7.ec',       nombre: 'ESPN 7',         tag: 'CO1', idFuente: 'ESPN.7.HD.co' },
+    { id: 'espn.co',        nombre: 'ESPN co',        tag: 'CO1', idFuente: 'ESPN.co' },
+    { id: 'cartoonito.ec',  nombre: 'Cartoonito',     tag: 'CO1', idFuente: 'CARTOONITO.co' },
+    { id: 'tyc_sports.ar',  nombre: 'TyC Sports',     tag: 'AR1', idFuente: 'Canal.TyC.Sports.ar' }
 ];
 
 module.exports = { TAG, canales };
